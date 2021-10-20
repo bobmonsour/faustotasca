@@ -1,7 +1,7 @@
 {
   "name": "faustotasca_11ty",
   "version": "1.0.0",
-  "description": "This is a base set of files needed to start a project in Eleventy. Make a project directory and put these files in it.",
+  "description": "This is the 11ty project for generating the faustotasca.com website.",
   "main": ".eleventy.js",
   "scripts": {
     "watch:eleventy": "npx @11ty/eleventy --serve",
