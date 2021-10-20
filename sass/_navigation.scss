@@ -1,0 +1,44 @@
+/* Main Navigation */
+
+#checkbox-toggle, #btn-menu {
+  display: none;
+}
+
+nav {
+  margin: 20px auto 0 auto;
+  background-color: $nav-background;
+
+  ul {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 0px;
+    text-align: center;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  ul li:first-child {
+    grid-row-start: 1;
+    grid-row-end: span 2;
+    align-self: center;
+  }
+
+  a {
+  display: inline-block;
+  padding: 10px 3px;
+  font-size: .9rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: $body-text;
+
+    &:hover, &:active {
+      color: $headline-color;
+    }
+
+    &.current {
+      color: $headline-color;
+    }
+  }
+}

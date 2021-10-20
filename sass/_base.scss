@@ -1,0 +1,170 @@
+// Reset relevant styles
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// Primary areas
+body {
+  font-family: $body-font;
+  background-color: $body-background;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: $max-width;
+}
+
+main, header, footer {
+  margin: 0 100px;
+}
+
+main {
+  background-color: $main-background;
+}
+
+main a {
+  text-decoration: none;
+  color: $headline-color;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+// Page-specific layouts
+
+// Home page - index.html
+.container-home {
+  img {
+    display: block;
+    margin: 30px auto;
+  }
+  // margin: 30px 0;
+  // display: flex;
+  // flex-wrap: wrap;
+  // justify-content: center;
+  // align-items: center;
+
+  // img + p {
+  //   font-size: .9rem;
+  //   font-style: italic;
+  // }
+}
+
+.home-text {
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  column-gap: 5px;
+
+  .home-caption {
+    font-size: .8rem;
+    font-style: italic;
+    letter-spacing: 0;
+  }
+}
+
+// Gallery pages
+
+.main-slider-container {
+  margin: 20px 20px 0 20px;
+}
+
+.main-slider-caption {
+  padding: 20px 0 30px 0;
+  text-align: center;
+  font-style: italic;
+  color: $body-text;
+  line-height: 1.5;
+}
+
+#image-slider-list {
+  text-align: center;
+  .splide__slide {
+      display: inline-block;
+  }
+}
+
+.splide__slide {
+  width: 100%;
+  opacity: 0.3;
+}
+
+.splide__slide.is-active {
+  opacity: 1;
+}
+
+// Override ***STUPID*** border around the image slider as called for in splide.min.css
+
+.splide--nav>.splide__slider>.splide__track>.splide__list>.splide__slide.is-active,.splide--nav>.splide__track>.splide__list>.splide__slide.is-active{ border: 0 }
+
+// Footer
+footer {
+  padding: 25px;
+  background-color: $main-background;
+}
+
+footer p {
+  font-size: .9rem;
+  padding: 5px 0;
+  text-align: center;
+  font-style: italic;
+}
+
+// Headings and paragraphs
+h1 {
+  font-family: $fbt-font;
+  font-weight: 400;
+  font-size: 1.6rem;
+  padding: 40px 0 20px 0;
+  text-transform: uppercase;
+  text-align: center;
+  color: $headline-color;
+  letter-spacing: 5px;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: 100;
+  padding: 0 0 10px 0;
+  text-transform: uppercase;
+  text-align: center;
+  color: $body-text;
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: normal;
+  padding: 10px 0 0 50px;
+  text-transform: uppercase;
+  color: $body-text;
+  letter-spacing: 2px;
+}
+
+h4 {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: normal;
+  padding: 10px 0 0 50px;
+  text-transform: uppercase;
+  text-align: left;
+  color: $body-text;
+  letter-spacing: 2px;
+}
+
+p {
+  font-size: 1.1rem;
+  font-weight: 100;
+  padding: 15px 50px;
+  color: $body-text;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}

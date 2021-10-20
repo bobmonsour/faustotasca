@@ -1,0 +1,8 @@
+{% for item in galleries[page.fileSlug] %}
+	<li class="splide__slide">
+		<img src="/images/{{ page.fileSlug }}/{{ item.filename }}" alt="{{ item.caption }}">
+		<div class="main-slider-caption">
+			{{ item.caption | safe }}
+		</div>
+	</li>
+{% endfor %}

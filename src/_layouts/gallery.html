@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{{ content | safe }}
+<div class="main-slider-container">
+	<div id="image-slider" class="splide">
+		<div class="splide__track">
+			<ul class="splide__list">
+				{% include 'gallery.njk' %}
+			</ul>
+		</div>
+	</div>
+</div>

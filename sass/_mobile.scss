@@ -1,0 +1,78 @@
+@media screen and (max-width: 1024px) {
+  body {
+    background: $main-background;
+  }
+
+  main, footer {
+    margin: 0;
+  }  
+
+  header {
+    margin: 0 30px;
+  }
+
+  h1 {
+    padding: 0 0 20px 0;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+  }
+
+  h2 {
+    font-size: 1rem;
+  }
+
+  h3 {
+    padding: 10px 15px 0 30px;
+    font-size: .9rem;
+  }
+
+  h4 {
+    font-size: .8rem;
+    padding-left: 30px;
+  }
+
+  #btn-menu {
+    display: block;
+    width: 65px;
+    padding: 3px 0;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    color: $body-text;
+    text-align: center;
+  }
+  
+  nav {  
+    background: $main-background;
+
+    ul {
+      display: none;
+      width: 250px;
+      margin: 0 auto 30px auto;
+    }
+
+    a {
+      display: block;
+      padding: 10px;
+    }
+  }
+
+  input[type=checkbox]{
+    display: none;
+  }
+
+  input[type=checkbox]:checked ~ nav > ul {
+    display: block;
+  }
+
+  p {
+    font-size: 1rem;
+    padding: 10px 30px;
+    color: $body-text;
+    letter-spacing: 1px;
+  }
+
+  .splide__slide img {
+    width: 80%;
+  }
+  
+}

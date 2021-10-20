@@ -1,0 +1,11 @@
+<header>
+  <input type="checkbox" id="checkbox-toggle">
+  <label for="checkbox-toggle" id="btn-menu">MENU</label>
+  <nav>
+    <ul>
+    {% for link in site.mainNavLinks %}
+      <li><a href="{{ link.url }}"{% if page.url == link.url %} aria-current="page" class="current"{% endif %}>{{ link.text }}</a></li>
+    {% endfor %}
+    </ul>
+  </nav>
+</header>
