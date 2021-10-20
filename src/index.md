@@ -15,3 +15,5 @@ permalink: "/"
 
 <p class="home-caption">Fausto Bellino Tasca<br />Self-portrait as a young man<br />oil on canvas, circa 1905</p>
 </div>
+
+<!-- stuff -->
