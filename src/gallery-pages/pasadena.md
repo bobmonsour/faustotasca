@@ -14,4 +14,4 @@ Tasca also decorated the foyer, painting it from floor to ceiling. The lower por
 
 Unfortunately, the walls of the foyer were badly damaged in the late 1970s when they were covered with wallpaper. Although they have been “restored”, they now show little of their former finesse.
 
-If you have photographs of the narthex of St Andrew’s shot prior to the renovation of the mid-1970s, please contact [tascafineart@gmail.com](mailto:tascafineart@gmail.com).
+If you have photographs of the narthex of St Andrew’s shot prior to the renovation of the mid&#8211;1970s, please contact [tascafineart@gmail.com](mailto:tascafineart@gmail.com).

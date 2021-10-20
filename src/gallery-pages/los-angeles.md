@@ -12,6 +12,6 @@ Tasca received a significant commission to decorate the interior of the Citizen�
 
 For the Citizen’s National commission, Tasca painted all his work on canvas and applied the canvas to the walls using a special glue he had developed. This method permitted him to complete his painting in the relative comfort of his studio, and then install the works after they were complete. This method also gave him the advantage of being able to remove the paintings in the case the building was later renovated or demolished.
 
-The bank building, formerly located at 736 South Hill Street in Los Angeles, was demolished in the mid-1970s to make way for a parking lot. Fausto Tasca’s paintings were all removed by an art lover, and have since been recovered by the Tasca family.
+The bank building, formerly located at 736 South Hill Street in Los Angeles, was demolished in the mid&#8211;1970s to make way for a parking lot. Fausto Tasca’s paintings were all removed by an art lover, and have since been recovered by the Tasca family.
 
 For more information regarding Tasca's other commissions in Southern California see <a href="http://www.tascafineart.com/https/sandra-tasca-r04psquarespacecom/config/pages" target="_blank">this page at tascafineart.com</a>.

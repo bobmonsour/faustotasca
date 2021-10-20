@@ -27,10 +27,12 @@ nav {
 
   a {
   display: inline-block;
-  padding: 10px 3px;
+  padding: 5px 3px;
   font-size: .9rem;
+  font-weight: 300;
+  letter-spacing: 2px;
   text-decoration: none;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   color: $body-text;
 
     &:hover, &:active {

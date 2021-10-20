@@ -5,7 +5,7 @@ description: Fausto Tasca first studied art formally at a special school of desi
 
 ## Early Years
 
-Art academy studies in Bassano and Venice, 1905 to 1913
+Art academy studies in Bassano and Venice, 1905&#8211;1913
 
 Fausto Tasca first studied art formally at a special school of design in the nearby town of Bassano del Grappa. A local benefactor, recognizing Tasca’s talent, sponsored these studies.
 

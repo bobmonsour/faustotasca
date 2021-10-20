@@ -45,7 +45,7 @@ header {
 .container-home {
   img {
     display: block;
-    margin: 30px auto;
+    margin: 25px auto 55px auto;
   }
   // margin: 30px 0;
   // display: flex;
@@ -61,13 +61,18 @@ header {
 
 .home-text {
   display: grid;
-  grid-template-columns: 5fr 2fr;
-  column-gap: 5px;
+  grid-template-columns: 7fr 3fr;
+  column-gap: 0;
 
   .home-caption {
-    font-size: .8rem;
+    padding-left: 45px;
+    font-size: .85rem;
     font-style: italic;
     letter-spacing: 0;
+  }
+
+  p {
+    padding: 20px 0 0 55px;
   }
 }
 
@@ -107,12 +112,14 @@ header {
 
 // Footer
 footer {
-  padding: 25px;
+  padding: 200px;
+  font-size: .8rem;
   background-color: $main-background;
 }
 
 footer p {
-  font-size: .9rem;
+  font-size: .8rem;
+  color: $footer-text-color;
   padding: 5px 0;
   text-align: center;
   font-style: italic;
@@ -123,7 +130,7 @@ h1 {
   font-family: $fbt-font;
   font-weight: 400;
   font-size: 1.6rem;
-  padding: 40px 0 20px 0;
+  padding: 80px 0 10px 0;
   text-transform: uppercase;
   text-align: center;
   color: $headline-color;
@@ -150,10 +157,11 @@ h3 {
 }
 
 h4 {
+  font-family: $fbt-font;
   display: block;
   font-size: 1.2rem;
   font-weight: normal;
-  padding: 10px 0 0 50px;
+  padding: 10px 0 0 55px;
   text-transform: uppercase;
   text-align: left;
   color: $body-text;
@@ -161,7 +169,7 @@ h4 {
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 100;
   padding: 15px 50px;
   color: $body-text;

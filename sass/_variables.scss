@@ -1,13 +1,27 @@
-$body-background: rgba(22, 23, 23, 1);
+// NEW COLORS
+$body-background: #c4bbaf;
 $body-font: 'Roboto', sans-serif;
-$body-text: #c4bbaf;
+$body-text: #000;
 
-$nav-background: rgba(81, 83, 82, 1);
+$nav-background: #c4bbaf;
 
-$main-background: rgba(45, 47, 46, 1);
+$main-background: #c4bbaf;
 
 $fbt-font: 'Cardo', serif;
 $headline-color: #A11826;
-// $headline-color: #ff5200;
 
-$max-width: 1400px;
+$footer-text-color: brown;
+
+// FORMER COLORS
+// $body-background: rgba(22, 23, 23, 1);
+// $body-font: 'Roboto', sans-serif;
+// $body-text: #c4bbaf;
+
+// $nav-background: rgba(81, 83, 82, 1);
+
+// $main-background: rgba(45, 47, 46, 1);
+
+// $fbt-font: 'Cardo', serif;
+// $headline-color: #A11826;
+
+$max-width: 1200px;
