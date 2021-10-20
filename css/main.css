@@ -1,0 +1,263 @@
+/* Main Navigation */
+#checkbox-toggle, #btn-menu {
+  display: none;
+}
+
+nav {
+  margin: 20px auto 0 auto;
+  background-color: #515352;
+}
+nav ul {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 0px;
+  text-align: center;
+}
+nav li {
+  list-style: none;
+}
+nav ul li:first-child {
+  grid-row-start: 1;
+  grid-row-end: span 2;
+  align-self: center;
+}
+nav a {
+  display: inline-block;
+  padding: 10px 3px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #c4bbaf;
+}
+nav a:hover, nav a:active {
+  color: #A11826;
+}
+nav a.current {
+  color: #A11826;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #161717;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+main, header, footer {
+  margin: 0 100px;
+}
+
+main {
+  background-color: #2d2f2e;
+}
+
+main a {
+  text-decoration: none;
+  color: #A11826;
+}
+main a:hover {
+  text-decoration: underline;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.container-home img {
+  display: block;
+  margin: 30px auto;
+}
+
+.home-text {
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  column-gap: 5px;
+}
+.home-text .home-caption {
+  font-size: 0.8rem;
+  font-style: italic;
+  letter-spacing: 0;
+}
+
+.main-slider-container {
+  margin: 20px 20px 0 20px;
+}
+
+.main-slider-caption {
+  padding: 20px 0 30px 0;
+  text-align: center;
+  font-style: italic;
+  color: #c4bbaf;
+  line-height: 1.5;
+}
+
+#image-slider-list {
+  text-align: center;
+}
+#image-slider-list .splide__slide {
+  display: inline-block;
+}
+
+.splide__slide {
+  width: 100%;
+  opacity: 0.3;
+}
+
+.splide__slide.is-active {
+  opacity: 1;
+}
+
+.splide--nav > .splide__slider > .splide__track > .splide__list > .splide__slide.is-active, .splide--nav > .splide__track > .splide__list > .splide__slide.is-active {
+  border: 0;
+}
+
+footer {
+  padding: 25px;
+  background-color: #2d2f2e;
+}
+
+footer p {
+  font-size: 0.9rem;
+  padding: 5px 0;
+  text-align: center;
+  font-style: italic;
+}
+
+h1 {
+  font-family: "Cardo", serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  padding: 40px 0 20px 0;
+  text-transform: uppercase;
+  text-align: center;
+  color: #A11826;
+  letter-spacing: 5px;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: 100;
+  padding: 0 0 10px 0;
+  text-transform: uppercase;
+  text-align: center;
+  color: #c4bbaf;
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: normal;
+  padding: 10px 0 0 50px;
+  text-transform: uppercase;
+  color: #c4bbaf;
+  letter-spacing: 2px;
+}
+
+h4 {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: normal;
+  padding: 10px 0 0 50px;
+  text-transform: uppercase;
+  text-align: left;
+  color: #c4bbaf;
+  letter-spacing: 2px;
+}
+
+p {
+  font-size: 1.1rem;
+  font-weight: 100;
+  padding: 15px 50px;
+  color: #c4bbaf;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1024px) {
+  body {
+    background: #2d2f2e;
+  }
+
+  main, footer {
+    margin: 0;
+  }
+
+  header {
+    margin: 0 30px;
+  }
+
+  h1 {
+    padding: 0 0 20px 0;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+  }
+
+  h2 {
+    font-size: 1rem;
+  }
+
+  h3 {
+    padding: 10px 15px 0 30px;
+    font-size: 0.9rem;
+  }
+
+  h4 {
+    font-size: 0.8rem;
+    padding-left: 30px;
+  }
+
+  #btn-menu {
+    display: block;
+    width: 65px;
+    padding: 3px 0;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    color: #c4bbaf;
+    text-align: center;
+  }
+
+  nav {
+    background: #2d2f2e;
+  }
+  nav ul {
+    display: none;
+    width: 250px;
+    margin: 0 auto 30px auto;
+  }
+  nav a {
+    display: block;
+    padding: 10px;
+  }
+
+  input[type=checkbox] {
+    display: none;
+  }
+
+  input[type=checkbox]:checked ~ nav > ul {
+    display: block;
+  }
+
+  p {
+    font-size: 1rem;
+    padding: 10px 30px;
+    color: #c4bbaf;
+    letter-spacing: 1px;
+  }
+
+  .splide__slide img {
+    width: 80%;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

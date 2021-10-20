@@ -5,7 +5,7 @@
   "main": ".eleventy.js",
   "scripts": {
     "watch:eleventy": "npx @11ty/eleventy --serve",
-    "watch:sass": "npx sass sass:_site/css --watch",
+    "watch:sass": "npx sass sass:css --watch",
     "start": "npm run watch:eleventy & npm run watch:sass"
   },
   "keywords": [],
