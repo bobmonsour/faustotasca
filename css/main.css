@@ -5,7 +5,7 @@
 
 nav {
   margin: 20px auto 0 auto;
-  background-color: #c4bbaf;
+  background-color: #e1ddd6;
 }
 nav ul {
   display: grid;
@@ -45,7 +45,7 @@ nav a.current {
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #c4bbaf;
+  background-color: #e1ddd6;
 }
 
 .container {
@@ -58,7 +58,7 @@ main, header, footer {
 }
 
 main {
-  background-color: #c4bbaf;
+  background-color: #e1ddd6;
 }
 
 main a {
@@ -130,7 +130,7 @@ header {
 footer {
   padding: 200px;
   font-size: 0.8rem;
-  background-color: #c4bbaf;
+  background-color: #e1ddd6;
 }
 
 footer p {
@@ -194,7 +194,7 @@ p {
 
 @media screen and (max-width: 1024px) {
   body {
-    background: #c4bbaf;
+    background: #e1ddd6;
   }
 
   main, footer {
@@ -236,7 +236,7 @@ p {
   }
 
   nav {
-    background: #c4bbaf;
+    background: #e1ddd6;
   }
   nav ul {
     display: none;
