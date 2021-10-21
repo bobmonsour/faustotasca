@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Copy the css/images/js/data to their respective _site dirs
-  // eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("js");
   // eleventyConfig.addPassthroughCopy("_data");
