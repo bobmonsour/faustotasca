@@ -5,10 +5,41 @@
 
   main, footer {
     margin: 0;
-  }  
+  }
 
   header {
     margin: 0 30px;
+  }
+
+  footer {
+    width: 100%;
+    padding: 100px 0;
+
+    p {
+      font-size: .6rem;
+    }
+  }
+
+  .container-home {
+    img {
+      width: 350px;
+      margin: 0 auto;
+    }
+  }
+
+  .home-text {
+    display: block;
+    padding-right: 20px;
+    margin-left: -25px;
+
+    .home-caption {
+      padding-left: 55px;
+    }
+
+    .home-caption::before {
+      content: "Photo above:";
+      display: block;
+    }
   }
 
   h1 {
@@ -36,12 +67,13 @@
     width: 65px;
     padding: 3px 0;
     margin-top: 20px;
+    margin-left: -5px;
     letter-spacing: 2px;
     color: $body-text;
     text-align: center;
   }
-  
-  nav {  
+
+  nav {
     background: $main-background;
 
     ul {
@@ -74,5 +106,5 @@
   .splide__slide img {
     width: 80%;
   }
-  
+
 }
