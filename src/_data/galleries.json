@@ -1,319 +1,315 @@
 {
-  "early-years": [ 
-    { 
+  "early-years": [
+    {
       "filename": "bdg-scuola-festiva-1901-02.jpg",
       "caption": "Silver Medal<br />School of Design, Bassano del Grappa<br />Scholastic year 1901-1902"
     },
-    { 
+    {
       "filename": "bdg-scuola-1902-03.jpg",
       "caption": "Bronze Medal<br />School of Design, Bassano del Grappa<br />Scholastic year 1902-1903<br />Collection of the Tasca Estate"
     },
-    { 
+    {
       "filename": "iba-premio-1904-05.jpg",
       "caption": "First Year Exam Results<br />Award with Medal for Preparatory Course<br />Royal Institute of Fine Arts, Venice<br />1904-1905<br />Collection of the Tasca Estate"
     },
-    { 
+    {
       "filename": "ibda-dip-hm-1905-06.jpg",
       "caption": "Exam Results, First Year Students<br />Honorable Mention for Landscape and Seascape<br />Royal Institute of Fine Arts, Venice<br />1905-1906<br />Collection of the Tasca Estate"
     },
-    { 
+    {
       "filename": "angelo-and-luigia-tasca.jpg",
       "caption": "Family of Angelo Tasca and Luigia Battagin<br />standing: Luigi, Antonio, Elisabetta<br />seated: Erminia, Antonio, Luigia, Fausto<br />Photograph, October 12, 1908"
     },
-    { 
+    {
       "filename": "fbt-self-portrait.jpg",
       "caption": "Self-Portrait as a Young Man<br />oil on canvas<br />1905-1906<br />Collection of Fausto Tasca, Veneto"
     }
   ],
 
-  "early-portfolio": [ 
-    { 
+  "early-portfolio": [
+    {
       "filename": "chalk-landscape.jpg",
       "caption": "Landscape Study, 1904-1907, conte crayon on color paper<br />Collection of the Tasca Estate"
     },
-    { 
-      "filename": "graphite-sketch-emperor.jpg",
-      "caption": "Roman Bust #1, 1904-1906, graphite on paper<br />Collection of the Tasca Estate"
-    },
-    { 
-      "filename": "graphite-sketch.jpg",
-      "caption": "Roman Bust #2, 1904-1906, graphite on paper<br />Collection of the Tasca Estate"
-     },
-     { 
-      "filename": "flower-frieze.png",
-      "caption": "Flower Frieze Study, 1904-1906, graphite on paper<br />Collection of the Tasca Estate"
-    },
-    { 
-      "filename": "study-of-hands.png",
-      "caption": "Hands Study, 1904-1906, ink on paper<br />Collection of the Tasca Estate"
-     },
-     { 
-      "filename": "watercolor-angel.jpg",
-      "caption": "Angel after Rafaello, 1920, watercolor on paper<br />Collection of the Tasca Estate"
-    },
-    { 
+    {
       "filename": "fireplace-venice.png",
       "caption": "Fireplace Palazzo Ducale, Venice, 1904-1906, water color on paper<br />Collection of the Tasca Estate"
     },
-    { 
+    {
       "filename": "statue-study.jpg",
       "caption": "Still LIfe with Plaster Statue, 1907, watercolor on paper<br />Collection of the Tasca Estate"
     },
-    { 
-      "filename": "venice-guidecca.png",
-      "caption": "Venice, 1904-1906, oil on panel<br />Collection of the Tasca Estate"
+    {
+      "filename": "study-of-hands.png",
+      "caption": "Hands Study, 1904-1906, ink on paper<br />Collection of the Tasca Estate"
+     },
+    {
+      "filename": "graphite-sketch-emperor.jpg",
+      "caption": "Roman Bust #1, 1904-1906, graphite on paper<br />Collection of the Tasca Estate"
     },
-    { 
+    {
+      "filename": "graphite-sketch.jpg",
+      "caption": "Roman Bust #2, 1904-1906, graphite on paper<br />Collection of the Tasca Estate"
+     },
+     {
+      "filename": "flower-frieze.png",
+      "caption": "Flower Frieze Study, 1904-1906, graphite on paper<br />Collection of the Tasca Estate"
+    },
+    {
       "filename": "roma-postcard.jpg",
       "caption": "Roman Postcard, 1907-1908, offset lithography<br />original lost"
-    }    
+    },
+    {
+      "filename": "watercolor-angel.jpg",
+      "caption": "Angel after Rafaello, 1920, watercolor on paper<br />Collection of the Tasca Estate"
+    }
   ],
 
-  "santa-barbara": [ 
-    { 
+  "santa-barbara": [
+    {
       "filename": "mission-santa-barbara.jpg",
       "caption": "Mission Santa Barbara<br />oil on canvas<br />1919<br />Collection of the Royal Family, Belgium<br />Identical copy, Collection of the Tasca Estate"
     },
-    { 
+    {
       "filename": "mission-painting-presentation.jpg",
       "caption": "Newspaper clipping<br />documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium<br />1919"
     },
-    { 
+    {
       "filename": "queen-of-belgium.jpg",
       "caption": "Personal letter from the Queen of Belgium<br />October 19, 1919<br />Collection of the Tasca Estate"
     }
   ],
-  
+
   "montecito": [
-    { 
+    {
       "filename": "dining-room.png",
       "caption": "Design for Italianate dining room for a residence in Montecito<br />watercolor on paper"
     },
-    { 
+    {
       "filename": "lumachrome-painting-interior.jpg",
       "caption": "NEEDS CAPTION"
     },
-    { 
+    {
       "filename": "montecito-interior-1.jpg",
       "caption": "Photograph of room interior #1<br />Decorative painting and design by Fausto Tasca<br />unknown Montecito estate"
     },
-    { 
+    {
       "filename": "montecito-interior-2.jpg",
       "caption": "Photograph of room interior, #1<br />Decorative painting and design by Fausto Tasca <br />Unknown Montecito estate"
     },
-    { 
+    {
       "filename": "villa-interior-santa-barbara.png",
       "caption": "Design for decorative frieze painting for unknown residence<br /> watercolor on paper"
     },
-    { 
+    {
       "filename": "watercolor-sketch-for-house-in-montecito.jpg",
       "caption": "Sketch for design of room interior<br />unknown Montecito estate"
-    } 
+    }
   ],
-  
-  "san-diego": [ 
-    { 
+
+  "san-diego": [
+    {
       "filename": "painting-the-crucifixion.png",
       "caption": "Fausto Tasca in his Los Angeles studio as he painted his mural 'The Crucifixion' for Our Lady of the Rosary Catholic Church."
     },
-    { 
+    {
       "filename": "final-crucifixion.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "latimes-on-olr-church.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "opera-company-small.jpg",
       "caption": "NEED CAPTION"
     }
   ],
-  
-  "pasadena": [ 
-    { 
+
+  "pasadena": [
+    {
       "filename": "altar-screen.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "interior.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-angel.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-ceiling-1.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-ceiling-2.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-detail.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-forward-view.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-near-floor-detail-1.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-near-floor-detail-2.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "narthex-reverse-view.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "nave-ceiling.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "nave-deiling-detail-1.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "nave-deiling-detail-2.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "nave-deiling-detail-3.jpg",
       "caption": "NEED CAPTION"
     }
   ],
-  
-  "los-angeles": [ 
-    { 
+
+  "los-angeles": [
+    {
       "filename": "citizens-interior.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-lobby-looking-east.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-lobby-looking-west.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-industry-ceiling.jpg",
       "caption": "A ceiling medallion from at Citizen’s National Trust & Savings"
     },
-    { 
+    {
       "filename": "citizens-industry-color.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-cow-poke.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-cowboy-detail-horse.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-prospector.jpg",
       "caption": "Prospector"
     },
-    { 
+    {
       "filename": "citizens-prospector-detail-figure.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-prospector-detail-mule.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "citizens-mission-couple.jpg",
       "caption": "California mission scene"
     },
-    { 
+    {
       "filename": "citizens-friar.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "farmers-mural-in-studio.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "farmers-mural.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "cabrini-sketch.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "cabrini-detail.jpg",
       "caption": "NEED CAPTION"
     }
   ],
-  
-  "portraits": [ 
-    { 
+
+  "portraits": [
+    {
       "filename": "ap-giannini.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "galileo-presentation.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "galileo-article.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "galileo-cover.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "galileo.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "portrait-ag-tasca-at-11.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "scientist.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "self-portrait-oil.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "study-mr-larson.png",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "young-woman.jpg",
       "caption": "NEED CAPTION"
     }
   ],
 
-  "sculpture": [ 
-    { 
+  "sculpture": [
+    {
       "filename": "caruso.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "maquette-us-olympics.jpg",
       "caption": "NEED CAPTION"
     },
-    { 
+    {
       "filename": "tullio-robazza.png",
       "caption": "NEED CAPTION"
     }
   ],
-  
-  "notes": [ 
+
+  "notes": [
   ]
 }
