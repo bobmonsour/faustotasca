@@ -3,18 +3,16 @@
     background: $main-background;
   }
 
-  main, footer {
+  main, header, footer {
     margin: 0;
   }
 
   header {
+    position: relative;
     margin: 0 30px;
   }
 
   footer {
-    width: 100%;
-    padding: 100px 0;
-
     p {
       font-size: .6rem;
     }
@@ -24,6 +22,10 @@
     img {
       width: 350px;
       margin: 0 auto;
+    }
+    h4 {
+      margin-top: 20px;
+      font-size: .9rem;
     }
   }
 
@@ -107,4 +109,12 @@
     width: 80%;
   }
 
+  .image-single, .image-pair {
+    img {
+      width: 100%;
+    }
+    p {
+      font-size: .7rem;
+    }
+  }
 }

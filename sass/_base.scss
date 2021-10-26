@@ -12,6 +12,8 @@ body {
 }
 
 .container {
+  display: flex;
+  flex-direction: column;
   margin: 0 auto;
   max-width: $max-width;
 }
@@ -45,18 +47,20 @@ header {
 .container-home {
   img {
     display: block;
-    margin: 25px auto 55px auto;
+    margin: 25px auto 45px auto;
   }
-  // margin: 30px 0;
-  // display: flex;
-  // flex-wrap: wrap;
-  // justify-content: center;
-  // align-items: center;
 
-  // img + p {
-  //   font-size: .9rem;
-  //   font-style: italic;
-  // }
+  h4 {
+    font-family: $fbt-font;
+    display: block;
+    font-size: 1.2rem;
+    font-weight: normal;
+    padding: 0 0 10px 0;
+    text-transform: uppercase;
+    text-align: center;
+    color: $body-text;
+    letter-spacing: 2px;
+  }
 }
 
 .home-text {
@@ -91,29 +95,49 @@ header {
   line-height: 1.5;
 }
 
-#image-slider-list {
-  text-align: center;
-  .splide__slide {
-      display: inline-block;
-  }
-}
-
 .splide__slide {
   width: 100%;
   opacity: 0.3;
+  text-align: center;
 }
 
 .splide__slide.is-active {
   opacity: 1;
 }
 
-// Override ***STUPID*** border around the image slider as called for in splide.min.css
+// Plain (non-gallery) pages
 
+.image-single, .image-pair {
+  img {
+    display: block;
+    margin: 10px auto;
+  }
+  p {
+    display: block;
+    text-align: center;
+    font-size: .8rem;
+    font-style: italic;
+    line-height: 1.4;
+  }
+}
+
+.image-pair {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  img, p {
+    width: 450px;
+  }
+}
+
+
+
+// Override ***STUPID*** border around the image slider as called for in splide.min.css
 .splide--nav>.splide__slider>.splide__track>.splide__list>.splide__slide.is-active,.splide--nav>.splide__track>.splide__list>.splide__slide.is-active{ border: 0 }
 
 // Footer
 footer {
-  padding: 200px;
+  padding: 100px 0 50px 0;
   font-size: .8rem;
   background-color: $main-background;
 }

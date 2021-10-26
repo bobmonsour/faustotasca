@@ -7,11 +7,12 @@
 nav {
   margin: 20px auto 0 auto;
   background-color: $nav-background;
+  border-bottom: 1px solid lightgray;
 
   ul {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-gap: 0px;
+    grid-gap: 0 10px;
     text-align: center;
   }
 
@@ -27,7 +28,7 @@ nav {
 
   a {
   display: inline-block;
-  padding: 5px 3px;
+  padding: 5px;
   font-size: .9rem;
   font-weight: 300;
   letter-spacing: 2px;

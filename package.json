@@ -10,7 +10,7 @@
     "build": "sass sass:_site/css && eleventy"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bob Monsour",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
