@@ -1,8 +1,17 @@
-{% for item in galleries[page.fileSlug] %}
-	<li class="splide__slide">
-		<img src="/images/{{ page.fileSlug }}/{{ item.filename }}" alt="{{ item.caption }}">
-		<div class="main-slider-caption">
-			{{ item.caption | safe }}
-		</div>
-	</li>
-{% endfor %}
+{#
+  Display a slider of images based on the _data/galleries.json file.
+  Each image set for each page is organized by fileSlug. See the
+  _data/galleries.json file for more information.
+
+#}
+<div class="main-slider-container">
+  <div id="image-slider" class="splide">
+    <div class="splide__track">
+      <ul class="splide__list">
+        {%- for item in galleries[page.fileSlug] -%}
+          {{ imageGallery(item, page.fileSlug) }}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+</div>

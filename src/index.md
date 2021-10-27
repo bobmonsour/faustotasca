@@ -5,7 +5,7 @@ description: Fausto Bellino Tasca was the first child of Angelo Tasca (1848-1939
 permalink: "/"
 ---
 <div class="container-home">
-  <img src="../images/self-with-caruso.jpg" alt="Fausto Bellino Tasca, Self-pPrtrait as a Young Man, oil on canvas, 1905">
+  <img src="../images/fbt-with-caruso.jpg" alt="Fausto Bellino Tasca, Self-Portrait as a Young Man, oil on canvas, 1905">
   <h4>Painter, Designer, Sculptor</h4>
 </div>
 

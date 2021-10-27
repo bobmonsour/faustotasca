@@ -2,6 +2,8 @@
 title: Fausto Bellino Tasca | Pasadena
 description: Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew’s Church in Pasadena, California.
 ---
+{% from "macros.njk" import imageGallery %}
+
 ## Pasadena, California
 
 ### Saint Andrew's Church
@@ -15,3 +17,5 @@ Tasca also decorated the foyer, painting it from floor to ceiling. The lower por
 Unfortunately, the walls of the foyer were badly damaged in the late 1970s when they were covered with wallpaper. Although they have been “restored”, they now show little of their former finesse.
 
 If you have photographs of the narthex of St Andrew’s shot prior to the renovation of the mid&#8211;1970s, please contact [tascafineart@gmail.com](mailto:tascafineart@gmail.com).
+
+{% include 'gallery.njk' %}

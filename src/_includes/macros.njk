@@ -1,8 +1,40 @@
+{# A set of macros for use across the project #}
+{#
+  imageGallery - renders an image gallery based on the current page
+#}
 {% macro imageGallery(item, thisPage) %}
 <li class="splide__slide">
-  <img src="/images/{{ thisPage }}/{{ item.filename }}" alt="{{ item.caption }}">
+  <img src="/images/{{ thisPage }}/{{ item.filename }}"
+       alt="{{ item.caption }}">
   <div class="main-slider-caption">
     <p>{{ item.caption | safe }}</p>
   </div>
 </li>
+{% endmacro %}
+{#
+  imageSingle - renders a singe image with caption below
+#}
+{% macro imageSingle(imageRef, imageCaption, noCaption) %}
+<div class="image-single">
+  <img src="../images/{{ imageRef }}"
+       alt="{{ imageCaption }}">
+  <p>{{ imageCaption | safe }}</p>
+</div>
+{% endmacro %}
+{#
+  imagePair - renders side-by-side images with captions below each image
+#}
+{% macro imagePair(imageRef1, imageCaption1, imageRef2, imageCaption2) %}
+<div class="image-pair">
+  <div>
+    <img src="../images/{{ imageRef1 }}"
+         alt="{{ imageCaption1 }}">
+    <p>{{ imageCaption1 | safe }}</p>
+  </div>
+  <div>
+    <img src="../images/{{ imageRef2 }}"
+        alt="{{ imageCaption2 }}">
+    <p>{{ imageCaption2 | safe }}</p>
+  </div>
+</div>
 {% endmacro %}
