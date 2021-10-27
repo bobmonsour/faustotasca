@@ -8,7 +8,7 @@ description: Fausto Tasca is a noteworthy but nearly forgotten artist of early t
 
 {{ imageSingle(
   'notes/fausto-self-portrait.jpg',
-  'Fausto Bellino Tasca, self-portrait as a young man, oil on canvas, about 1905')
+  'Fausto Bellino Tasca, Self-Portrait as a Young Man, oil on canvas, about 1901')
 }}
 
 Fausto Tasca is a noteworthy but nearly forgotten artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Tasca came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.

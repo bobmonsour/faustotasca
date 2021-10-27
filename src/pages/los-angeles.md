@@ -2,6 +2,8 @@
 title: Fausto Bellino Tasca | Los Angeles
 description: Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew’s Church in Pasadena, California.
 ---
+{% from "macros.njk" import imageSingle %}
+{% from "macros.njk" import imagePair %}
 {% from "macros.njk" import imageGallery %}
 
 ## Los Angeles, California
@@ -10,12 +12,34 @@ description: Fausto Tasca worked with friend and professional colleague, Carlo W
 ### Farmers and Merchants Bank
 ### Cabrini Chapel
 
-Tasca received a significant commission to decorate the interior of the Citizen’s National Trust & Savings Bank in Los Angeles. His design, possibly dictated by the client, or possibly based on his experiences in Santa Barbara, used early California settlers as its theme. Tasca’s execution of this commission included ceiling medallions and small murals. Tasca painted at least eight small scenes and several larger ceiling medallions. It is not known if he was responsible for the stained glass windows in this building.
+Citizen’s National Trust and Savings Farmers and Merchants Bank Cabrini Chapel
 
-For the Citizen’s National commission, Tasca painted all his work on canvas and applied the canvas to the walls using a special glue he had developed. This method permitted him to complete his painting in the relative comfort of his studio, and then install the works after they were complete. This method also gave him the advantage of being able to remove the paintings in the case the building was later renovated or demolished.
+In 1920-1921, Fausto worked on the important commission to decorate the interior of the Citizen’s National Trust and Savings at 736 Hill Street in Los Angeles. Another local artist, Hernando Gonzallo Villa, [https://collections.lacma.org/node/166797] also worked on this project. Villa painted a mural for the west wall of the bank.
 
-The bank building, formerly located at 736 South Hill Street in Los Angeles, was demolished in the mid&#8211;1970s to make way for a parking lot. Fausto Tasca’s paintings were all removed by an art lover, and have since been recovered by the Tasca family.
+[static image: bank interior]
 
-For more information regarding Tasca's other commissions in Southern California see <a href="http://www.tascafineart.com/https/sandra-tasca-r04psquarespacecom/config/pages" target="_blank">this page at tascafineart.com</a>.
+Fausto’s design for the bank interior was based on a history of the west written by O.E. Monnette, Chronology of California. [wikipedia https://en.wikipedia.org/wiki/ Fausto_Bellino_Tasca] This commission included a series of thirteen narrative murals and two large ceiling medallions, “Allegory of Intustry” and “Triumph of California.”
 
-{% include 'gallery.njk' %}
+[static image allegory of industry]
+
+All the paintings for this commission were created on canvas and attached to the walls of the bank interior using special glue. The narrative murals follow the story of California history, and include Drake’s Landing, Spanish settlers, a Prospector, Cowboys, as well as a California Indian scout. Fausto carefully researched the appearance of each of his subjects, and did his best to portray each with respect and realism.
+
+[gallery: images of narrative murals]
+
+In the mid-1970’s this extraordinary bank was demolished to make way for a parking lot. By chance, an art lover knew of Fausto’s method of applying his painting to the walls, stepped in to rescue the paintings. All the works were kept in storage until 2018, when a descendent of the developer who razed the bank contacted the painter’s granddaughter. The two families negotiated, and the paintings were recovered by the Tasca family. The Tasca family is now negotiating with museums in California to restore and display these beautiful works.
+
+
+Farmers and Merchants Bank Redondo Beach
+Los Angeles Times full page, 1922.
+
+Caption “The Discovery of Our Great California, a mural painting by Fausto tasca, to adorn walls of Farmers and Merchants National Bank, Redondo Beach
+
+[static image. publicity shot of Fausto and mural]
+
+Although the Redondo Beach branch of the Farmers and Merchants bank still stands at the location indicated by 1915 photographs, the bank building no longer exists. Photographs of the current Farmers and Merchants Bank located at 1333 Pacific Coast Highway is slick and modern, and give no indication of the bank’s origins or history. Sadly, the mural by Fausto Tasca has also disappeared.
+
+Cabrini Chapel
+
+Fausto Tasca designed and decorated the interior spaces of the chapel for Villa Cabrini. Sadly, the chapel was razed, the property sold. the only traces of Fausto’s original work for the chapel are located in the tasca Family Archives.
+
+[static images: exterior and watercolor sketch of interior]

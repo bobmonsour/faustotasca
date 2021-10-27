@@ -6,10 +6,12 @@ description: Fausto Tasca made many studies, or maquettes, but few known finishe
 
 ## Sculpture
 
-Fausto Tasca made many studies, or maquettes, but few known finished sculptures. His portrait bust of the great Enrico Caruso is one of the few large-scale sculptures in existence. The large bust of Caruso, pictured here, was created as a gift for the great tenor’s family. A copy of this work is in the collection of the Tasca family.
+Fausto Tasca made many sculpture studies, or maquettes, but few known finished pieces. His portrait bust of the great Enrico Caruso is one of his few finished sculptures in existence. The large bust of Caruso, pictured here, was created as a gift for the great tenor’s family.
+
+[image, Fausto with Caruso, thank you note from Madame Caruso.]
 
 In addition to the large bust of Caruso, Tasca sculpted a smaller version of the bust. From this smaller original he cast many copies, which he painted to simulate bronze and sold. It is not known how many of these smaller busts are still in circulation.
 
-If you have information regarding these or other sculptures by Fausto Tasca, please contact [tascafineart@gmail.com](mailto:tascafineart@gmail.com).
+Maquettes, or studies for commissioned work: [gallery of three or four images]
 
 {% include 'gallery.njk' %}
