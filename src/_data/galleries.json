@@ -68,11 +68,11 @@
   "santa-barbara": [
     {
       "filename": "mission-santa-barbara.jpg",
-      "caption": "Mission Santa Barbara<br />oil on canvas<br />1919<br />Collection of the Royal Family, Belgium<br />Identical copy, Collection of the Tasca Estate"
+      "caption": "Mission Santa Barbara<br />oil on canvas, 1919<br />Collection of the Royal Family, Belgium<br />Identical copy, Collection of the Tasca Estate"
     },
     {
       "filename": "mission-painting-presentation.jpg",
-      "caption": "Newspaper clipping<br />documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium<br />1919"
+      "caption": "Newspaper clipping documenting the gift of the<br /> Mission Santa Barbara painting to the<br />King & Queen of Belgium, 1919"
     },
     {
       "filename": "queen-of-belgium.jpg",
@@ -82,28 +82,20 @@
 
   "montecito": [
     {
-      "filename": "dining-room.png",
-      "caption": "Design for Italianate dining room for a residence in Montecito<br />watercolor on paper"
-    },
-    {
-      "filename": "lumachrome-painting-interior.jpg",
-      "caption": "NEEDS CAPTION"
-    },
-    {
       "filename": "montecito-interior-1.jpg",
-      "caption": "Photograph of room interior #1<br />Decorative painting and design by Fausto Tasca<br />unknown Montecito estate"
+      "caption": "Photograph of room interior #1 Design and decorative painting by Fausto Tasca Montecito estate, possibly that of Mrs. Norton 1919, Archive of the Tasca Estate"
     },
     {
       "filename": "montecito-interior-2.jpg",
-      "caption": "Photograph of room interior, #1<br />Decorative painting and design by Fausto Tasca <br />Unknown Montecito estate"
-    },
-    {
-      "filename": "villa-interior-santa-barbara.png",
-      "caption": "Design for decorative frieze painting for unknown residence<br /> watercolor on paper"
+      "caption": "Photograph of room interior #2 Design and decorative painting by Fausto Tasca Montecito estate, possibly that of Mrs. Norton 1919, Archive of the Tasca Estate"
     },
     {
       "filename": "watercolor-sketch-for-house-in-montecito.jpg",
-      "caption": "Sketch for design of room interior<br />unknown Montecito estate"
+      "caption": "Watercolor study for room interior 1919 Collection of the Tasca Estate Woman Driving a Chariot Oil study on canvas final painting can be seen in the niche above the fireplace Montecito estate 1919, Archive of the Tasca Estate"
+    },
+    {
+      "filename": "lumachrome-painting-interior.jpg",
+      "caption": "Watercolor study for room interior 1919 Collection of the Tasca Estate Woman Driving a Chariot Oil study on canvas final painting can be seen in the niche above the fireplace Montecito estate 1919, Archive of the Tasca Estate"
     }
   ],
 

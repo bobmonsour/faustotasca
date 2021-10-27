@@ -11,6 +11,11 @@ module.exports = function(eleventyConfig) {
   // Shortcode for the current year
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+  eleventyConfig.addFilter("debugger", (...args) => {
+    console.log(...args)
+    debugger;
+  });
+
   return {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",
