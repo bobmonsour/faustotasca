@@ -17,4 +17,7 @@ On a very memorable evening, Fausto presented the Mission painting to the King a
 
 As Italian-themed styles were very popular with the wealthy, Fausto was called upon to design and execute room decorates for several Montecito estates.
 
-{{ imagePair('montecito/dining-room.jpg', 'Design for Italianate dining room watercolor on paper, 1919 or 1920, Archive of the Tasca Estate', 'montecito/villa-interior-santa-barbara.jpg', 'Design for frieze Watercolor on paper, 1919 or 1920, Archive of the Tasca Estate') }}
+{{ imagePair(
+  'montecito/dining-room.jpg',
+  'Design for Italianate dining room watercolor on paper, 1919 or 1920, Archive of the Tasca Estate', 'montecito/villa-interior-santa-barbara.jpg', 'Design for frieze Watercolor on paper, 1919 or 1920, Archive of the Tasca Estate')
+}}

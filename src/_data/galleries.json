@@ -306,6 +306,42 @@
     }
   ],
 
-  "notes": [
-  ]
+  "plein-air": [
+    {
+      "filename": "BigBearLake.jpg",
+      "caption": "Big Bear Lake"
+    },
+    {
+      "filename": "CircusPadova.jpg",
+      "caption": "Circus Padova"
+    },
+    {
+      "filename": "CityHall.jpg",
+      "caption": "City Hall"
+    },
+    {
+      "filename": "Creek.jpg",
+      "caption": "Creek"
+    },
+    {
+      "filename": "HaystacksVeneto.jpg",
+      "caption": "Haystacks Veneto"
+    },
+    {
+      "filename": "LosAngelesSunset.jpg",
+      "caption": "Los Angeles Sunset"
+    },
+    {
+      "filename": "PacificCoast.jpg",
+      "caption": "Pacific Coast"
+    },
+    {
+      "filename": "VeniceLagune.jpg",
+      "caption": "Venice Lagoon"
+    },
+    {
+      "filename": "waterfall.jpg",
+      "caption": "Waterfall"
+    }
+ ]
 }

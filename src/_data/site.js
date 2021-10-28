@@ -11,6 +11,6 @@ module.exports = {
     { url: "/los-angeles.html", text: "Los Angeles" },
     { url: "/portraits.html", text: "Portraits" },
     { url: "/sculpture.html", text: "Sculpture" },
-    { url: "/notes.html", text: "Notes" }
+    { url: "/plein-air.html", text: "Plein Air" }
   ]
 };
