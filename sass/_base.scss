@@ -67,6 +67,8 @@ header {
   display: grid;
   grid-template-columns: 7fr 3fr;
   column-gap: 0;
+  max-width: 800px;
+  margin: 0 auto;
 
   .home-caption {
     padding-left: 40px;
@@ -83,7 +85,7 @@ header {
 // Gallery pages
 
 .image-gallery {
-  margin: 20px 0 0 0;
+  margin-top: 30px;
 }
 
 .slide-caption {
