@@ -105,19 +105,19 @@
 
   "san-diego": [
     {
-      "filename": "painting-the-crucifixion.png",
-      "caption": "Fausto Tasca in his Los Angeles studio as he painted his mural 'The Crucifixion' for Our Lady of the Rosary Catholic Church."
-    },
-    {
-      "filename": "final-crucifixion.png",
+      "filename": "OLRWindow1.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "latimes-on-olr-church.jpg",
+      "filename": "OLRWindow1.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "opera-company-small.jpg",
+      "filename": "FBTPaintingWindow.jpg",
+      "caption": "NEED CAPTION"
+    },
+    {
+      "filename": "FitchPhotoOLR.jpg",
       "caption": "NEED CAPTION"
     }
   ],
