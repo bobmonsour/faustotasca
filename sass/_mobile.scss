@@ -1,6 +1,7 @@
 @media screen and (max-width: 1024px) {
   body {
     background: $main-background;
+    width: 100vw;
   }
 
   main, header, footer {
@@ -45,33 +46,33 @@
   }
 
   h1 {
-    padding: 0 0 20px 30px;
+    padding: 0 0 20px 10px;
     font-size: 1.2rem;
     letter-spacing: 1px;
     text-align: left;
   }
 
   h2 {
-    padding-left: 30px;
+    padding-left: 15px;
     font-size: 1rem;
     text-align: left;
   }
 
   h3 {
-    padding: 10px 15px 0 30px;
+    padding: 10px 15px 0 15px;
     font-size: .9rem;
   }
 
   h4 {
     font-size: .8rem;
-    padding-left: 30px;
+    padding-left: 15px;
   }
 
   #btn-menu {
     display: block;
     width: 65px;
-    padding: 3px 0;
-    margin-top: 20px;
+    padding: 0;
+    margin: 10px 0 0 -15px;
     letter-spacing: 2px;
     color: $body-text;
     text-align: center;
@@ -79,6 +80,8 @@
 
   nav {
     background: $main-background;
+    border-bottom: none;
+    padding: 0 0 20px 0;
 
     ul {
       display: none;
@@ -102,7 +105,7 @@
 
   p {
     font-size: 1rem;
-    padding: 10px 10px 10px 30px;
+    padding: 15px;
     color: $body-text;
     letter-spacing: 1px;
   }
@@ -116,11 +119,15 @@
   }
 
   .image-single, .image-pair {
+    display: block;
+    margin: 0;
     img {
-      width: 100%;
+      width: 100vw;
+      padding: 0;
     }
     p {
-      margin: 0 20px;
+      width: 100vw;
+      padding: 10px;
       font-size: .7rem;
     }
   }

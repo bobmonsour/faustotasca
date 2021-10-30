@@ -1,7 +1,10 @@
 ---
 title: Fausto Bellino Tasca | Portraits
 description: Fausto Tasca’s comprehensive training at the Academy of Fine Arts of Venice included the study of portraiture.
+todo: fix images - professor - image too large, galileo - too small
 ---
+{% from "macros.njk" import imageSingle %}
+{% from "macros.njk" import imagePair %}
 {% from "macros.njk" import imageGallery %}
 
 ## Portraits

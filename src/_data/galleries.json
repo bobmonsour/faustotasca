@@ -250,43 +250,35 @@
 
   "portraits": [
     {
-      "filename": "ap-giannini.jpg",
+      "filename": "agt.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "galileo-presentation.jpg",
+      "filename": "APGianniniWEB.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "galileo-article.png",
+      "filename": "Galileo-article.png",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "galileo-cover.jpg",
+      "filename": "Galileo.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "galileo.png",
+      "filename": "Larsen.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "portrait-ag-tasca-at-11.jpg",
+      "filename": "ObserverCoverWEB.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "scientist.jpg",
+      "filename": "Professor.jpg",
       "caption": "NEED CAPTION"
     },
     {
-      "filename": "self-portrait-oil.png",
-      "caption": "NEED CAPTION"
-    },
-    {
-      "filename": "study-mr-larson.png",
-      "caption": "NEED CAPTION"
-    },
-    {
-      "filename": "young-woman.jpg",
+      "filename": "young-woman.png",
       "caption": "NEED CAPTION"
     }
   ],
