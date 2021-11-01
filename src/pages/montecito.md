@@ -11,7 +11,7 @@ Montecito’s wealthy residents were among Fausto’s early patrons. One of thes
 
 On a very memorable evening, Fausto presented the Mission painting to the King and Queen of Belgium. The royal couple were dinner guests at the home of Mrs. Norton in Montecito. As the newspaper article indicates, Fausto had also decorated the interior of the dining room where he respectfully presented his painting.
 
-<p class="blkquote">“To her august majesty, the Queen of the Belgians. I make this gift with reverence, this is my work through the aid of my benefactress, Mrs. Norton. With profound respect. Fausto Tasca.”</p>
+<blockquote><p>“To her august majesty, the Queen of the Belgians. I make this gift with reverence, this is my work through the aid of my benefactress, Mrs. Norton. With profound respect. Fausto Tasca.”</p></blockquote>
 
 {% include 'gallery.njk' %}
 

@@ -38,7 +38,12 @@ The lower portion of each wall was painted with trompe d’oeil bronze shields a
 
 Unfortunately, the walls of the foyer were badly damaged in the late 1970s when they were covered with wallpaper. The administration of the church at the time believed the walls were “too dirty” and did not think they could be properly cleaned. Although the walls have been “restored,” the marble-like appearance of the painting was lost.
 
-{{ imageSingle(
-  'pasadena/tower-of-pasadena-book.jpg',
-  'Tower of Pasadena, Available on Amazon')
-}}
+"Tower of Pasadena, The Art & Architecture of St. Andrew Church" a book by Tri Fritz, dives deep into the history of the church. Here is an excerpt from the book's description:
+
+<blockquote><p>Photographer David Crane showcases the building's design and the church's art collection with an eye for color, light and detail, not to mention the ability to photograph artworks located in the most inaccessible of locations.</p></blockquote>
+
+Click on the image below to be directed to the book on Amazon.
+
+<div class="image-single">
+  <a href="https://www.amazon.com/Tower-Pasadena-Architecture-Andrew-Church/dp/0983459444" target="_blank"><img src="../images/pasadena/tower-of-pasadena-book.jpg" alt="Tower of Pasadena, book on Amazon"></a>
+</div>
