@@ -29,20 +29,24 @@ nav {
 
   a {
   display: inline-block;
+  margin: 5px 0;
   padding: 5px;
   font-size: .9rem;
   font-weight: 300;
   letter-spacing: 2px;
   text-decoration: none;
   // text-transform: uppercase;
+  border-bottom: 3px solid $nav-background;
   color: $body-text;
 
     &:hover, &:active {
       color: $headline-color;
+      border-bottom: 3px solid $headline-color;
     }
 
     &.current {
       color: $headline-color;
+      border-bottom: 3px solid $headline-color;
     }
   }
 }

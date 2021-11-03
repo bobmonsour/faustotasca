@@ -5,7 +5,6 @@ todo: fix images - professor - image too large, galileo - too small
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
-{% from "macros.njk" import imageGallery %}
 
 ## Portraits
 
@@ -15,4 +14,31 @@ As an established artist in California, Tasca was frequently commissioned to pai
 
 If you have information regarding these or other portraits by Fausto Tasca, please contact [tascafineart@gmail.com](mailto:tascafineart@gmail.com).
 
-{% include 'gallery.njk' %}
+{{ imageSingle(
+'portraits/APGianniniWEB.jpg',
+'NEED CAPTION')
+}}
+
+{{ imagePair(
+'portraits/Galileo.png',
+'NEED CAPTION',
+'portraits/ObserverCoverWEB.jpg',
+'NEED CAPTION')
+}}
+
+{{ imageSingle(
+'portraits/Galileo-article.jpg',
+'NEED CAPTION')
+}}
+
+{{ imagePair(
+'portraits/Professor.jpg',
+'NEED CAPTION',
+'portraits/Larsen.jpg',
+'NEED CAPTION')
+}}
+
+{{ imageSingle(
+'portraits/young-woman.jpg',
+'NEED CAPTION')
+}}

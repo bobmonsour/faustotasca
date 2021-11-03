@@ -34,7 +34,8 @@ main a {
   color: $headline-color;
 
   &:hover {
-    text-decoration: underline;
+    border-bottom: 3px solid $headline-color;
+    // text-decoration: underline dotted $headline-color;
   }
 }
 
@@ -85,35 +86,6 @@ header {
   }
 }
 
-// Gallery pages
-
-.image-gallery {
-  margin-top: 30px;
-}
-
-.slide-caption {
-  padding: 20px 0 10px 0;
-  font-size: .8rem;
-  text-align: center;
-  font-style: italic;
-  font-weight: 300;
-  color: $body-text;
-  line-height: 1.5;
-}
-
-.splide__slide {
-  width: 100%;
-  height: 750px;
-  opacity: 0.3;
-  text-align: center;
-}
-
-.splide__slide.is-active {
-  opacity: 1;
-}
-
-// Plain (non-gallery) pages
-
 .image-single, .image-pair {
   img {
     display: block;
@@ -136,9 +108,6 @@ header {
     width: 450px;
   }
 }
-
-// Override ***STUPID*** border around the image slider as called for in splide.min.css
-.splide--nav>.splide__slider>.splide__track>.splide__list>.splide__slide.is-active,.splide--nav>.splide__track>.splide__list>.splide__slide.is-active{ border: 0 }
 
 // Footer
 footer {

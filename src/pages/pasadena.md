@@ -5,7 +5,6 @@ todo: add more images
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
-{% from "macros.njk" import imageGallery %}
 
 ## Pasadena, California
 
