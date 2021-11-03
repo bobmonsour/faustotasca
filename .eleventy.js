@@ -3,6 +3,8 @@ module.exports = function(eleventyConfig) {
     files: './_site/css/**/*.css'
   });
 
+  // todo: establish requirements for dev and production environments
+
   // Copy the css/images/js/data to their respective _site dirs
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("images");
