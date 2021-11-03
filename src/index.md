@@ -10,12 +10,10 @@ permalink: "/"
 </div>
 
 <div class="home-text">
-  <p>Fausto Bellino Tasca was the first child of Angelo Tasca (1848&#8211;1939) and Luigia Battagin (1857&#8211;1922). He was born in the family home on June 24, 1885 in the northern Italian village of San Zenone degli Ezzelini (Treviso).</p>
+  <p>Fausto Tasca is a noteworthy but nearly forgotten artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Tasca came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.</p>
 
-  <p class="home-caption">Fausto Bellino Tasca<br />Self-Portrait as a Young Man<br />oil on canvas, 1905</p>
+  <p class="home-caption">Self-Portrait with Bust of Caruso, 1922</p>
 </div>
-
-Fausto Tasca is a noteworthy but nearly forgotten artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Tasca came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.
 
 Although he studied primarily to be a landscape painter and portraitist, Fausto Tasca worked most of his career decorating buildings — banks, libraries, churches, estates. These commissions forced him to compose and execute on a much larger scale than was his taste; and they occasioned more than a few ingenious inventions.
 

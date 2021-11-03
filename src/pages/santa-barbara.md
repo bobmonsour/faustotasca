@@ -2,23 +2,23 @@
 title: Fausto Bellino Tasca | Santa Barbara
 description: Tasca’s first known commissions while living in Santa Barbara were the design and execution of interior decorative work for several estate homes in Montecito.
 ---
-{% from "macros.njk" import imageGallery %}
 {% from "macros.njk" import imageSingle %}
+{% from "macros.njk" import imagePair %}
 
-## Westward to Santa Barbara, California
+## Heading West
 
 Upon their arrival in the United State, Fausto and Paolina settled in the Bronx where their only child, Angelo, was born. As neither of them spoke any English, their movements were largely restricted to the community of Italian immigrants.
 
 {{ imageSingle(
-  'santa-barbara/placeholder.jpg',
-  'image of Nonna holding Dad on the street in Bronx')
+'santa-barbara/PaolinaandSon.jpg ',
+'Paolina holding her son outside their home, Bronx, NY, September 1914, Archive of the Tasca Estate')
 }}
 
 On the advice of a family member who had left New York for the West, the family relocated to Mingus, Texas.
 
 {{ imageSingle(
-  'santa-barbara/placeholder.jpg',
-  'image of Dad on the porch in Mingus')
+'santa-barbara/Mingus1915.jpg',
+'Tasca family with friends in Mingus, Texas, 1915')
 }}
 
 In Mingus, Fausto found some work painting signage and doing fancy lettering for storefronts. However, this rather limited work could not support his family, so he resorted to working in the coal mines.
@@ -29,4 +29,14 @@ Fausto and Paolina both offered their artistic talents to the annual Fiesta in S
 
 In 1919 Fausto received the commission from the City of Santa Barbara to paint a gift for the King and Queen of Belgium. The royal couple would visit Santa Barbara that year, and the city very much wanted to present them with a beautiful landscape featuring the Mission.
 
-{% include 'gallery.njk' %}
+{{ imageSingle(
+'santa-barbara/mission-santa-barbara.jpg',
+'Mission Santa Barbara, oil on canvas, 1919, COllection of the Royal Family, Belgium, Identical Copy, Collection of the Tasca Estate')
+}}
+
+{{ imagePair(
+'santa-barbara/mission-painting-presentation.jpg',
+'Newspaper clipping documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium, 1919',
+'santa-barbara/queen-of-belgium.jpg',
+'Personal letter from the Queen of Belgium, October 19, 1919, Archive of the Tasca Estate')
+}}

@@ -14,18 +14,18 @@ todo: add more images
 Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew’s Church in Pasadena, California. According to Fausto’s son, who also worked as an apprentice on this commission, Wostry realized that the Saint Andrew’s commission was too complex for him to complete within the timeline allowed by the project, so with a gentleman’s handshake, he hired Fausto to undertake specific sections of the church interior.
 
 {{ imageSingle(
-  'pasadena/AltarScreenbyAGTasca.jpg',
-  'NEED CAPTION')
+'pasadena/AltarScreenbyAGTasca.jpg',
+'NEED CAPTION')
 }}
 
 At Saint Andrew’s, Tasca decorated the beamed ceiling of the church’s nave with colorful graphic and animal motifs. According to family accounts, Fausto created a huge stamping device so that he could imprint the design outline onto the huge ceiling beams. He then hand painted each design element of the huge ceiling.
 
 
 {{ imagePair(
-  'pasadena/NaveCeiling.jpg',
-  'Nave Ceiling',
-  'pasadena/NaveCeilingDetail.jpg',
-  'Nave Ceiling Detail')
+'pasadena/NaveCeiling.jpg',
+'Nave Ceiling',
+'pasadena/NaveCeilingDetail.jpg',
+'Nave Ceiling Detail')
 }}
 
 Tasca also designed and executed the foyer decoration, painting it from floor to ceiling. In this installation, Fausto painted directly on the walls instead of on canvas, as he had done at Our Lady of the Rosary.
