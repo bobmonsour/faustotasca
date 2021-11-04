@@ -4,7 +4,7 @@
   <nav>
     <ul>
     {% for link in site.mainNavLinks %}
-      <li><a href="{{ link.url }}"{% if page.url == link.url %} aria-current="page" class="current"{% endif %}>{{ link.text }}</a></li>
+      <li class="{{ link.class }}"><a href="{{ link.url }}"{% if page.url == link.url %} aria-current="page" class="current"{% endif %}>{{ link.text }}</a></li>
     {% endfor %}
     </ul>
   </nav>

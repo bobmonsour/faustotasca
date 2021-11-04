@@ -3,7 +3,7 @@ module.exports = function(eleventyConfig) {
     files: './_site/css/**/*.css'
   });
 
-  // todo: establish requirements for dev and production environments
+  // todo: establish requirements for dev and production environments; do it here or in site.js?
 
   // Copy the css/images/js/data to their respective _site dirs
   eleventyConfig.addPassthroughCopy("css");
