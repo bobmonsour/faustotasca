@@ -26,8 +26,8 @@ nav {
   ul {
     display: grid;
     // grid-template-columns: repeat(5, 1fr);
-    grid-template-columns: repeat(5, minmax(min-content, 200px));
-    grid-gap: 0 10px;
+    grid-template-columns: repeat(5, minmax(min-content, 180px));
+    grid-gap: 0;
     justify-content: center;
     text-align: center;
   }
@@ -69,6 +69,7 @@ nav {
 
     &:hover, &:active {
       color: $headline-color;
+      font-weight: bold;
       // border-bottom: 3px solid $headline-color;
     }
 
