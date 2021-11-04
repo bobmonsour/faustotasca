@@ -15,17 +15,17 @@ On a very memorable evening, Fausto presented the Mission painting to the King a
 
 {{ imagePair(
 'montecito/DetailSketch.jpg',
-'Watercolor study for room interior 1919, Archive of the Tasca Estate', 'montecito/MontecitoDR1.jpg', 'Dining Room, Montecito, Design and decorative painting by Fausto Tasca, Montecito estate, possibly that of Mrs. Norton, 1919, Archive of the Tasca Estate')
+'Watercolor study for room interior 1919<br>Archive of the Tasca Estate', 'montecito/MontecitoDR1.jpg', 'Dining Room, Montecito<br>Design and decorative painting<br>Montecito estate, possibly that of Mrs. Norton, 1919<br>Archive of the Tasca Estate')
 }}
 
 {{ imagePair(
 'montecito/Lumachrome.jpg',
-'Woman Driving a Chariot, Oil study on canvas, final painting can be seen in the niche above the fireplace, Montecito estate, 1919, Archive of the Tasca Estate', 'montecito/MontecitoDR2.jpg', 'Photograph of room interior #2, Design and decorative painting by Fausto Tasca, Montecito estate, possibly that of Mrs. Norton, 1919, Archive of the Tasca Estate')
+'Woman Driving a Chariot<br>oil study on canvas<br>final painting can be seen in the niche above the fireplace<br>Montecito estate, 1919<br>Archive of the Tasca Estate', 'montecito/MontecitoDR2.jpg', 'Photograph of room interior #2<br>Design and decorative painting<br>Montecito estate, possibly that of Mrs. Norton, 1919<br>Archive of the Tasca Estate')
 }}
 
 As Italian-themed styles were very popular with the wealthy, Fausto was called upon to design and execute room decorations for several Montecito estates.
 
 {{ imagePair(
 'montecito/WatercolorDiningRoom2.jpg',
-'Design for Italianate dining room watercolor on paper, 1919 or 1920, Archive of the Tasca Estate', 'montecito/DiningRoomArchedWindows2.jpg', 'NEED CAPTION')
+'Design for Italianate dining room<br>watercolor on paper, 1919 or 1920<br>Archive of the Tasca Estate', 'montecito/DiningRoomArchedWindows2.jpg', 'NEED CAPTION')
 }}

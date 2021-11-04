@@ -11,14 +11,14 @@ Upon their arrival in the United State, Fausto and Paolina settled in the Bronx 
 
 {{ imageSingle(
 'santa-barbara/PaolinaandSon.jpg ',
-'Paolina holding her son outside their home, Bronx, NY, September 1914, Archive of the Tasca Estate')
+'Paolina holding her son outside their home<br>Bronx, NY, September 1914<br>Archive of the Tasca Estate')
 }}
 
 On the advice of a family member who had left New York for the West, the family relocated to Mingus, Texas.
 
 {{ imageSingle(
 'santa-barbara/Mingus1915.jpg',
-'Tasca family with friends in Mingus, Texas, 1915')
+'Tasca family with friends<br>Mingus, Texas, 1915')
 }}
 
 In Mingus, Fausto found some work painting signage and doing fancy lettering for storefronts. However, this rather limited work could not support his family, so he resorted to working in the coal mines.
@@ -31,12 +31,12 @@ In 1919 Fausto received the commission from the City of Santa Barbara to paint a
 
 {{ imageSingle(
 'santa-barbara/mission-santa-barbara.jpg',
-'Mission Santa Barbara, oil on canvas, 1919, COllection of the Royal Family, Belgium, Identical Copy, Collection of the Tasca Estate')
+'Mission Santa Barbara<br>oil on canvas, 1919<br>Collection of the Royal Family, Belgium<br>Identical Copy, Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
 'santa-barbara/mission-painting-presentation.jpg',
-'Newspaper clipping documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium, 1919',
+'Newspaper clipping documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium<br>1919',
 'santa-barbara/queen-of-belgium.jpg',
-'Personal letter from the Queen of Belgium, October 19, 1919, Archive of the Tasca Estate')
+'Personal letter from the Queen of Belgium<br>October 19, 1919<br>Archive of the Tasca Estate')
 }}
