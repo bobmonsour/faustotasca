@@ -4,7 +4,7 @@
   "description": "This is the 11ty project for generating the faustotasca.com website.",
   "main": ".eleventy.js",
   "scripts": {
-    "watch:eleventy": "npx @11ty/eleventy --serve",
+    "watch:eleventy": "npx @11ty/eleventy --serve --incremental",
     "watch:sass": "npx sass sass:_site/css --watch",
     "start": "npm run watch:eleventy & npm run watch:sass",
     "build": "sass sass:_site/css && eleventy"

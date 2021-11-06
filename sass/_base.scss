@@ -69,7 +69,7 @@ header {
 
 .home-text {
   display: grid;
-  grid-template-columns: 7fr 3fr;
+  grid-template-columns: 6fr 4fr;
   column-gap: 0;
   max-width: 800px;
   margin: 0 auto;
@@ -104,20 +104,20 @@ header {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
+
+  .image1, .image2 {
+    width: 45%;
+    order: 1;
+    align-self: center;
+  }
+
+  .caption1, .caption2 {
+    width: 45%;
+    order: 2;
+    align-self: top;
+  }
 }
 
-.image-n-caption {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-}
-
-.image-of-pair {
-  align-self: bottom;
-}
-.caption-of-pair {
-  align-self: top;
-}
 
 // Footer
 footer {

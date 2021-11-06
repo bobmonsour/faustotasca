@@ -45,6 +45,44 @@
     }
   }
 
+
+.image-single, .image-pair {
+  img {
+    display: block;
+    margin: 20px auto;
+  }
+  p {
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: .8rem;
+    font-style: italic;
+    line-height: 1.4;
+  }
+}
+
+.image-pair {
+  display: flex;
+  flex-flow: row wrap;
+
+  .image1 {
+    width: 100%;
+    order: 1;
+  }
+  .image2 {
+    width: 100%;
+    order: 2;
+  }
+
+  .caption1 {
+    width: 100%;
+    order: 1;
+  }
+  .caption2 {
+    width: 100%;
+    order: 2;
+  }
+}
+
   h1 {
     padding: 0 0 20px 10px;
     font-size: 1.2rem;

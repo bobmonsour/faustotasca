@@ -12,7 +12,7 @@ permalink: "/"
 <div class="home-text">
   <p>Fausto Tasca is a noteworthy but sometimes overlooked artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Fausto came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.</p>
 
-  <p class="home-caption">Self-Portrait<br> with Bust of Caruso<br>1922</p>
+  <p class="home-caption">Self-Portrait<br> with Bust of tenor, Enrico Caruso<br>1922</p>
 </div>
 
 During his art training in Italy, Fausto preferenced the study of <a href="/plein-air.html">landscape painting</a> and <a href="/portraits.html">portraiture</a>. These studies served him well, as he was frequently commissioned to paint historical or <a href="/san-diego.html">religious narratives</a>. These commissions drew on his knowledge of landscape paintings, as the scenes depicted were intended to call to mind specific regions or locations. They also called upon his skills as a portraitist, as many of these narrative murals contained specific historical characters. These works embellished public spaces — <a href="/los-angeles.html">banks</a>, libraries, and <a href="/pasadena.html">churches</a>. They also forced him to grow artistically, as they were composed and executed to beautify large public spaces. They also occasioned more than a few ingenious inventions.
