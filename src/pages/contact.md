@@ -2,6 +2,8 @@
 title: Contact
 description: Contact the author of this site.
 ---
+## Contact
+
 Fausto Bellino Tasca worked throughout Southern California from 1918 until his death in 1937. Although the family has gathered together a good deal of information about his commissioned work, there are still gaps in his story.
 
 We are very interested in any information you might have regarding the whereabouts of the murals he painted for St Peter’s Church in Los Angeles, the mural for Farmers and Merchants Bank, the Redondo Library stained glass, or the paintings for the Villa Cabrini Chapel near Duarte.

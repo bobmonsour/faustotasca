@@ -40,3 +40,10 @@ As an established artist in California, Tasca was frequently commissioned to pai
 'portraits/young-woman.jpg',
 'Young woman<br>oil on canvas, date unknown<br>Private Collection')
 }}
+
+{{ imagePair(
+'portraits/AGT.jpg',
+'Artist\'s son, Angelo Tasca',
+'portraits/Self-portrait.jpg',
+'Artist, self-portrait')
+}}

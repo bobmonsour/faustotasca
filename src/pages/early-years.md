@@ -41,9 +41,9 @@ Fausto’s studies at the Academy in Venice were interrupted by obligatory milit
 
 {{ imagePair(
 'early-years/FBTParkNY1913.jpg',
-'New York City, 1913<br>Archive of the Tasca Estate',
+'Fausto Bellino Tasca<br>New York City, 1913<br>Archive of the Tasca Estate',
 'early-years/NonnaNYC1913.jpg',
-'New York City, 1913<br>Archive of the Tasca Estate')
+'Paolina Francesca Melchiori<br>New York City, 1913<br>Archive of the Tasca Estate')
 }}
 
 Upon their arrival in the United State, Fausto and Paolina settled in the Bronx where their only child, Angelo, was born. As neither of them spoke any English, their movements were largely restricted to the community of Italian immigrants.
