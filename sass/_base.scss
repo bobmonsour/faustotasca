@@ -179,11 +179,16 @@ p {
   letter-spacing: 1px;
 }
 
-span {
-  // display: block;
+span.intro {
   font-family: $fbt-font;
   text-transform: uppercase;
 }
+
+span.ital {
+  font-style: italic;
+}
+
+
 blockquote {
   margin: 0;
   p {

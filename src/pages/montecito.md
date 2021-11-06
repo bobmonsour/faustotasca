@@ -15,23 +15,34 @@ On a very memorable evening, Fausto presented the Mission painting to the King a
 
 <blockquote><p>To her august majesty, the Queen of the Belgians. I make this gift with reverence, this is my work through the aid of my benefactress, Mrs. Norton. With profound respect. Fausto Tasca.</p></blockquote>
 
-{{ imagePair(
+{{ imageSingle(
 'montecito/DetailSketch.jpg',
-'Watercolor study for room interior 1919<br>Archive of the Tasca Estate', 'montecito/MontecitoDR1.jpg', 'Dining Room, Montecito<br>Design and decorative painting<br>Montecito estate, possibly that of Mrs. Norton, 1919<br>Archive of the Tasca Estate')
+'Watercolor study for room interior 1919<br>Archive of the Tasca Estate')
 }}
 
-{{ imagePair(
+{{ imageSingle(
+'montecito/MontecitoDR1.jpg',
+'Dining Room, Montecito<br>Design and decorative painting<br>Montecito estate, possibly that of Mrs. Norton, 1919<br>Archive of the Tasca Estate')
+}}
+
+{{ imageSingle(
 'montecito/Lumachrome.jpg',
-'Woman Driving a Chariot<br>oil study on canvas<br>final painting can be seen in the niche above the fireplace<br>Montecito estate, 1919<br>Archive of the Tasca Estate',
+'Woman Driving a Chariot<br>Lumachrome by Fausto Tasca<br>Actual painting can be seen in the niche above the fireplace<br>Montecito estate, 1919<br>Archive of the Tasca Estate')
+}}
+
+{{ imageSingle(
 'montecito/MontecitoDR2.jpg',
 'Photograph of room interior #2<br>Design and decorative painting<br>Montecito estate, possibly that of Mrs. Norton, 1919<br>Archive of the Tasca Estate')
 }}
 
 During this era, Italian-themed interior decoration was apparently popular with the wealthy. Fausto earned commissions to design and execute room decorations for more than a few Montecito estates.
 
-{{ imagePair(
+{{ imageSingle(
 'montecito/WatercolorDiningRoom2.jpg',
-'Design for Italianate dining room<br>watercolor on paper, 1919 or 1920<br>Archive of the Tasca Estate',
+'Design for Italianate dining room<br>watercolor on paper, 1919 or 1920<br>Archive of the Tasca Estate')
+}}
+
+{{ imageSingle(
 'montecito/DiningRoomArchedWindows2.jpg',
 'Design for Italianate dining room<br>Photograph of completed project, 1919&#8211;1920<br>Archive of the Tasca Estate')
 }}

@@ -46,7 +46,7 @@ Fausto’s studies at the Academy in Venice were interrupted by obligatory milit
 'Paolina Francesca Melchiori<br>New York City, 1913<br>Archive of the Tasca Estate')
 }}
 
-Upon their arrival in the United State, Fausto and Paolina settled in the Bronx where their only child, Angelo, was born. As neither of them spoke any English, their movements were largely restricted to the community of Italian immigrants.
+Upon their arrival in the United State, Fausto and Paolina settled in the Bronx where their only child, Angelo, was born. As neither of them spoke any English, their movements were largely restricted to the community of Italian immigrants. One year following Angelo’s birth, the Tasca family relocated to Mingus, Texas. Fausto had been encouraged to leave New York by a relative, who claimed that more work could be had in Texas.
 
 {{ imageSingle(
 'santa-barbara/PaolinaandSon.jpg ',
@@ -60,4 +60,4 @@ In Mingus, Fausto found some work painting signage and doing fancy lettering for
 'Tasca family with friends<br>Mingus, Texas, 1915')
 }}
 
-The same family member who suggested moving to Texas, now suggested continuing westward to Santa Barbara. The physical beauty of the American Riviera, the temperate climate, and the cultural milieu (check spelling on site) of Santa Barbara were all very appealing to the young family.
+Fausto was disappointed and very dissatisfied with the work he could obtain in Mingus. He apparently voiced his frustration with the situation because the family connection again reached out and this time encouraged the family to continue west to California. Fausto and Paolina soon relocated to Santa Barbara. They were delighted with the physical beauty of the area and the temperate climate. They were likewise very happy to discover the community’s interest in the fine arts.

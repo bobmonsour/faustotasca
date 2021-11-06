@@ -8,7 +8,7 @@ todo: decide which pictures to put in the gallery, add links to church and resto
 
 ## San Diego, California
 
-<span>Our Lady of the Rosary Catholic Church</span>
+<span class="intro">Our Lady of the Rosary Catholic Church</span>
 The parish church located near the corner of State and Date Streets in San Diego’s Little Italy is affectionately known as The Church of the Fishermen. The church was the vision of Father Rabagliati. As an immigrant, he understood that the Italian fishermen of his parish wanted to have a beautiful church that would remind them of their beloved homeland. Father Rabagliati worked with the Italians of his community and with the diocese to bring this dream to life. The community rallied together and collected enough money to build and decorate their church.
 
 {{ imageSingle(
@@ -33,8 +33,7 @@ Fausto Tasca won the commission to decorate the entire interior of the church. H
 'Fausto at work<br>Our Lady of the Rosary Church')
 }}
 
-The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedia.org/wiki/Carlo_Romanelli" target="_blank">Carlo Romanelli</a>, received the commission to sculpt states of the Sacred Heart and the Blessed Virgin. Fausto painted both statues in a realistic style. The two statues still occupy niches to the left and right of the main altar.
-All the large paintings for Our Lady of the Rosary were completed in Fausto’s studio. The largest of the paintings, The Crucifixion and The Last Judgment, were painted on huge sheets of canvas. When they were complete, he transported them by train to San Diego, and installed them in the church. Fausto had perfected a special glue, suited to the dry climate of California, to apply the canvas to the stucco walls of the church.
+The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedia.org/wiki/Carlo_Romanelli" target="_blank">Carlo Romanelli</a>, received the commission to sculpt statues of the Sacred Heart and the Blessed Virgin. Fausto painted both statues in a realistic style. The two statues still occupy niches to the left and right of the main altar.
 
 All the large paintings for Our Lady of the Rosary were completed in Fausto’s Los Angeles studio. The two murals, The Crucifixion and The Last Judgment, were painted on huge sheets of canvas. When all the paintings were complete, Fausto transported them by train from Los Angeles to San Diego, and installed them in the church using a special glue, suited to the dry climate of California, to apply the canvas to the stucco walls of the church.
 
@@ -58,5 +57,6 @@ In 2010, a brief documentary of the church was created, highlighting its history
   <iframe width="1200" height="675" src="https://www.youtube.com/embed/OZIxDF8x9dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+Our Lady of the Rosary Church remains a beloved landmark in the community. In 2020, and extensive restoration was undertaken to restore and repair the church and its well-known artwork. Local TV station KUSI broadcast three short videos documenting the restoration, each featuring as host interior designer, Joan Peters.
 
-Our Lady of the Rosary Church, still much beloved by the community, in 2020, an extensive restoration process was undertaken to bring new life into the Church and its artwork. Local TV station KUSI broadcast three videos documenting the restoration, each featuring interior designer, Joan Peters. (links to the three videos: <a href="https://www.youtube.com/watch?v=l851EZo1dEA" target="_blank">first</a>, <a href="https://www.youtube.com/watch?v=rizTPODbB1s" target="_blank">second</a>, <a href="https://www.youtube.com/watch?v=tdwm1yXfcxk" target="_blank">third</a>)
+To watch the KUSI videos, click the links. <a href="https://www.youtube.com/watch?v=l851EZo1dEA" target="_blank">Preserving the Past</a>, <a href="https://www.youtube.com/watch?v=rizTPODbB1s" target="_blank">Restoring the Paintings</a>, <a href="https://www.youtube.com/watch?v=tdwm1yXfcxk" target="_blank">How Restoration Benefits for the Community</a>.

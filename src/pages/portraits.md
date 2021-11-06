@@ -43,7 +43,7 @@ As an established artist in California, Tasca was frequently commissioned to pai
 
 {{ imagePair(
 'portraits/AGT.jpg',
-'Artist\'s son, Angelo Tasca',
+'Artist\'s son<br>oil on canvas, 1925',
 'portraits/Self-portrait.jpg',
-'Artist, self-portrait')
+'Self-portrait<br>oil on canvas, date unknown')
 }}

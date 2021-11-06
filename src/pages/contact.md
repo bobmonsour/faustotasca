@@ -10,6 +10,8 @@ We are very interested in any information you might have regarding the whereabou
 
 Fausto also decorated at least one mansion in Los Angeles for the well-known architect, Wallace Neff, and collaborated with artist colleagues in Southern California including Carlo Wostry,  Carlo Romanelli, Tullio Robazza, and Hernando Gonzallo Villa. Any details you might have about these projects, including newspaper clippings, personal accounts, or family photographs would be helpful.
 
+The Tasca family is very interested in loaning or donating all or part of their collection and archive to appropriate arts institutions.
+
 To contact us please include your name, contact information, and comments in the form below. Thank you kindly!
 
 <form id="contact" name="Fausto Tasca website inquiry" action="/form-success.html" method="POST" data-netlify="true" netlify-honeypot="bot-field">
