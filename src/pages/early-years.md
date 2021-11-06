@@ -23,18 +23,18 @@ Fausto received the honor of Silver and Bronze Medals for his efforts at the art
 
 {{ imagePair(
 'early-years/bdg-scuola-festiva-1901-02.jpg',
-'Silver Medal, School of Design, Bassano del Grappa, 1901-1902<br>Archive of the Tasca Estate',
+'Silver Medal, School of Design<br>Bassano del Grappa, 1901-1902<br>Archive of the Tasca Estate',
 'early-years/bdg-scuola-1902-03.jpg',
-'Bronze Medal, School of Design, Bassano del Grappa, 1902-1903<br>Archive of the Tasca Estate')
+'Bronze Medal, School of Design<br>Bassano del Grappa, 1902-1903<br>Archive of the Tasca Estate')
 }}
 
 At the Academy of Fine Art in Venice, the <a href="https://www.accademiavenezia.it/" target="_blank">Accademia de Belle Arti di Venezia</a>, Fausto again distinguished himself by earning the Second Place Award for entering students, as well as Honorable Mention for his seascapes and landscape paintings.
 
 {{ imagePair(
 'early-years/iba-premio-1904-05.jpg',
-'Award with Medal for Preparatory Course, Royal Institute of Fine Arts, Venice, 1904-1905<br> Archive of the Tasca Estate',
+'Award with Medal for Preparatory Course<br>Royal Institute of Fine Arts<br>Venice, 1904-1905<br>Archive of the Tasca Estate',
 'early-years/ibda-dip-hm-1905-06.jpg',
-'Honorable Mention for Landscape and Seascape, Royal Institute of Fine Arts, Venice, 1905-1906<br>Archive of the Tasca Estate')
+'Honorable Mention for Landscape and Seascape<br>Royal Institute of Fine Arts<br>Venice, 1905-1906<br>Archive of the Tasca Estate')
 }}
 
 Fausto’s studies at the Academy in Venice were interrupted by obligatory military service. Following his military service, Fausto traveled to Rome, where he found some work painting portraits. He then returned to his native Veneto, where he met and courted his future bride, Paolina Francesca Melchiori. Fausto and Paolina were married in her home village, Crespano del Grappa in February 1913. Together they departed Italy, and boarded the SS France in LeHavre. They landed in New York in February, 1913.
@@ -45,3 +45,19 @@ Fausto’s studies at the Academy in Venice were interrupted by obligatory milit
 'early-years/NonnaNYC1913.jpg',
 'New York City, 1913<br>Archive of the Tasca Estate')
 }}
+
+Upon their arrival in the United State, Fausto and Paolina settled in the Bronx where their only child, Angelo, was born. As neither of them spoke any English, their movements were largely restricted to the community of Italian immigrants.
+
+{{ imageSingle(
+'santa-barbara/PaolinaandSon.jpg ',
+'Paolina holding her son outside their home<br>Bronx, NY, September 1914<br>Archive of the Tasca Estate')
+}}
+
+In Mingus, Fausto found some work painting signage and doing fancy lettering for storefronts. However, this rather limited work could not support his family, so he resorted to working in the coal mines.
+
+{{ imageSingle(
+'santa-barbara/Mingus1915.jpg',
+'Tasca family with friends<br>Mingus, Texas, 1915')
+}}
+
+The same family member who suggested moving to Texas, now suggested continuing westward to Santa Barbara. The physical beauty of the American Riviera, the temperate climate, and the cultural milieu (check spelling on site) of Santa Barbara were all very appealing to the young family.

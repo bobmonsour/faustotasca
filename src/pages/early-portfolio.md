@@ -7,7 +7,7 @@ description: This group of images represents a small sample of the drawings, pai
 
 ## Early Portfolio
 
-A gallery of Fausto Tasca’s early work. Unfortunately, Tasca did not typically date his work, neither did he indicate where the work was done. However, some of the images themselves provide evidence of location. For example, the conte crayon sketch was probably done en plein air in the countryside surrounding Venice. The watercolor painting of an elaborate fireplace surround was done inside the Palazzo Ducale in Venice.
+The images that follow are a sample of Fausto Tasca’s early work. Fausto was not in the habit of dating his work, neither did he indicate where a work was done. However, some of the images themselves provide evidence of date and/or location. For example, the conte crayon sketch was probably done en plein air in the countryside surrounding Venice. That would put this particular sketch during his years of study in Venice, 1904&#8211;1906. The watercolor painting of an elaborate fireplace surround was done inside the Palazzo Ducale in Venice, and can be dated to roughly the same period.
 
 {{ imageSingle(
 'early-portfolio/chalk-landscape.jpg',

@@ -14,15 +14,17 @@
 #}
 {%- macro imagePair(imageRef1, imageCaption1, imageRef2, imageCaption2) -%}
 <div class="image-pair">
-  <div>
+  <div class="image-n-caption">
     <img src="../images/{{ imageRef1 }}"
+         class="image-of-pair"
          alt="{{ imageCaption1 }}">
-    <p>{{ imageCaption1 | safe }}</p>
+    <p class="caption-of-pair">{{ imageCaption1 | safe }}</p>
   </div>
-  <div>
+  <div class="image-n-caption">
     <img src="../images/{{ imageRef2 }}"
-        alt="{{ imageCaption2 }}">
-    <p>{{ imageCaption2 | safe }}</p>
+          class="image-of-pair"
+          alt="{{ imageCaption2 }}">
+    <p class="caption-of-pair">{{ imageCaption2 | safe }}</p>
   </div>
 </div>
 {%- endmacro -%}

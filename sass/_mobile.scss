@@ -142,4 +142,21 @@
     line-height: 1.3;
   }
 
+  blockquote {
+    margin: 0;
+    p {
+      display: block;
+      width: 300px;
+      margin: 0 auto;
+      padding: 10px;
+      font-size: .9rem;
+      font-style: italic;
+      font-weight: 100;
+      line-height: 1.4;
+    }
+  }
+
+  form {
+    width: 375px;
+  }
 }

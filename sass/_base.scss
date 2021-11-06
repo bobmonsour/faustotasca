@@ -103,9 +103,19 @@ header {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
-  img, p {
-    width: 450px;
-  }
+}
+
+.image-n-caption {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.image-of-pair {
+  align-self: bottom;
+}
+.caption-of-pair {
+  align-self: top;
 }
 
 // Footer
@@ -139,7 +149,7 @@ h2 {
   font-family: $fbt-font;
   font-size: 1.2rem;
   font-weight: 100;
-  padding: 0 0 10px 0;
+  padding: 0 0 30px 0;
   text-transform: uppercase;
   text-align: center;
   color: $body-text;
@@ -168,6 +178,11 @@ p {
   letter-spacing: 1px;
 }
 
+span {
+  // display: block;
+  font-family: $fbt-font;
+  text-transform: uppercase;
+}
 blockquote {
   margin: 0;
   p {

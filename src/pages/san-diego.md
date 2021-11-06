@@ -8,19 +8,18 @@ todo: decide which pictures to put in the gallery, add links to church and resto
 
 ## San Diego, California
 
-### Our Lady of the Rosary Catholic Church
-
-The parish church located near the corner of State and Date Streets in San Diego’s Little Italy is affectionately known as The Church of the Fishermen. The Italian fishermen who once lived in the area wanted to have a beautiful church that would remind them of their beloved homeland. They rallied together and collected enough money to raise and decorate their church. The church itself was the vision of Father Rabagliati, whose dedication and spirit were key to bringing the church to life. To honor Father Rabagliati, Fauto included a portrait of him, together with a miniature of <a href="https:// www.olrsd.org/" target="_blank">Our Lady of the Rosary</a>, in the Last Judgement mural installed on the rear wall of the Church.
-
+<span>Our Lady of the Rosary Catholic Church</span>
+The parish church located near the corner of State and Date Streets in San Diego’s Little Italy is affectionately known as The Church of the Fishermen. The church was the vision of Father Rabagliati. As an immigrant, he understood that the Italian fishermen of his parish wanted to have a beautiful church that would remind them of their beloved homeland. Father Rabagliati worked with the Italians of his community and with the diocese to bring this dream to life. The community rallied together and collected enough money to build and decorate their church.
 
 {{ imageSingle(
 'san-diego/FitchPhotoOLR.jpg',
 'Interior photograph<br>by Fitch Photography of San Diego, 1925')
 }}
 
-To this day, the Church of the Fishermen is considered the “Jewel of Little Italy. The construction of the church began on August 17, 1923 and was completed in time for the church to be blessed on Christmas Eve 1923.
+The construction of the church began on August 17, 1923 and was completed in time for the church to be blessed on Christmas Eve 1923.
 
-Fausto Tasca won the commission to decorate the entire interior of the church. His plan was ambitious. It included two huge murals, several ceiling medallions, and grisailles of cherubs and angels. It also included the design and execution of all the stained glass windows in the church. In spite of the enormous amount of work needed to complete the decoration of the church, Fausto completed all the work in time for the church dedication on November 15, 1925 &#8212; in under two years.
+Fausto Tasca won the commission to decorate the entire interior of the church. His plan was ambitious. It included two huge murals, several ceiling medallions, and grisailles of cherubs and angels. It also included the design and execution of all the stained glass windows in the church. To honor Father Rabagliati, Fausto Tasca included a portrait of him, together with a miniature of <a href="https://www.olrsd.org/" target="_blank">Our Lady of the Rosary</a>, in the Last Judgement mural installed on the rear wall of the Church. In spite of the enormous amount of work needed to complete the decoration of the church, Fausto completed all the work in time for the church dedication on November 15, 1925 — in under two years.
+
 
 {{ imageSingle(
 'san-diego/OLRDedicationMass.jpg',
@@ -35,8 +34,9 @@ Fausto Tasca won the commission to decorate the entire interior of the church. H
 }}
 
 The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedia.org/wiki/Carlo_Romanelli" target="_blank">Carlo Romanelli</a>, received the commission to sculpt states of the Sacred Heart and the Blessed Virgin. Fausto painted both statues in a realistic style. The two statues still occupy niches to the left and right of the main altar.
-
 All the large paintings for Our Lady of the Rosary were completed in Fausto’s studio. The largest of the paintings, The Crucifixion and The Last Judgment, were painted on huge sheets of canvas. When they were complete, he transported them by train to San Diego, and installed them in the church. Fausto had perfected a special glue, suited to the dry climate of California, to apply the canvas to the stucco walls of the church.
+
+All the large paintings for Our Lady of the Rosary were completed in Fausto’s Los Angeles studio. The two murals, The Crucifixion and The Last Judgment, were painted on huge sheets of canvas. When all the paintings were complete, Fausto transported them by train from Los Angeles to San Diego, and installed them in the church using a special glue, suited to the dry climate of California, to apply the canvas to the stucco walls of the church.
 
 {{ imageSingle(
 'san-diego/FBTStudio.jpg',

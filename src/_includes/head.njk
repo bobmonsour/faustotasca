@@ -10,4 +10,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Cardo&family=Roboto+Slab&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Add Google Analytics in "production" environment -->
+  {% if site.env == "production" %}
+    {% include "google-analytics.html" %}
+  {% endif %}
 </head>

@@ -12,33 +12,33 @@ Fausto Tasca’s comprehensive training at the Academy of Fine Arts of Venice in
 
 As an established artist in California, Tasca was frequently commissioned to paint portraits in oil. Among this work was a portrait of A.P. Giannini, founder of the Bank of America. It is shown below in a publicity photograph from the Los Angeles Times. Tasca also created a portrait of Galileo for the Griffith Park Observatory in Los Angeles. Among other commissions were the portrait of President Roosevelt and that of J. David Larson.
 
-If you have information regarding these or other portraits by Fausto Tasca, please contact [tascafineart@gmail.com](mailto:tascafineart@gmail.com).
+If you have information regarding these or other portraits by Fausto Tasca, <a href="/contact.html">please contact me</a>.
 
 {{ imageSingle(
 'portraits/APGianniniWEB.jpg',
-'NEED CAPTION')
+'A.P. Giannini<br>LA Times photograph<br>Archive of the Tasca Estate')
 }}
 
 {{ imagePair(
 'portraits/Galileo.png',
-'NEED CAPTION',
+'Galileo<br>oil on linen<br>1937<br>Collection of Griffith Planetarium',
 'portraits/ObserverCoverWEB.jpg',
-'NEED CAPTION')
+'Griffith Planetarium newsletter cover<br>1938')
 }}
 
 {{ imageSingle(
 'portraits/Galileo-article.jpg',
-'NEED CAPTION')
+'LA Times article and photograph<br>1937')
 }}
 
 {{ imagePair(
 'portraits/Professor.jpg',
-'NEED CAPTION',
+'Scientist and friend of the artist<br>oil on canvas, date unknown<br>Collection of the Tasca Estate',
 'portraits/Larsen.jpg',
-'NEED CAPTION')
+'J. David Larson, oil on canvas<br>sketch for final portrait, 1929<br>Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'portraits/young-woman.jpg',
-'NEED CAPTION')
+'Young woman<br>oil on canvas, date unknown<br>Private Collection')
 }}

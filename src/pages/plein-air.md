@@ -12,25 +12,31 @@ He called these paintings “oil sketches.” While painting outdoors, he worked
 
 {{ imageSingle(
 'plein-air/CircusPadova.jpg',
-'Circus Padova')
+'Circus Padova<br>oil on wood panel, 1905&#8211;1908<br>Collection of the Tasca Estate')
 }}
 
-{{ imagePair(
+{{ imageSingle(
 'plein-air/BigBearLake.jpg',
-'Big Bear Lake',
+'Big Bear Lake<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
+}}
+
+{{ imageSingle(
 'plein-air/waterfall.jpg',
-'Waterfall')
+'Waterfall<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
 }}
 
 
 {{ imageSingle(
 'plein-air/PacificCoast.jpg',
-'Pacific Coast')
+'Pacific Coast<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
 }}
 
-{{ imagePair(
+{{ imageSingle(
 'plein-air/CityHall.jpg',
-'City Hall',
+'City Hall<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
+}}
+
+{{ imageSingle(
 'plein-air/LosAngelesSunset.jpg',
-'Los Angeles Sunset')
+'Los Angeles Sunset<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
 }}
