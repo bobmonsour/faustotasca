@@ -19,9 +19,9 @@ As an established artist in California, Tasca was frequently commissioned to pai
 
 {{ imagePair(
 'portraits/Galileo.png',
-'Galileo<br>oil on linen<br>1937<br>Collection of Griffith Planetarium',
+'Galileo<br>oil on linen<br>1937<br>Collection of Griffith Observatory',
 'portraits/ObserverCoverWEB.jpg',
-'Griffith Planetarium newsletter cover<br>1938')
+'Griffith Observatory newsletter cover<br>1938')
 }}
 
 {{ imageSingle(
