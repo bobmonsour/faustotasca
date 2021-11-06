@@ -44,13 +44,9 @@ In the mid-1970’s this extraordinary bank was demolished to make way for a par
 
 <span class="intro">Farmers and Merchants Bank </span>Although the Redondo Beach branch of the Farmers and Merchants Bank still stands at the location indicated by 1915 photographs, the bank building no longer exists. Photographs of the current Farmers and Merchants Bank located at 1333 Pacific Coast Highway is slick and modern, and give no indication of the bank’s origins or history. Sadly, the mural by Fausto Tasca has also disappeared.
 
-[NEED THIS IMAGE]
-Los Angeles Times full page, 1922. Caption: "The Discovery of Our Great California," a mural painting by Fausto Tasca, to adorn walls of Farmers and Merchants National Bank, Redondo Beach
-
-
 {{ imageSingle(
 'los-angeles/Mural.jpg',
-'The Discovery of Our Great California')
+'"The Discovery of Our Great California", a mural painting by Fausto Tasca, to adorn walls of Farmers and Merchants National Bank, Redondo Beach')
 }}
 
 {{ imageSingle(

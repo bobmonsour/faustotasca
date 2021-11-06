@@ -1,7 +1,6 @@
 ---
 title: Fausto Bellino Tasca | San Diego
 description: The design and decorative painting for the interior of Our Lady of the Rosary Church in San Diego, California, was a major commission in Fausto Tasca’s career.
-todo: decide which pictures to put in the gallery, add links to church and restoration videos, make youtube embed responsivew
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}

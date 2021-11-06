@@ -1,7 +1,6 @@
 ---
 title: Plein Air
 description: Fausto loved painting outside, en plein air. He started working in this manner while a student in Italy and continued to paint outdoors all his life.
-todo: richer captions? fix image sizes
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}

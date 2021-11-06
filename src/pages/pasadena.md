@@ -1,7 +1,6 @@
 ---
 title: Fausto Bellino Tasca | Pasadena
 description: Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew’s Church in Pasadena, California.
-todo: add more images
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
