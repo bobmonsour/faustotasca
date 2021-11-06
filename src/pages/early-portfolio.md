@@ -18,7 +18,7 @@ Archive of the Tasca Estate')
 
 
 {{ imagePair(
-'early-portfolio/fireplace-venice.png',
+'early-portfolio/WatercolorFireplace.jpg',
 'Fireplace Palazzo Ducale, Venice<br>1904&#8211;1906, watercolor on paper<br>Archive of the Tasca Estate',
 'early-portfolio/statue-study.jpg',
 'Still LIfe with Plaster Statue<br>1904&#8211;1906, watercolor on paper<br>Archive of the Tasca Estate')
