@@ -34,7 +34,8 @@ main a {
   color: $headline-color;
 
   &:hover {
-    font-weight: bold;
+    border-bottom: 2px solid $headline-color;
+    // text-decoration: underline;
   }
 }
 

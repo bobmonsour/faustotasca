@@ -11,8 +11,8 @@
 
   <link rel="stylesheet" href="/css/main.css">
 
-  <!-- Add Google Analytics in "production" environment -->
+  <!-- Add Google Analytics in "production" environment only -->
   {% if site.env == "production" %}
-    {% include "google-analytics.html" %}
+    {% include "google-analytics.njk" %}
   {% endif %}
 </head>
