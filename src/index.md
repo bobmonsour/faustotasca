@@ -6,7 +6,7 @@ permalink: "/"
 ---
 <div class="container-home">
   <img src="../images/fbt-with-caruso.jpg" alt="Fausto Bellino Tasca, Self-Portrait as a Young Man, oil on canvas, 1905">
-  <h2>Painter, Designer, Sculptor</h4>
+  <h2>Painter, Designer, Sculptor</h2>
 </div>
 
 <div class="home-text">

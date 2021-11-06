@@ -15,7 +15,7 @@ The Tasca family is very interested in loaning or donating all or part of their 
 To contact us please include your name, contact information, and comments in the form below. Thank you kindly!
 
 <form id="contact" name="Fausto Tasca website inquiry" action="/form-success.html" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-  {# <h2>say more here. or above, and remove this text</h4> #}
+  {# <h2>say more here. or above, and remove this text</h2> #}
   <fieldset>
     <input placeholder="Your name" type="text" name="name" tabindex="1" required autofocus>
     <input class="other-form-field" name="bot-field">
