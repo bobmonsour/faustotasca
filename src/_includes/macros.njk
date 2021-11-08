@@ -5,7 +5,7 @@
 {% macro imageSingle(imageRef, imageCaption, noCaption) %}
 <div class="image-single">
   <img src="/images/{{ imageRef }}"
-       alt="{{ imageCaption }}">
+       alt="{{ imageCaption }}" loading="lazy">
   <p>{{ imageCaption | captionLineBreaks | safe }}</p>
 </div>
 {% endmacro %}
@@ -16,11 +16,11 @@
 <div class="image-pair">
   <img src="/images/{{ imageRef1 }}"
         class="image1"
-        alt="{{ imageCaption1 }}">
+        alt="{{ imageCaption1 }}" loading="lazy">
   <p class="caption1">{{ imageCaption1 | captionLineBreaks | safe }}</p>
   <img src="/images/{{ imageRef2 }}"
         class="image2"
-        alt="{{ imageCaption2 }}">
+        alt="{{ imageCaption2 }}" loading="lazy">
   <p class="caption2">{{ imageCaption2 | captionLineBreaks | safe }}</p>
 </div>
 {%- endmacro -%}
