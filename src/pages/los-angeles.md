@@ -47,7 +47,7 @@ In the mid-1970’s this extraordinary bank was demolished to make way for a par
 
 {{ imageSingle(
 'los-angeles/Mural.jpg',
-'"The Discovery of Our Great California", -a mural painting by Fausto Tasca, -to adorn walls of Farmers and Merchants National Bank, Redondo Beach, -Photographer unknown, -Photo, Archive of the Tasca Estate')
+'"The Discovery of Our Great California", -a mural to adorn the walls of, -Farmers and Merchants National Bank, Redondo Beach, -Photographer unknown, -Photo, Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
