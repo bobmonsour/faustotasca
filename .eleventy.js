@@ -17,6 +17,10 @@ module.exports = function(eleventyConfig) {
     debugger;
   });
 
+  eleventyConfig.addFilter("captionLineBreaks", function(caption) {
+    return caption.replace(/, -/g, "<br>");
+  });
+
   return {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",

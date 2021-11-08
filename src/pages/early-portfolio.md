@@ -12,41 +12,41 @@ The images that follow are a sample of Fausto Tasca’s early work. Fausto was n
 
 {{ imageSingle(
 'early-portfolio/fausto-early-self-portrait.jpg',
-'Self-portrait, oil on linen, 1902&#8211;1906')
+'Self-portrait, -oil on linen, -1902&#8211;1906')
 }}
 
 {{ imageSingle(
 'early-portfolio/ConteLandscape.jpg',
-'Landscape Study, 1904&#8211;1906<br>
-conte crayon on paper<br>
+'Landscape Study, 1904&#8211;1906, -
+conte crayon on paper, -
 Archive of the Tasca Estate')
 }}
 
 {{ imagePair(
 'early-portfolio/WatercolorFireplace.jpg',
-'Fireplace Palazzo Ducale, Venice<br>1904&#8211;1906, watercolor on paper<br>Archive of the Tasca Estate',
+'Fireplace Palazzo Ducale, Venice, -1904&#8211;1906, watercolor on paper, -Archive of the Tasca Estate',
 'early-portfolio/statue-study.jpg',
-'Still LIfe with Plaster Statue<br>1904&#8211;1906, watercolor on paper<br>Archive of the Tasca Estate')
+'Still LIfe with Plaster Statue, -1904&#8211;1906, watercolor on paper, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'early-portfolio/study-of-hands.jpg',
-'Study of hands<br>ink on paper, 1904&#8211;1906<br>Archive of the Tasca Estate')
+'Study of hands, -ink on paper, 1904&#8211;1906, -Archive of the Tasca Estate')
 }}
 
 {{ imagePair(
 'early-portfolio/graphite-sketch-emperor.jpg',
-'Roman Bust #1<br>1904&#8211;1906, graphite on paper<br>Archive of the Tasca Estate',
+'Roman Bust #1, -1904&#8211;1906, graphite on paper, -Archive of the Tasca Estate',
 'early-portfolio/graphite-sketch.jpg',
-'Roman Bust #2<br>1904&#8211;1906, graphite on paper<br>Archive of the Tasca Estate')
+'Roman Bust #2, -1904&#8211;1906, graphite on paper, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'early-portfolio/roma-postcard.jpg',
-'Roman postcard<br>1907&#8211;1908, offset lithography<br>original lost')
+'Roman postcard, -1907&#8211;1908, offset lithography, -original lost')
 }}
 
 {{ imageSingle(
 'early-portfolio/watercolor-angel.jpg',
-'Angel after Raffaello<br>1920, watercolor on paper<br>Archive of the Tasca Estate')
+'Angel after Raffaello, -1920, watercolor on paper, -Archive of the Tasca Estate')
 }}

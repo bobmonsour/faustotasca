@@ -12,33 +12,33 @@ keywords: Citizen’s National Bank, Farmers & Merchants Bank, Allegory of Indus
 
 {{ imageSingle(
 'los-angeles/KopekInterior.jpg',
-'Bank Interior<br>Kopek Photography, 1920<br>Archive of the Tasca Estate')
+'Bank Interior, -Kopek Photography, 1920, -Archive of the Tasca Estate')
 }}
 
 Fausto’s design for the bank interior was based on a history of the west written by O.E. Monnette, <a href="https://www.google.com/books/edition/California_Chronology/gBs1AQAAMAAJ?hl=en&gbpv=1" target="_blank">California Chronology</a>. This commission included a series of thirteen narrative murals and two large ceiling medallions, “Allegory of Industry” and “Triumph of California.”
 
 {{ imagePair(
 'los-angeles/Industry_CeilingBW.jpg',
-'Allegory of Industry<br>As installed at Citizen\'s Trust, 1920<br>Photographer unknown<br>Archive of the Tasca Estate',
+'Allegory of Industry, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate',
 'los-angeles/IndustrycroppedColor.jpg',
-'Allegory of Industry<br>As installed at Citizen\'s Trust, 1920<br>Photograph, Sandra Tasca, 2021<br>Collection of the Tasca Estate')
+'Allegory of Industry, -As installed at Citizen\'s Trust, 1920, -Photograph, Sandra Tasca, 2021, -Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'los-angeles/California.jpg',
-'The Triumph of California<br>As installed at Citizen\'s Trust, 1920<br>Photographer unknown<br>Archive of the Tasca Estate')
+'The Triumph of California, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 
 All the paintings for this commission were created on canvas and attached to the walls of the bank interior using special glue. The narrative murals follow the story of California history, and include Drake’s Landing, Spanish settlers, a Prospector, Cowboys, as well as a California Indian scout. Fausto carefully researched the appearance of each of his subjects, and did his best to portray each with respect and realism.
 
 {{ imageSingle(
 'los-angeles/Prospector.jpg',
-'Prospector<br>As installed at Citizen\'s Trust, 1920<br>Photographer unknown<br>Collection of the Tasca Estate')
+'Prospector, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'los-angeles/SpanishCouple.jpg',
-'Spanish Settlers<br>As installed at Citizen\'s Trust, 1920<br>Photographer unknown<br>Collection of the Tasca Estate')
+'Spanish Settlers, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Collection of the Tasca Estate')
 }}
 
 In the mid-1970’s this extraordinary bank was demolished to make way for a parking lot. By chance, an art lover knew of Fausto’s method of applying his painting to the walls, stepped in to rescue the paintings. All the works were kept in storage until 2018, when a descendent of the developer who razed the bank contacted the painter’s granddaughter. The two families negotiated, and the paintings were recovered by the Tasca family. The Tasca family is now negotiating with museums in California to restore and display these beautiful works.
@@ -59,21 +59,21 @@ In the mid-1970’s this extraordinary bank was demolished to make way for a par
 
 {{ imagePair(
 'los-angeles/MartyrdomAgatha.jpg',
-'Martyrdom of St. Agatha<br>watercolor concept sketch for Cabrini Chapel<br>date unknown<br>Archive of the Tasca Estate',
+'Martyrdom of St. Agatha, -watercolor concept sketch for Cabrini Chapel, -date unknown, -Archive of the Tasca Estate',
 'los-angeles/Sketch-for-Cabrini-Chapel.jpg',
-'Main altar<br>watercolor concept sketch for Cabrini Chapel<br>date unknown<br>Archive of the Tasca Estate')
+'Main altar, -watercolor concept sketch for Cabrini Chapel, -date unknown, -Archive of the Tasca Estate')
 }}
 
 ### Other Los Angeles Commissions
 
 {{ imageSingle(
 'los-angeles/MInerva.jpg',
-'International Artists\' Club<br>date unknown<br>Archive of the Tasca Estate')
+'International Artists\' Club, -date unknown, -Archive of the Tasca Estate')
 }}
 
 <div id="redondo-library">
 {{ imageSingle(
 'los-angeles/RedondLibraryWindow.jpg',
-'Redondo Beach Public Library<br>Stained glass window<br>Photographer unknown, date unknown<br>Archive of the Tasca Estate')
+'Redondo Beach Public Library, -Stained glass window, -Photographer unknown, date unknown, -Archive of the Tasca Estate')
 }}
 </div>

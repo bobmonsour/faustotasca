@@ -6,7 +6,7 @@
 <div class="image-single">
   <img src="../images/{{ imageRef }}"
        alt="{{ imageCaption }}">
-  <p>{{ imageCaption | safe }}</p>
+  <p>{{ imageCaption | captionLineBreaks | safe }}</p>
 </div>
 {% endmacro %}
 {#
@@ -17,10 +17,10 @@
   <img src="../images/{{ imageRef1 }}"
         class="image1"
         alt="{{ imageCaption1 }}">
-  <p class="caption1">{{ imageCaption1 | safe }}</p>
+  <p class="caption1">{{ imageCaption1 | captionLineBreaks | safe }}</p>
   <img src="../images/{{ imageRef2 }}"
         class="image2"
         alt="{{ imageCaption2 }}">
-  <p class="caption2">{{ imageCaption2 | safe }}</p>
+  <p class="caption2">{{ imageCaption2 | captionLineBreaks | safe }}</p>
 </div>
 {%- endmacro -%}

@@ -13,7 +13,7 @@ The parish church located near the corner of State and Date Streets in San Diego
 
 {{ imageSingle(
 'san-diego/FitchPhotoOLR.jpg',
-'Interior photograph<br>by Fitch Photography of San Diego, 1925')
+'Interior photograph, -by Fitch Photography of San Diego, 1925')
 }}
 
 The construction of the church began on August 17, 1923 and was completed in time for the church to be blessed on Christmas Eve 1923.
@@ -23,14 +23,14 @@ Fausto Tasca won the commission to decorate the entire interior of the church. H
 
 {{ imageSingle(
 'san-diego/OLRDedicationMass.jpg',
-'Article from The Southern Cross<br>January 8, 1926<br>Archive of the Tasca Estae')
+'Article from The Southern Cross, -January 8, 1926, -Archive of the Tasca Estae')
 }}
 
 {{ imagePair(
 'san-diego/watercolor concept window copy.jpg',
-'Proof of concept<br>watercolor on paper',
+'Proof of concept, -watercolor on paper',
 'san-diego/FBTPaintingWindow.jpg',
-'Fausto at work<br>Our Lady of the Rosary Church')
+'Fausto at work, -Our Lady of the Rosary Church')
 }}
 
 The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedia.org/wiki/Carlo_Romanelli" target="_blank">Carlo Romanelli</a>, received the commission to sculpt statues of the Sacred Heart and the Blessed Virgin. Fausto painted both statues in a realistic style. The two statues still occupy niches to the left and right of the main altar.
@@ -44,7 +44,7 @@ All the large paintings for Our Lady of the Rosary were completed in Fausto’s 
 
 {{ imageSingle(
 'san-diego/FBT-painting-crucifixion.jpg',
-'Fausto, at work in his studio<br>Crucifixion mural<br>Our Lady of the Rosary Church')
+'Fausto, at work in his studio, -Crucifixion mural, -Our Lady of the Rosary Church')
 }}
 
 A written history of the first 90 years of Our Lady of the Rosary <a href="https://www.olrsd.org/History-of-OLR" target="_blank">can be found on the parish website</a>. Father Rabagliati's intention for the Church's artwork:

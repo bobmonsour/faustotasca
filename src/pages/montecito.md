@@ -18,32 +18,32 @@ On a very memorable evening, Fausto presented the Mission painting to the King a
 
 {{ imageSingle(
 'montecito/DetailSketch.jpg',
-'Watercolor study for room interior 1919<br>Archive of the Tasca Estate')
+'Watercolor study for room interior 1919, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'montecito/MontecitoDR1.jpg',
-'Dining Room, Montecito<br>Design and decorative painting<br>Montecito estate, possibly that of Mrs. Norton, 1919<br>Archive of the Tasca Estate')
+'Dining Room, Montecito, -Design and decorative painting, -Montecito estate, possibly that of Mrs. Norton, 1919, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'montecito/Lumachrome.jpg',
-'Woman Driving a Chariot<br>Lumachrome by Fausto Tasca<br>Actual painting can be seen in the niche above the fireplace<br>Montecito estate, 1919<br>Archive of the Tasca Estate')
+'Woman Driving a Chariot, -Lumachrome by Fausto Tasca, -Actual painting can be seen in the niche above the fireplace, -Montecito estate, 1919, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'montecito/MontecitoDR2.jpg',
-'Photograph of room interior #2<br>Design and decorative painting<br>Montecito estate, possibly that of Mrs. Norton, 1919<br>Archive of the Tasca Estate')
+'Photograph of room interior #2, -Design and decorative painting, -Montecito estate, possibly that of Mrs. Norton, 1919, -Archive of the Tasca Estate')
 }}
 
 During this era, Italian-themed interior decoration was apparently popular with the wealthy. Fausto earned commissions to design and execute room decorations for more than a few Montecito estates.
 
 {{ imageSingle(
 'montecito/WatercolorDiningRoom2.jpg',
-'Design for Italianate dining room<br>watercolor on paper, 1919 or 1920<br>Archive of the Tasca Estate')
+'Design for Italianate dining room, -watercolor on paper, 1919 or 1920, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'montecito/DiningRoomArchedWindows2.jpg',
-'Design for Italianate dining room<br>Photograph of completed project, 1919&#8211;1920<br>Archive of the Tasca Estate')
+'Design for Italianate dining room, -Photograph of completed project, 1919&#8211;1920, -Archive of the Tasca Estate')
 }}

@@ -12,21 +12,21 @@ keywords: trompe d’oeil, gold-leaf, angel motif, painted ceiling, ceiling beam
 
 {{ imageSingle(
 'pasadena/AltarScreenbyAGTasca.jpg',
-'Main ALtar, St. Andrew\'s Church<br>Gold-leaf work by apprentice, Angelo Tasca, 1927')
+'Main ALtar, St. Andrew\'s Church, -Gold-leaf work by apprentice, Angelo Tasca, 1927')
 }}
 
 Tasca also designed and executed the foyer decoration, painting it from floor to ceiling. In this installation, Fausto painted directly on the walls instead of on canvas, as he had done at Our Lady of the Rosary.
 
 {{ imageSingle(
 'pasadena/DetailnearFloorNarthex.jpg',
-'Narthex interior<br>1927')
+'Narthex interior, -1927')
 }}
 
 The lower portion of each wall was painted with trompe d’oeil bronze shields against a vermillion ground, the upper portion of the walls was carefully painted to resemble marble. The complex shape of the foyer ceiling was beautifully painted with flower garlands and angels, on a gold-leaf background.
 
 {{ imageSingle(
 'pasadena/NarthexCeiling2.jpg',
-'Narthex ceiling<br>Painted decoration with gold-leaf background<br>1927')
+'Narthex ceiling, -Painted decoration with gold-leaf background, -1927')
 }}
 
 {{ imageSingle(

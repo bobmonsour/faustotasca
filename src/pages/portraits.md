@@ -14,36 +14,36 @@ As an established artist in California, Tasca was frequently commissioned to pai
 
 {{ imageSingle(
 'portraits/APGianniniWEB.jpg',
-'A.P. Giannini<br>LA Times photograph<br>Archive of the Tasca Estate')
+'A.P. Giannini, -LA Times photograph, -Archive of the Tasca Estate')
 }}
 
 {{ imagePair(
 'portraits/Galileo.jpg',
-'Galileo<br>oil on linen<br>1937<br>Collection of Griffith Observatory',
+'Galileo, -oil on linen, -1937, -Collection of Griffith Observatory',
 'portraits/ObserverCoverWEB.jpg',
-'Griffith Observatory newsletter cover<br>1938')
+'Griffith Observatory newsletter cover, -1938')
 }}
 
 {{ imageSingle(
 'portraits/Galileo-article.jpg',
-'LA Times article and photograph<br>1937')
+'LA Times article and photograph, -1937')
 }}
 
 {{ imagePair(
 'portraits/Professor.jpg',
-'Scientist and friend of the artist<br>oil on canvas, date unknown<br>Collection of the Tasca Estate',
+'Scientist and friend of the artist, -oil on canvas, date unknown, -Collection of the Tasca Estate',
 'portraits/Larsen.jpg',
-'J. David Larson, oil on canvas<br>sketch for final portrait, 1929<br>Collection of the Tasca Estate')
+'J. David Larson, oil on canvas, -sketch for final portrait, 1929, -Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'portraits/young-woman.jpg',
-'Young woman<br>oil on canvas, date unknown<br>Private Collection')
+'Young woman, -oil on canvas, date unknown, -Private Collection')
 }}
 
 {{ imagePair(
 'portraits/AGT.jpg',
-'Artist\'s son<br>oil on canvas, 1925',
+'Artist\'s son, -oil on canvas, 1925',
 'portraits/Self-portrait.jpg',
-'Self-portrait<br>oil on canvas, date unknown')
+'Self-portrait, -oil on canvas, date unknown')
 }}

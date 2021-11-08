@@ -18,12 +18,12 @@ In 1919 Fausto received a brilliant commission from the City of Santa Barbara. H
 
 {{ imageSingle(
 'santa-barbara/mission-santa-barbara.jpg',
-'Mission Santa Barbara<br>oil on canvas, 1919<br>Collection of the Royal Family, Belgium<br>Identical Copy, Collection of the Tasca Estate')
+'Mission Santa Barbara, -oil on canvas, 1919, -Collection of the Royal Family, Belgium, -Identical Copy, Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
 'santa-barbara/mission-painting-presentation.jpg',
-'Newspaper clipping documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium<br>1919',
+'Newspaper clipping documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium, -1919',
 'santa-barbara/queen-of-belgium.jpg',
-'Personal letter from the Queen of Belgium<br>October 19, 1919<br>Archive of the Tasca Estate')
+'Personal letter from the Queen of Belgium, -October 19, 1919, -Archive of the Tasca Estate')
 }}
