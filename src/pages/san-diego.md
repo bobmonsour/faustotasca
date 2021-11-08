@@ -54,7 +54,7 @@ A written history of the first 90 years of Our Lady of the Rosary <a href="https
 In 2010, a brief documentary of the church was created, highlighting its history and describing the artwork.
 
 <div class="videoWrapper">
-  <iframe src="https://www.youtube.com/embed/OZIxDF8x9dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="video" src="https://www.youtube.com/embed/OZIxDF8x9dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Our Lady of the Rosary Church remains a beloved landmark in the community. In 2020, and extensive restoration was undertaken to restore and repair the church and its well-known artwork. Local TV station KUSI broadcast three short videos documenting the restoration, each featuring as host interior designer, Joan Peters.
