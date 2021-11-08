@@ -11,12 +11,12 @@ keywords: Enrico Caruso, tenor, Olympics, Garibaldina, bas relief
 Fausto Tasca made many sculpture studies, or maquettes, but few known finished pieces. His portrait bust of the great Enrico Caruso is one of his few finished sculptures in existence. The large bust of Caruso, pictured here, was created as a gift for the great tenor’s family.
 
 {{ imageSingle(
-'sculpture/CarusoNonno.jpg',
+'CarusoNonno.jpg',
 'Plaster bust of Enrico Caruso')
 }}
 
 {{ imageSingle(
-'sculpture/CarusoThankYou.jpg',
+'CarusoThankYou.jpg',
 'Thank you note from Madame Caruso, 1921')
 }}
 
@@ -25,13 +25,13 @@ In addition to the large bust of Caruso, Tasca sculpted a smaller version of the
 Maquettes, or studies for commissioned work:
 
 {{ imageSingle(
-'sculpture/GaribaldinaWeb.jpg',
+'GaribaldinaWeb.jpg',
 'Bas relief, 1930')
 }}
 
 {{ imagePair(
-'sculpture/OlympicsMaquette.jpg',
+'OlympicsMaquette.jpg',
 'Maquette for Los Angeles Olympics',
-'sculpture/Tullio.jpg',
+'Tullio.jpg',
 'Tribute to Tullio Robazza, 1936')
 }}

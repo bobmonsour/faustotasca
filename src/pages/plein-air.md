@@ -13,22 +13,29 @@ Fausto loved painting outside, <span class="ital">en plein air</span>. He starte
 He called these paintings “oil sketches.” While painting outdoors, he worked <span class="ital">alla prima</span>, that is to say, quickly and with virtually no corrections or changes once a mark was made. According to his son, the sketches took very little time to execute — apparently only five to ten minutes.
 
 {{ imagePair(
-'plein-air/CircusPadova.jpg',
+'HaystacksVeneto.jpg',
+'Haystacks in the Veneto, -oil on wood panel, 1905&#8211;1908, -Collection of the Tasca Estate',
+'VeniceLagune.jpg',
+'Venice Lagoon, -oil on wood panel, 1905&#8211;1908, -Collection of the Tasca Estate')
+}}
+
+{{ imagePair(
+'CircusPadova.jpg',
 'Circus Padova, -oil on wood panel, 1905&#8211;1908, -Collection of the Tasca Estate',
-'plein-air/BigBearLake.jpg',
+'BigBearLake.jpg',
 'Big Bear Lake, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
-'plein-air/waterfall.jpg',
+'waterfall.jpg',
 'Waterfall, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate',
-'plein-air/PacificCoast.jpg',
+'PacificCoast.jpg',
 'Pacific Coast, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
-'plein-air/CityHall.jpg',
+'CityHall.jpg',
 'City Hall, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate',
-'plein-air/LosAngelesSunset.jpg',
+'LosAngelesSunset.jpg',
 'Los Angeles Sunset, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate')
 }}

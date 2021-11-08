@@ -13,7 +13,7 @@ Fausto Bellino Tasca was the first child of Angelo Tasca (1848&#8211;1939) and L
 The Tasca family of San Zenone was far from well-to-do. The patriarch of the family, Angelo, worked with his physical strength and his hands to support the family. The sons were expected to contribute to the family’s resources with their own labors. So it is understandable that, despite his obvious artistic talent, Fausto was not encouraged to pursue his dream of becoming a painter.
 
 {{ imageSingle(
-'early-years/angelo-and-luigia-tasca.jpg',
+'angelo-and-luigia-tasca.jpg',
 'Family of Angelo Tasca and Luigia Battagi, -standing: Luigi, Antonio, Elisabetta, -seated: Erminia, Antonio, Luigia, Fausto, -Photograph, October 12, 1908')
 }}
 
@@ -22,41 +22,41 @@ After sharing some of his work with a local gentleman of means, an agreement was
 Fausto received the honor of Silver and Bronze Medals for his efforts at the art school in Bassano. Apparently, the high regard of the faculty at Bassano was enough for his benefactor to fund Fausto’s studies at the prestigious Academy of Fine Arts in Venice.
 
 {{ imagePair(
-'early-years/bdg-scuola-festiva-1901-02.jpg',
+'bdg-scuola-festiva-1901-02.jpg',
 'Silver Medal, School of Design, -Bassano del Grappa, 1901-1902, -Archive of the Tasca Estate',
-'early-years/bdg-scuola-1902-03.jpg',
+'bdg-scuola-1902-03.jpg',
 'Bronze Medal, School of Design, -Bassano del Grappa, 1902-1903, -Archive of the Tasca Estate')
 }}
 
 At the Academy of Fine Art in Venice, the <a href="https://www.accademiavenezia.it/" target="_blank">Accademia de Belle Arti di Venezia</a>, Fausto again distinguished himself by earning the Second Place Award for entering students, as well as Honorable Mention for his seascapes and landscape paintings.
 
 {{ imagePair(
-'early-years/iba-premio-1904-05.jpg',
+'iba-premio-1904-05.jpg',
 'Award with Medal for Preparatory Course, -Royal Institute of Fine Arts, -Venice, 1904-1905, -Archive of the Tasca Estate',
-'early-years/ibda-dip-hm-1905-06.jpg',
+'ibda-dip-hm-1905-06.jpg',
 'Honorable Mention for Landscape and Seascape, -Royal Institute of Fine Arts, -Venice, 1905-1906, -Archive of the Tasca Estate')
 }}
 
 Fausto’s studies at the Academy in Venice were interrupted by obligatory military service. Following his military service, Fausto traveled to Rome, where he found some work painting portraits. He then returned to his native Veneto, where he met and courted his future bride, Paolina Francesca Melchiori. Fausto and Paolina were married in her home village, Crespano del Grappa in February 1913. Together they departed Italy, and boarded the SS France in LeHavre. They landed in New York in February, 1913.
 
 {{ imagePair(
-'early-years/FBTParkNY1913.jpg',
+'FBTParkNY1913.jpg',
 'Fausto Bellino Tasca, -New York City, 1913, -Archive of the Tasca Estate',
-'early-years/NonnaNYC1913.jpg',
+'NonnaNYC1913.jpg',
 'Paolina Francesca Melchiori, -New York City, 1913, -Archive of the Tasca Estate')
 }}
 
 Upon their arrival in the United State, Fausto and Paolina settled in the Bronx where their only child, Angelo, was born. As neither of them spoke any English, their movements were largely restricted to the community of Italian immigrants. One year following Angelo’s birth, the Tasca family relocated to Mingus, Texas. Fausto had been encouraged to leave New York by a relative, who claimed that more work could be had in Texas.
 
 {{ imageSingle(
-'santa-barbara/PaolinaandSon.jpg ',
+'PaolinaandSon.jpg ',
 'Paolina holding her son outside their home, -Bronx, NY, September 1914, -Archive of the Tasca Estate')
 }}
 
 In Mingus, Fausto found some work painting signage and doing fancy lettering for storefronts. However, this rather limited work could not support his family, so he resorted to working in the coal mines.
 
 {{ imageSingle(
-'santa-barbara/Mingus1915.jpg',
+'Mingus1915.jpg',
 'Tasca family with friends, -Mingus, Texas, 1915, -Archive of the Tasca Estate')
 }}
 

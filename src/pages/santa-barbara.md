@@ -17,13 +17,13 @@ Fausto and Paolina both offered their artistic talents to the annual Fiesta in S
 In 1919 Fausto received a brilliant commission from the City of Santa Barbara. He was to paint a gift for the King and Queen of Belgium. The royal couple would visit Santa Barbara that year, and the city very much wanted to present them with a beautiful landscape featuring the Mission. According to newspaper accounts, a Mrs. Norton sponsored this exceptional gift.
 
 {{ imageSingle(
-'santa-barbara/mission-santa-barbara.jpg',
+'mission-santa-barbara.jpg',
 'Mission Santa Barbara, -oil on canvas, 1919, -Collection of the Royal Family, Belgium, -Identical Copy, Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
-'santa-barbara/mission-painting-presentation.jpg',
+'mission-painting-presentation.jpg',
 'Newspaper clipping documenting, -the gift of the, -Mission Santa Barbara painting, -to the King & Queen of Belgium, -1919, -Archive of the Tasca Estate',
-'santa-barbara/queen-of-belgium.jpg',
+'queen-of-belgium.jpg',
 'Personal letter from, -the Queen of Belgium, -October 19, 1919, -Archive of the Tasca Estate')
 }}

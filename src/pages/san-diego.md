@@ -12,7 +12,7 @@ keywords: Our Lady of the Rosary, Church of the Fishermen, Father Rabagliati, st
 The parish church located near the corner of State and Date Streets in San Diego’s Little Italy is affectionately known as The Church of the Fishermen. The church was the vision of Father Rabagliati. As an immigrant, he understood that the Italian fishermen of his parish wanted to have a beautiful church that would remind them of their beloved homeland. Father Rabagliati worked with the Italians of his community and with the diocese to bring this dream to life. The community rallied together and collected enough money to build and decorate their church.
 
 {{ imageSingle(
-'san-diego/FitchPhotoOLR.jpg',
+'FitchPhotoOLR.jpg',
 'Interior photograph, -by Fitch Photography of San Diego, 1925')
 }}
 
@@ -22,14 +22,14 @@ Fausto Tasca won the commission to decorate the entire interior of the church. H
 
 
 {{ imageSingle(
-'san-diego/OLRDedicationMass.jpg',
+'OLRDedicationMass.jpg',
 'Article from The Southern Cross, -January 8, 1926, -Archive of the Tasca Estae')
 }}
 
 {{ imagePair(
-'san-diego/watercolor concept window copy.jpg',
+'watercolor-concept-window.jpg',
 'Proof of concept, -watercolor on paper',
-'san-diego/FBTPaintingWindow.jpg',
+'FBTPaintingWindow.jpg',
 'Fausto at work, -Our Lady of the Rosary Church')
 }}
 
@@ -38,12 +38,12 @@ The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedi
 All the large paintings for Our Lady of the Rosary were completed in Fausto’s Los Angeles studio. The two murals, The Crucifixion and The Last Judgment, were painted on huge sheets of canvas. When all the paintings were complete, Fausto transported them by train from Los Angeles to San Diego, and installed them in the church using a special glue, suited to the dry climate of California, to apply the canvas to the stucco walls of the church.
 
 {{ imageSingle(
-'san-diego/FBTStudio.jpg',
+'FBTStudio.jpg',
 'Fausto\'s studio was located on one of the top floors of 107-1/2 Main Street in Los Angeles, and afforded him excellent light for painting, and the ample space required for the execution of the huge murals for Our Lady of the Rosary. At the lower left of the painting, we can see Fausto\'s portrait of Father Rabagliati and the miniature of Our Lady of the Rosary.')
 }}
 
 {{ imageSingle(
-'san-diego/FBT-painting-crucifixion.jpg',
+'fbt-painting-crucifixion.jpg',
 'Fausto, at work in his studio, -Crucifixion mural, -Our Lady of the Rosary Church')
 }}
 
