@@ -13,7 +13,7 @@ The parish church located near the corner of State and Date Streets in San Diego
 
 {{ imageSingle(
 'FitchPhotoOLR.jpg',
-'Interior photograph, -by Fitch Photography of San Diego, 1925')
+'Interior photograph, 1925, -Fitch Photography of San Diego')
 }}
 
 The construction of the church began on August 17, 1923 and most of the work was completed in time for the church to be blessed on Christmas Eve 1923.
@@ -22,15 +22,21 @@ Fausto Tasca won the commission to decorate the entire interior of the church. H
 
 
 {{ imageSingle(
+'NewsFullPage.jpg',
+'Los Angeles Sunday Times, -Archive of the Tasca Estae')
+}}
+
+
+{{ imageSingle(
 'OLRDedicationMass.jpg',
-'Article from The Southern Cross, -January 8, 1926, -Archive of the Tasca Estae')
+'Article from The Southern Cross, January 8, 1926, -Archive of the Tasca Estae')
 }}
 
 {{ imagePair(
 'watercolor-concept-window.jpg',
-'Proof of concept, -watercolor on paper',
+'Stained glass window design, -Watercolor on paper',
 'FBTPaintingWindow.jpg',
-'Fausto at work, -Our Lady of the Rosary Church')
+'Fausto painting windows, -Our Lady of the Rosary Church')
 }}
 
 The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedia.org/wiki/Carlo_Romanelli" target="_blank">Carlo Romanelli</a>, received the commission to sculpt statues of the Sacred Heart and the Blessed Virgin. Fausto painted both statues in a realistic style. The two statues occupy niches to the left and right of the main altar.
@@ -39,12 +45,12 @@ All the large paintings for Our Lady of the Rosary were completed in Fausto’s 
 
 {{ imageSingle(
 'FBTStudio.jpg',
-'Fausto\'s studio was located on one of the top floors of 107-1/2 Main Street in Los Angeles, and afforded him excellent light for painting, and the ample space required for the execution of the huge murals for Our Lady of the Rosary. At the lower left of the painting, we can see Fausto\'s portrait of Father Rabagliati and the miniature of Our Lady of the Rosary.')
+'Fausto\'s studio was located on a top floor of 107-1/2 Main Street in Los Angeles., -It afforded him excellent light for painting, and the ample space required for, -the execution of huge murals. At the lower left of the painting, we can see, -Fausto\'s portrait of Father Rabagliati, -and the miniature of Our Lady of the Rosary.')
 }}
 
 {{ imageSingle(
 'fbt-painting-crucifixion.jpg',
-'Fausto, at work in his studio, -Crucifixion mural, -Our Lady of the Rosary Church')
+'Fausto, at work in his studio, -Crucifixion mural')
 }}
 
 A written history of the first 90 years of Our Lady of the Rosary <a href="https://www.olrsd.org/History-of-OLR" target="_blank">can be found on the parish website</a>. Father Rabagliati's intention for the Church's artwork:

@@ -12,33 +12,33 @@ keywords: Citizen’s National Bank, Farmers & Merchants Bank, Allegory of Indus
 
 {{ imageSingle(
 'KopekInterior.jpg',
-'Bank Interior, -Kopek Photography, 1920, -Archive of the Tasca Estate')
+'Citizen\'s National Trust & Savings interior, -Kopek Photography, 1920, -Archive of the Tasca Estate')
 }}
 
 Fausto’s design for the bank interior was based on a history of the west written by O.E. Monnette, <a href="https://www.google.com/books/edition/California_Chronology/gBs1AQAAMAAJ?hl=en&gbpv=1" target="_blank">California Chronology</a>. This commission included a series of thirteen narrative murals and two large ceiling medallions, “Allegory of Industry” and “Triumph of California.”
 
 {{ imagePair(
 'Industry_CeilingBW.jpg',
-'Allegory of Industry, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate',
+'Allegory of Industry, 1920, -As installed Citizen\'s National Trust, -Photographer unknown, -Archive of the Tasca Estate',
 'IndustrycroppedColor.jpg',
-'Allegory of Industry, -Photograph, Sandra Tasca, 2021, -Collection of the Tasca Estate')
+'Allegory of Industry, -Photograph Sandra Tasca, 2021, -Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'California.jpg',
-'The Triumph of California, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate')
+'The Triumph of California, 1920, -As installed at Citizen\'s National Trust, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 
 All the paintings for this commission were created on canvas and attached to the walls of the bank interior using special glue. The narrative murals follow the story of California history, and include Drake’s Landing, Spanish settlers, a Prospector, Cowboys, as well as a California Indian scout. Fausto carefully researched the appearance of each of his subjects, and did his best to portray each with respect and realism.
 
 {{ imageSingle(
 'Prospector.jpg',
-'Prospector, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate')
+'Prospector, 1920, -As installed at Citizen\'s National Trust, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'SpanishCouple.jpg',
-'Spanish Settlers, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate')
+'Spanish Settlers, 1920, -As installed at Citizen\'s National Trust, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 
 In the mid-1970’s this extraordinary bank was demolished to make way for a parking lot. By chance, an art lover knew of Fausto’s method of applying his painting to the walls, stepped in to rescue the paintings. All the works were kept in storage until 2018, when a descendent of the developer who razed the bank contacted the painter’s granddaughter. The two families negotiated, and the paintings were recovered by the Tasca family. The Tasca family is now negotiating with museums in California to restore and display these beautiful works.
@@ -47,7 +47,7 @@ In the mid-1970’s this extraordinary bank was demolished to make way for a par
 
 {{ imageSingle(
 'Mural.jpg',
-'"The Discovery of Our Great California", -a mural to adorn the walls of, -Farmers and Merchants National Bank, Redondo Beach, -From the Los Angeles Times, September 3, 1922, -Photo, Archive of the Tasca Estate')
+'"The Discovery of Our Great California", -A mural for Farmers and Merchants National Bank, Redondo Beach, -From the Los Angeles Times, September 3, 1922, -Photo, Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
@@ -59,21 +59,21 @@ In the mid-1970’s this extraordinary bank was demolished to make way for a par
 
 {{ imagePair(
 'MartyrdomAgatha.jpg',
-'Martyrdom of St. Agatha, -watercolor concept sketch for Cabrini Chapel, -date unknown, -Archive of the Tasca Estate',
+'St. Agatha, Cabrini Chapel, -Watercolor sketch, -Archive of the Tasca Estate',
 'Sketch-for-Cabrini-Chapel.jpg',
-'Main altar, -watercolor concept sketch for Cabrini Chapel, -date unknown, -Archive of the Tasca Estate')
+'Main altar, Cabrini Chapel, -Watercolor sketch, -Archive of the Tasca Estate')
 }}
 
 <span class="intro">Other Los Angeles Commissions </span>Fausto worked in Southern California from about 1920 until his death in 1937. During those years he worked on different kinds of projects, from those he completed for arts organizations as well as projects for libraries and banks.
 
 {{ imageSingle(
 'Minerva.jpg',
-'International Artists\' Club, -date unknown, -Archive of the Tasca Estate')
+'International Artists\' Club, -Archive of the Tasca Estate')
 }}
 
 <div id="redondo-library">
 {{ imageSingle(
 'RedondLibraryWindow.jpg',
-'Redondo Beach Public Library, -Stained glass window, -Photographer unknown, date unknown, -Archive of the Tasca Estate')
+'Redondo Beach Public Library, stained glass window, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 </div>

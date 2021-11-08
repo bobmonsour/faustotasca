@@ -14,7 +14,7 @@ The Tasca family of San Zenone was far from well-to-do. The patriarch of the fam
 
 {{ imageSingle(
 'angelo-and-luigia-tasca.jpg',
-'Family of Angelo Tasca and Luigia Battagi, -standing: Luigi, Antonio, Elisabetta, -seated: Erminia, Antonio, Luigia, Fausto, -Photograph, October 12, 1908')
+'Family of Angelo Tasca and Luigia Battagin, October 12, 1908, -standing: Luigi, Antonio, Elisabetta, seated: Erminia, Antonio, Luigia, Fausto, -Photographer unknown')
 }}
 
 After sharing some of his work with a local gentleman of means, an agreement was somehow reached whereby Fausto was permitted to attend the Special School of Design in the nearby town of Bassano del Grappa. He began his studies in Bassano during the academic year 1901-1902 when he was just 16 years old.
@@ -32,9 +32,9 @@ At the Academy of Fine Art in Venice, the <a href="https://www.accademiavenezia.
 
 {{ imagePair(
 'iba-premio-1904-05.jpg',
-'Award with Medal for Preparatory Course, -Royal Institute of Fine Arts, -Venice, 1904-1905, -Archive of the Tasca Estate',
+'Award for Preparatory Course, -Royal Institute of Fine Arts, -Venice, 1904-1905, -Archive of the Tasca Estate',
 'ibda-dip-hm-1905-06.jpg',
-'Honorable Mention for Landscape and Seascape, -Royal Institute of Fine Arts, -Venice, 1905-1906, -Archive of the Tasca Estate')
+'Honorable Mention, Landscape, -Royal Institute of Fine Arts, -Venice, 1905-1906, -Archive of the Tasca Estate')
 }}
 
 Fausto’s studies at the Academy in Venice were interrupted by obligatory military service. Following his military service, Fausto traveled to Rome, where he found some work painting portraits. He then returned to his native Veneto, where he met and courted his future bride, Paolina Francesca Melchiori. Fausto and Paolina were married in her home village, Crespano del Grappa in February 1913. Together they departed Italy, and boarded the SS France in LeHavre. They landed in New York in February, 1913.

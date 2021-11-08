@@ -14,28 +14,28 @@ He called these paintings “oil sketches.” While painting outdoors, he worked
 
 {{ imagePair(
 'HaystacksVeneto.jpg',
-'Haystacks in the Veneto, -oil on wood panel, 1905&#8211;1908, -Collection of the Tasca Estate',
+'Haystacks in the Veneto, 1905&#8211;1908, -Oil on wood panel, -Collection of the Tasca Estate',
 'VeniceLagune.jpg',
-'Venice Lagoon, -oil on wood panel, 1905&#8211;1908, -Collection of the Tasca Estate')
+'Venice Lagoon, 1905&#8211;1908, -Oil on wood panel, -Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
 'CircusPadova.jpg',
-'Circus Padova, -oil on wood panel, 1905&#8211;1908, -Collection of the Tasca Estate',
+'Circus Padova, 1905&#8211;1908, -Oil on wood panel, -Collection of the Tasca Estate',
 'BigBearLake.jpg',
-'Big Bear Lake, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate')
+'Big Bear Lake, 1925 to 1930, -Oil on canvas, -Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
 'waterfall.jpg',
-'Waterfall, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate',
+'Waterfall, 1925 to 1930, -Oil on canvas, -Collection of the Tasca Estate',
 'PacificCoast.jpg',
-'Pacific Coast, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate')
+'Pacific Coast, 1925 to 1930, -Oil on canvas, -Collection of the Tasca Estate')
 }}
 
 {{ imagePair(
 'CityHall.jpg',
-'City Hall, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate',
+'City Hall, 1925 to 1930, -Oil on canvas, -Collection of the Tasca Estate',
 'LosAngelesSunset.jpg',
-'Los Angeles Sunset, -oil on canvas, 1925 to 1930, -Collection of the Tasca Estate')
+'Los Angeles Sunset, 1925 to 1930, -Oil on canvas, -Collection of the Tasca Estate')
 }}

@@ -11,7 +11,7 @@ permalink: "/"
 
 {{ imageSingle(
 'fbt-with-caruso.jpg',
-'Self-Portrait, -with Bust of tenor, Enrico Caruso, -1922')
+'Self-Portrait with bust of tenor, Enrico Caruso, 1922')
 }}
 
 <a href="https://en.wikipedia.org/wiki/Fausto_Bellino_Tasca">Fausto Bellino Tasca</a> is a noteworthy but sometimes overlooked artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Fausto came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.

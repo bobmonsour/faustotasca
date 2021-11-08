@@ -16,32 +16,32 @@ On a very memorable evening, Fausto presented the Mission painting to the King a
 
 {{ imageSingle(
 'DetailSketch.jpg',
-'Watercolor study for room interior 1919, -Archive of the Tasca Estate')
+'Watercolor study for room interior, 1919, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'MontecitoDR1.jpg',
-'Dining Room, Montecito, -Design and decorative painting, -Montecito estate, possibly that of Mrs. Norton, 1919, -Archive of the Tasca Estate')
+'Photo #1 of Dining Room, Montecito estate, 1919, -Design and decorative painting, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'Lumachrome.jpg',
-'Woman Driving a Chariot, -Lumachrome by Fausto Tasca, -Completed painting can be seen in the niche above the fireplace, -Montecito estate, 1919, -Archive of the Tasca Estate')
+'Woman Driving a Chariot, Lumachrome by Fausto Tasca, 1919, -Installed painting in the niche above the fireplace, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'MontecitoDR2.jpg',
-'Photograph of room interior #2, -Design and decorative painting, -Montecito estate, possibly that of Mrs. Norton, 1919, -Archive of the Tasca Estate')
+'Photo #2 of Dining Room, Montecito estate, 1919, -Design and decorative painting, -Archive of the Tasca Estate')
 }}
 
 During this era, Italian-themed interior decoration was apparently popular with the wealthy. Fausto earned commissions to design and execute room decorations for more than a few Montecito estates.
 
 {{ imageSingle(
 'WatercolorDiningRoom2.jpg',
-'Design for Italianate dining room, -watercolor on paper, 1919 or 1920, -Archive of the Tasca Estate')
+'Design for Italianate dining room, 1919 or 1920, -Watercolor on paper, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'DiningRoomArchedWindows2.jpg',
-'Design for Italianate dining room, -Photograph of completed project, 1919&#8211;1920, -Archive of the Tasca Estate')
+'Design for Italianate dining room, 1919&#8211;1920, -Photograph of completed project, photographer unknown, -Archive of the Tasca Estate')
 }}

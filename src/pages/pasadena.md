@@ -12,26 +12,26 @@ keywords: trompe d’oeil, gold-leaf, angel motif, painted ceiling, ceiling beam
 
 {{ imageSingle(
 'AltarScreenbyAGTasca.jpg',
-'Altar Screen for Main ALtar, -Gold-leaf work by apprentice, Angelo Tasca, 1927, -Archive of the Tasca Estate')
+'Altar Screen, gold-leaf work by apprentice, Angelo Tasca, 1927, -Photograph Sandra Tasca, 1970, -Archive of the Tasca Estate')
 }}
 
 Tasca also designed and executed the foyer decoration, painting it from floor to ceiling. In this installation, Fausto painted directly on the walls instead of on canvas, as he had done at Our Lady of the Rosary.
 
 {{ imageSingle(
 'DetailnearFloorNarthex.jpg',
-'Narthex interior, -Photograph, 1970, -Archive of the Tasca Estate')
+'Narthex interior, 1927, -Photograph Sandra Tasca, 1970, -Archive of the Tasca Estate')
 }}
 
 The lower portion of each wall was painted with <span class="ital">trompe d’oeil</span> bronze shields against a vermillion ground, the upper portion of the walls was carefully painted to resemble marble. The complex shape of the foyer ceiling was beautifully painted with flower garlands and angels, on a gold-leaf background.
 
 {{ imageSingle(
 'NarthexCeiling2.jpg',
-'Narthex ceiling, -Painted decoration with gold-leaf background, -Photograph, 1970, -Archive of the Tasca Estate')
+'Narthex ceiling, 1927, -Photograph Sandra Tasca, 1970, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'Narthex.jpg',
-'Narthex, Photograph, 1970, -Archive of the Tasca Estate')
+'Narthex, 1927, -Photograph Sandra Tasca, 1970, -Archive of the Tasca Estate')
 }}
 
 Unfortunately, the walls of the foyer were badly damaged in the late 1970s when they were covered with wallpaper. The administration of the church at the time believed the walls were “too dirty” and did not think they could be properly cleaned. Although the walls have been “restored,” the marbled appearance of the painting was lost.
@@ -40,9 +40,9 @@ Today, the beauty and historical importance of <a href="https://www.saintandrewp
 
 {{ imagePair(
 'NaveCeiling.jpg',
-'Nave Ceiling, -Photograph, 1970, -Archive of the Tasca Estate',
+'Nave Ceiling, -Photograph Sandra Tasca, 1970, -Archive of the Tasca Estate',
 'NaveCeilingDetail.jpg',
-'Nave Ceiling Detail, -Photograph, 1970, -Archive of the Tasca Estate')
+'Nave Ceiling Detail, -Photograph Sandra Tasca, 1970, -Archive of the Tasca Estate')
 }}
 
 

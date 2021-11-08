@@ -19,31 +19,31 @@ As an established artist in California, Tasca was frequently commissioned to pai
 
 {{ imagePair(
 'Galileo.jpg',
-'Galileo, -oil on linen, -1937, -Collection of Griffith Observatory',
+'Galileo, 1937, -Oil on linen, -Collection of Griffith Observatory',
 'ObserverCoverWEB.jpg',
-'Griffith Observatory newsletter cover, -1938')
+'Griffith Observatory, 1938, -Newsletter cover, -Archive of Tasca Estate')
 }}
 
 {{ imageSingle(
 'Galileo-article.jpg',
-'LA Times article and photograph, -1937')
+'LA Times article and photograph, 1937')
 }}
 
 {{ imagePair(
 'Professor.jpg',
-'Scientist and friend of the artist, -oil on canvas, date unknown, -Collection of the Tasca Estate',
+'Scientist and friend of the artist, -Oil on canvas, -Collection of the Tasca Estate',
 'Larsen.jpg',
-'J. David Larson, oil on canvas, -sketch for final portrait, 1929, -Collection of the Tasca Estate')
+'J. David Larson, 1929, -Oil sketch for final portrait, -Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'young-woman.jpg',
-'Young woman, -oil on canvas, date unknown, -Private Collection')
+'Young woman, -Oil on canvas, -Private Collection')
 }}
 
 {{ imagePair(
 'AGT.jpg',
-'Artist\'s son, -oil on canvas, 1925, -Collection of the Tasca Estate',
+'Artist\'s son, 1925, -Oil on canvas, -Collection of the Tasca Estate',
 'Self-portrait.jpg',
-'Self-portrait, -oil on canvas, date unknown, -Collection of the Tasca Estate')
+'Self-portrait, -Oil on canvas, -Collection of the Tasca Estate')
 }}
