@@ -1,6 +1,7 @@
 ---
 title: Fausto Bellino Tasca | San Diego
-description: The design and decorative painting for the interior of Our Lady of the Rosary Church in San Diego, California, was a major commission in Fausto Tasca’s career.
+description: Fausto Tasca’s important commission for the design and decorative painting for the interior of Our Lady of the Rosary Church in San Diego, California, was completed in about 2 years. Part of this commission included the design and execution of 13 stained glass windows.
+keywords: Our Lady of the Rosary, Church of the Fishermen, Father Rabagliati, stained glass, Last Judgement, Crucifixion, mural
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
@@ -53,7 +54,7 @@ A written history of the first 90 years of Our Lady of the Rosary <a href="https
 In 2010, a brief documentary of the church was created, highlighting its history and describing the artwork.
 
 <div class="videoWrapper">
-  <iframe width="1200" height="675" src="https://www.youtube.com/embed/OZIxDF8x9dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/OZIxDF8x9dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Our Lady of the Rosary Church remains a beloved landmark in the community. In 2020, and extensive restoration was undertaken to restore and repair the church and its well-known artwork. Local TV station KUSI broadcast three short videos documenting the restoration, each featuring as host interior designer, Joan Peters.

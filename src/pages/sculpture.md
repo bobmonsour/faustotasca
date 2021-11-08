@@ -1,6 +1,7 @@
 ---
 title: Fausto Bellino Tasca | Sculpture
-description: Fausto Tasca made many studies, or maquettes, but few known finished sculptures. His portrait bust of the great Enrico Caruso is one of the few large-scale sculptures in existence.
+description: Fausto Tasca made many studies, or maquettes, but few finished sculptures survive. His portrait bust of the great Enrico Caruso is one of the few large-scale sculptures remaining.
+keywords: Enrico Caruso, tenor, Olympics, Garibaldina, bas relief
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}

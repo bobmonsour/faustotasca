@@ -1,6 +1,7 @@
 ---
 title: Contact
-description: Contact the author of this site.
+description: Contact the author of this site with questions or information about the work.
+keywords: museum, painting bequest, Mission Santa Barbara
 ---
 ## Contact
 

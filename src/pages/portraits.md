@@ -1,6 +1,7 @@
 ---
 title: Fausto Bellino Tasca | Portraits
-description: Fausto Tasca’s comprehensive training at the Academy of Fine Arts of Venice included the study of portraiture.
+description: Fausto Tasca’s comprehensive training at the Academy of Fine Arts of Venice included the study of portraiture. His commissions in the US included portraits of several famous personages.
+keywords: AP Giannini, Galileo, Griffith Park Observatory, Bank of America
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}

@@ -1,6 +1,7 @@
 ---
 title: Fausto Bellino Tasca | Santa Barbara
-description: Tasca’s first known commissions while living in Santa Barbara were the design and execution of interior decorative work for several estate homes in Montecito.
+description: Among Fausto Tasca’s commissions while living in Santa Barbara were the design and execution of interior decorative work for several estate homes in Montecito. He was awarded the prestigious and important commission of painting a gift for the King and Queen of Belgium.
+keywords: Mission Santa Barbara, landscape, Mrs. Norton, Queen of Belgium, oil painting
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}

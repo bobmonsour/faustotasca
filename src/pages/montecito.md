@@ -1,6 +1,7 @@
 ---
 title: Fausto Bellino Tasca | Montecito
-description: Fausto Tasca designed numerous room interiors for clients in Montecito.
+description: Fausto Tasca designed room interiors for mansions of the wealthy of Montecito. He also painted intricate designs for the interiors of these estate homes.
+keywords: Mrs. Norton, dining room, Italianate style, watercolor sketch
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}

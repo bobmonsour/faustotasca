@@ -1,6 +1,7 @@
 ---
 title: Plein Air
 description: Fausto loved painting outside, en plein air. He started working in this manner while a student in Italy and continued to paint outdoors all his life.
+keywords: plein air, landscape, Big Bear, Pacific coast, Los Angeles City Hall, Padua
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
@@ -11,33 +12,23 @@ Fausto loved painting outside, <span class="ital">en plein air</span>. He starte
 
 He called these paintings “oil sketches.” While painting outdoors, he worked <span class="ital">alla prima</span>, that is to say, quickly and with virtually no corrections or changes once a mark was made. According to his son, the sketches took very little time to execute — apparently only five to ten minutes.
 
-{{ imageSingle(
+{{ imagePair(
 'plein-air/CircusPadova.jpg',
-'Circus Padova<br>oil on wood panel, 1905&#8211;1908<br>Collection of the Tasca Estate')
-}}
-
-{{ imageSingle(
+'Circus Padova<br>oil on wood panel, 1905&#8211;1908<br>Collection of the Tasca Estate',
 'plein-air/BigBearLake.jpg',
 'Big Bear Lake<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
 }}
 
-{{ imageSingle(
+{{ imagePair(
 'plein-air/waterfall.jpg',
-'Waterfall<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
-}}
-
-
-{{ imageSingle(
+'Waterfall<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate',
 'plein-air/PacificCoast.jpg',
 'Pacific Coast<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
 }}
 
-{{ imageSingle(
+{{ imagePair(
 'plein-air/CityHall.jpg',
-'City Hall<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
-}}
-
-{{ imageSingle(
+'City Hall<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate',
 'plein-air/LosAngelesSunset.jpg',
 'Los Angeles Sunset<br>oil on canvas, 1925 to 1930<br>Collection of the Tasca Estate')
 }}

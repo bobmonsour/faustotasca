@@ -89,10 +89,12 @@ header {
 .image-single, .image-pair {
   img {
     display: block;
-    margin: 60px auto 5px auto;
+    max-width: 700px;
+    margin: 30px auto 5px auto;
   }
   p {
     margin-bottom: 40px;
+    padding: 10px 0;
     text-align: center;
     font-size: .8rem;
     font-style: italic;
@@ -101,18 +103,20 @@ header {
 }
 
 .image-pair {
+  max-width: 700px;
+  margin: 0 auto;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
 
   .image1, .image2 {
-    width: 45%;
+    width: 48%;
     order: 1;
     align-self: center;
   }
 
   .caption1, .caption2 {
-    width: 45%;
+    width: 50%;
     order: 2;
     align-self: top;
   }
@@ -205,14 +209,14 @@ blockquote {
 .videoWrapper {
     position: relative;
     margin: 30px 0;
-    padding-bottom: 56.25%;
+    padding-bottom: 400px;
     height: 0;
 
     iframe {
       position: absolute;
       top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+      left: 250px;
+      width: 700px;
+      height: 400px;
     }
 }

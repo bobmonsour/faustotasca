@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Fausto Bellino Tasca | Home
-description: Fausto Bellino Tasca was the first child of Angelo Tasca (1848-1939) and Luigia Battagin (1857-1922).
+description: Fausto Tasca received his fine art training at one of the premier art academies in Europe. He achieved success in the US because he married his excellent preparation with hard work and determination.
+keywords: landscape painting, portraiture, public art, Academy of Fine Arts Venice
 permalink: "/"
 ---
 <div class="container-home">
