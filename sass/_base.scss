@@ -89,7 +89,7 @@ header {
 .image-single, .image-pair {
   img {
     display: block;
-    max-width: 700px;
+    max-width: $images-width;
     margin: 30px auto 5px auto;
   }
   p {
@@ -103,7 +103,7 @@ header {
 }
 
 .image-pair {
-  max-width: 700px;
+  max-width: $images-width;
   margin: 0 auto;
   display: flex;
   flex-flow: row wrap;
@@ -216,7 +216,7 @@ blockquote {
       position: absolute;
       top: 0;
       left: 250px;
-      width: 700px;
+      width: $video-width;
       height: 400px;
     }
 }
