@@ -6,7 +6,7 @@ keywords: Mission Santa Barbara, landscape, Mrs. Norton, Queen of Belgium, oil p
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
 
-## Heading West
+## Santa Barbara, California
 
 When the young Tasca family settled in Santa Barbara they were taken with the beauty of the California coast, as well as a welcoming community. Fausto soon found work in Santa Barbara and nearby Montecito, and Paolina began her singing career in earnest.
 
@@ -23,7 +23,7 @@ In 1919 Fausto received a brilliant commission from the City of Santa Barbara. H
 
 {{ imagePair(
 'santa-barbara/mission-painting-presentation.jpg',
-'Newspaper clipping documenting the gift of the Mission Santa Barbara painting to the King & Queen of Belgium, -1919',
+'Newspaper clipping documenting, -the gift of the, -Mission Santa Barbara painting, -to the King & Queen of Belgium, -1919, -Archive of the Tasca Estate',
 'santa-barbara/queen-of-belgium.jpg',
-'Personal letter from the Queen of Belgium, -October 19, 1919, -Archive of the Tasca Estate')
+'Personal letter from, -the Queen of Belgium, -October 19, 1919, -Archive of the Tasca Estate')
 }}

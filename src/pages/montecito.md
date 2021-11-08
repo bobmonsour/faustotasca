@@ -8,8 +8,6 @@ keywords: Mrs. Norton, dining room, Italianate style, watercolor sketch
 
 ## Montecito, California
 
-During this era, Italian-themed interior decoration was apparently popular with the wealthy. Fausto earned commissions to design and execute room decorations for more than a few Montecito estates.
-
 Montecito’s wealthy residents were among Fausto’s early patrons. One of these, a Mrs. Norton, was instrumental in obtaining Fausto’s commission for the Mission painting.
 
 On a very memorable evening, Fausto presented the Mission painting to the King and Queen of Belgium. The royal couple were dinner guests at the home of Mrs. Norton in Montecito. As the newspaper article indicates, Fausto had also decorated the interior of the dining room where he respectfully presented his painting.

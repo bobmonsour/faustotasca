@@ -43,7 +43,7 @@ As an established artist in California, Tasca was frequently commissioned to pai
 
 {{ imagePair(
 'portraits/AGT.jpg',
-'Artist\'s son, -oil on canvas, 1925',
+'Artist\'s son, -oil on canvas, 1925, -Collection of the Tasca Estate',
 'portraits/Self-portrait.jpg',
-'Self-portrait, -oil on canvas, date unknown')
+'Self-portrait, -oil on canvas, date unknown, -Collection of the Tasca Estate')
 }}

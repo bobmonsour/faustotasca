@@ -8,7 +8,7 @@ keywords: Citizen’s National Bank, Farmers & Merchants Bank, Allegory of Indus
 
 ## Los Angeles, California
 
-<span class="intro">Citizen's National Trust & Savings </span>In 1920&#8211;1921, Fausto received the important commission to decorate most of the interior of the Citizen’s National Trust and Savings at 736 Hill Street in Los Angeles. Another local artist, <a href="https://collections.lacma.org/node/166797" target="_blank">Hernando Gonzallo Villa</a>, also worked on this project. Villa contribution was a lovely mural for the west wall of the bank.
+<span class="intro">Citizen's National Trust & Savings </span>In 1920&#8211;1921, Fausto received the important commission to decorate most of the interior of the Citizen’s National Trust and Savings at 736 Hill Street in Los Angeles. Another local artist, <a href="https://collections.lacma.org/node/166797" target="_blank">Hernando Gonzallo Villa</a>, also worked on this project. Villa's contribution was a lovely mural for the west wall of the bank.
 
 {{ imageSingle(
 'los-angeles/KopekInterior.jpg',
@@ -33,29 +33,29 @@ All the paintings for this commission were created on canvas and attached to the
 
 {{ imageSingle(
 'los-angeles/Prospector.jpg',
-'Prospector, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Collection of the Tasca Estate')
+'Prospector, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'los-angeles/SpanishCouple.jpg',
-'Spanish Settlers, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Collection of the Tasca Estate')
+'Spanish Settlers, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 
 In the mid-1970’s this extraordinary bank was demolished to make way for a parking lot. By chance, an art lover knew of Fausto’s method of applying his painting to the walls, stepped in to rescue the paintings. All the works were kept in storage until 2018, when a descendent of the developer who razed the bank contacted the painter’s granddaughter. The two families negotiated, and the paintings were recovered by the Tasca family. The Tasca family is now negotiating with museums in California to restore and display these beautiful works.
 
-<span class="intro">Farmers and Merchants Bank </span>Although the Redondo Beach branch of the Farmers and Merchants Bank still stands at the location indicated by 1915 photographs, the bank building no longer exists. Photographs of the current Farmers and Merchants Bank located at 1333 Pacific Coast Highway is slick and modern, and give no indication of the bank’s origins or history. Sadly, the mural by Fausto Tasca has also disappeared.
+<span class="intro">Farmers and Merchants Bank </span>Although the Redondo Beach branch of the Farmers and Merchants Bank still stands at the location indicated by 1915 photographs, the bank building no longer exists. Photographs of the current Farmers and Merchants Bank located at 1333 Pacific Coast Highway is slick and modern, and gives no indication of the bank’s origins or history. Sadly, the mural by Fausto Tasca has also disappeared.
 
 {{ imageSingle(
 'los-angeles/Mural.jpg',
-'"The Discovery of Our Great California", a mural painting by Fausto Tasca, to adorn walls of Farmers and Merchants National Bank, Redondo Beach')
+'"The Discovery of Our Great California", -a mural painting by Fausto Tasca, -to adorn walls of Farmers and Merchants National Bank, Redondo Beach, -Photo, Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'los-angeles/FandMMural.jpg',
-'Mural')
+'"The Discovery of Our Great California", finished mural, -photo, Archive of the Tasca Estate')
 }}
 
-<span class="intro">Cabrini Chapel </span>Fausto Tasca designed the interior spaces for the chapel at Villa Cabrini. In the 1950’s the chapel near Duarte, California was razed, and the property sold. the only traces of Fausto’s paintings for the chapel are the watercolor sketches shown below
+<span class="intro">Cabrini Chapel </span>Fausto Tasca designed the interior spaces for the chapel at Villa Cabrini. In the 1950’s the chapel near Duarte, California was razed, and the property sold. The only traces of Fausto’s paintings for the chapel are the watercolor sketches shown below
 
 {{ imagePair(
 'los-angeles/MartyrdomAgatha.jpg',
@@ -64,7 +64,7 @@ In the mid-1970’s this extraordinary bank was demolished to make way for a par
 'Main altar, -watercolor concept sketch for Cabrini Chapel, -date unknown, -Archive of the Tasca Estate')
 }}
 
-### Other Los Angeles Commissions
+<span class="intro">Other Los Angeles Commissions</span>
 
 {{ imageSingle(
 'los-angeles/MInerva.jpg',

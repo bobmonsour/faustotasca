@@ -5,18 +5,18 @@ description: Fausto Tasca received his fine art training at one of the premier a
 keywords: landscape painting, portraiture, public art, Academy of Fine Arts Venice
 permalink: "/"
 ---
-<div class="container-home">
-  <img src="../images/fbt-with-caruso.jpg" alt="Fausto Bellino Tasca, Self-Portrait as a Young Man, oil on canvas, 1905">
-  <h2>Painter, Designer, Sculptor</h2>
-</div>
+{% from "macros.njk" import imageSingle %}
 
-<div class="home-text">
-  <p>Fausto Tasca is a noteworthy but sometimes overlooked artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Fausto came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.</p>
+## Painter, Designer, Sculptor
 
-  <p class="home-caption">Self-Portrait<br> with Bust of tenor, Enrico Caruso<br>1922</p>
-</div>
+{{ imageSingle(
+'fbt-with-caruso.jpg',
+'Self-Portrait, -with Bust of tenor, Enrico Caruso, -1922')
+}}
 
-During his art training in Italy, Fausto preferenced the study of <a href="/plein-air.html">landscape painting</a> and <a href="/portraits.html">portraiture</a>. These studies served him well, as he was frequently commissioned to paint historical or religious narratives. The commissions drew on his knowledge of landscape painting, as the scenes depicted were intended to call to mind specific regions or locations. His commissioned work likewise called upon his skills as a portraitist, as many of his narrative murals contained specific historical characters. Much of Fausto’s work embellished public spaces — <a href="/los-angeles.html">banks</a>, <a href="/los-angeles.html#redondo-library">libraries</a>, (link to Redondo Library stained glass) and <a href="/pasadena.html">churches</a>. The projects gave rise to important artistic growth, and occasioned more than a few ingenious inventions.
+Fausto Tasca is a noteworthy but sometimes overlooked artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Fausto came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.
+
+During his art training in Italy, Fausto preferenced the study of <a href="/plein-air.html">landscape painting</a> and <a href="/portraits.html">portraiture</a>. These studies served him well, as he was frequently commissioned to paint historical or religious narratives. The commissions drew on his knowledge of landscape painting, as the scenes depicted were intended to call to mind specific regions or locations. His commissioned work likewise called upon his skills as a portraitist, as many of his narrative murals contained specific historical characters. Much of Fausto’s work embellished public spaces — <a href="/los-angeles.html">banks</a>, <a href="/los-angeles.html#redondo-library">libraries</a>, and <a href="/pasadena.html">churches</a>. The projects gave rise to important artistic growth, and occasioned more than a few ingenious inventions.
 
 
 According to his son, Fausto preferred working in watercolor above all other mediums. Unfortunately, not one commissioned watercolor painting survives today. Although Fausto frequently painted in this medium, these works were often preparatory sketches or concept drawings. The Tasca Family Archive holds several of these lovely watercolors.

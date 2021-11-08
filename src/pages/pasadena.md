@@ -8,45 +8,45 @@ keywords: trompe d’oeil, gold-leaf, angel motif, painted ceiling, ceiling beam
 
 ## Pasadena, California
 
-<span class="intro">Saint Andrew's Church </span>Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew’s Church in Pasadena, California. According to Fausto’s son, who also worked as an apprentice on this commission, Wostry realized that the Saint Andrew’s commission was too complex for him to complete within the timeline allowed by the project, so with a gentleman’s handshake, he hired Fausto to undertake specific sections of the church interior.
+<span class="intro">Saint Andrew Church </span>Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew Church in Pasadena, California. According to Fausto’s son, who also worked as an apprentice on this commission, Wostry realized that the Saint Andrew commission was too complex for him to complete within the timeline allowed by the project, so with a gentleman’s handshake, he hired Fausto to undertake specific sections of the church interior.
 
 {{ imageSingle(
 'pasadena/AltarScreenbyAGTasca.jpg',
-'Main ALtar, St. Andrew\'s Church, -Gold-leaf work by apprentice, Angelo Tasca, 1927')
+'Altar Screen for Main ALtar, -Gold-leaf work by apprentice, Angelo Tasca, 1927, -Archive of the Tasca Estate')
 }}
 
 Tasca also designed and executed the foyer decoration, painting it from floor to ceiling. In this installation, Fausto painted directly on the walls instead of on canvas, as he had done at Our Lady of the Rosary.
 
 {{ imageSingle(
 'pasadena/DetailnearFloorNarthex.jpg',
-'Narthex interior, -1927')
+'Narthex interior, -Photograph, 1970, -Archive of the Tasca Estate')
 }}
 
-The lower portion of each wall was painted with trompe d’oeil bronze shields against a vermillion ground, the upper portion of the walls was carefully painted to resemble marble. The complex shape of the foyer ceiling was beautifully painted with flower garlands and angels, on a gold-leaf background.
+The lower portion of each wall was painted with <span class="ital">trompe d’oeil</span> bronze shields against a vermillion ground, the upper portion of the walls was carefully painted to resemble marble. The complex shape of the foyer ceiling was beautifully painted with flower garlands and angels, on a gold-leaf background.
 
 {{ imageSingle(
 'pasadena/NarthexCeiling2.jpg',
-'Narthex ceiling, -Painted decoration with gold-leaf background, -1927')
+'Narthex ceiling, -Painted decoration with gold-leaf background, -Photograph, 1970, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'pasadena/Narthex.jpg',
-'Narthex')
+'Narthex, Photograph, 1970, -Archive of the Tasca Estate')
 }}
 
 Unfortunately, the walls of the foyer were badly damaged in the late 1970s when they were covered with wallpaper. The administration of the church at the time believed the walls were “too dirty” and did not think they could be properly cleaned. Although the walls have been “restored,” the marbled appearance of the painting was lost.
 
-Today, the beauty and historical importance of <a href="https://www.saintandrewpasadena.org/" target="_blank">St Andrew’s Church</a> has finally been recognized. the parish now includes a “restoration committee” to maintain this important landmark.
+Today, the beauty and historical importance of <a href="https://www.saintandrewpasadena.org/" target="_blank">St. Andrew Church</a> has finally been recognized. The parish now includes a “restoration committee” to maintain this important landmark.
 
 {{ imagePair(
 'pasadena/NaveCeiling.jpg',
-'Nave Ceiling',
+'Nave Ceiling, -Photograph, 1970, -Archive of the Tasca Estate',
 'pasadena/NaveCeilingDetail.jpg',
-'Nave Ceiling Detail')
+'Nave Ceiling Detail, -Photograph, 1970, -Archive of the Tasca Estate')
 }}
 
 
-<span class="ital">Tower of Pasadena, The Art & Architecture of St. Andrew Church</span> provides fascinating insights into the artwork at St Andrew. The author, Tri Fritz, examines the history of the building, and the photographer David Crane documents the stunning interior of the church in beautiful detail.
+Recently, a lovely book titles <span class="ital">Tower of Pasadena, The Art & Architecture of St. Andrew Church</span> presents fascinating insights into the artwork of St. Andrew Church. The author, Tri Fritz, examines the history of the building, and the photographer David Crane documents the stunning interior of the church in beautiful detail.
 
 An excerpt from the book's description:
 

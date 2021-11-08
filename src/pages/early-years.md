@@ -57,7 +57,7 @@ In Mingus, Fausto found some work painting signage and doing fancy lettering for
 
 {{ imageSingle(
 'santa-barbara/Mingus1915.jpg',
-'Tasca family with friends, -Mingus, Texas, 1915')
+'Tasca family with friends, -Mingus, Texas, 1915, -Archive of the Tasca Estate')
 }}
 
 Fausto was disappointed and very dissatisfied with the work he could obtain in Mingus. He apparently voiced his frustration with the situation because the family connection again reached out and this time encouraged the family to continue west to California. Fausto and Paolina soon relocated to Santa Barbara. They were delighted with the physical beauty of the area and the temperate climate. They were likewise very happy to discover the community’s interest in the fine arts.
