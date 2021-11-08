@@ -8,7 +8,7 @@ keywords: trompe d’oeil, gold-leaf, angel motif, painted ceiling, ceiling beam
 
 ## Pasadena, California
 
-<span class="intro">Saint Andrew Church </span>Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew Church in Pasadena, California. According to Fausto’s son, who also worked as an apprentice on this commission, Wostry realized that the Saint Andrew commission was too complex for him to complete within the timeline allowed by the project, so with a gentleman’s handshake, he hired Fausto to undertake specific sections of the church interior.
+<span class="intro">Saint Andrew Church </span>Fausto Tasca worked with friend and professional colleague, <a href="https://en.wikipedia.org/wiki/Carlo_Wostry" target="_blank">Carlo Wostry</a>, at Saint Andrew Church in Pasadena, California. According to Fausto’s son, who also worked as an apprentice on this commission, Wostry realized that the Saint Andrew commission was too complex for him to complete within the timeline allowed by the project, so with a gentleman’s handshake, he hired Fausto to undertake specific sections of the church interior.
 
 {{ imageSingle(
 'pasadena/AltarScreenbyAGTasca.jpg',

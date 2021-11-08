@@ -16,7 +16,7 @@ The parish church located near the corner of State and Date Streets in San Diego
 'Interior photograph, -by Fitch Photography of San Diego, 1925')
 }}
 
-The construction of the church began on August 17, 1923 and was completed in time for the church to be blessed on Christmas Eve 1923.
+The construction of the church began on August 17, 1923 and most of the work was completed in time for the church to be blessed on Christmas Eve 1923.
 
 Fausto Tasca won the commission to decorate the entire interior of the church. His plan was ambitious. It included two huge murals, several ceiling medallions, and grisailles of cherubs and angels. It also included the design and execution of all the stained glass windows in the church. To honor Father Rabagliati, Fausto Tasca included a portrait of him, together with a miniature of <a href="https://www.olrsd.org/" target="_blank">Our Lady of the Rosary</a>, in the Last Judgement mural installed on the rear wall of the Church. In spite of the enormous amount of work needed to complete the decoration of the church, Fausto completed all the work in time for the church dedication on November 15, 1925 — in under two years.
 
@@ -33,7 +33,7 @@ Fausto Tasca won the commission to decorate the entire interior of the church. H
 'Fausto at work, -Our Lady of the Rosary Church')
 }}
 
-The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedia.org/wiki/Carlo_Romanelli" target="_blank">Carlo Romanelli</a>, received the commission to sculpt statues of the Sacred Heart and the Blessed Virgin. Fausto painted both statues in a realistic style. The two statues still occupy niches to the left and right of the main altar.
+The well-known sculptor and close friend of Fausto, <a href="https://en.wikipedia.org/wiki/Carlo_Romanelli" target="_blank">Carlo Romanelli</a>, received the commission to sculpt statues of the Sacred Heart and the Blessed Virgin. Fausto painted both statues in a realistic style. The two statues occupy niches to the left and right of the main altar.
 
 All the large paintings for Our Lady of the Rosary were completed in Fausto’s Los Angeles studio. The two murals, The Crucifixion and The Last Judgment, were painted on huge sheets of canvas. When all the paintings were complete, Fausto transported them by train from Los Angeles to San Diego, and installed them in the church using a special glue, suited to the dry climate of California, to apply the canvas to the stucco walls of the church.
 

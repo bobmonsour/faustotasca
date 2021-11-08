@@ -26,7 +26,7 @@ On a very memorable evening, Fausto presented the Mission painting to the King a
 
 {{ imageSingle(
 'montecito/Lumachrome.jpg',
-'Woman Driving a Chariot, -Lumachrome by Fausto Tasca, -Actual painting can be seen in the niche above the fireplace, -Montecito estate, 1919, -Archive of the Tasca Estate')
+'Woman Driving a Chariot, -Lumachrome by Fausto Tasca, -Completed painting can be seen in the niche above the fireplace, -Montecito estate, 1919, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(

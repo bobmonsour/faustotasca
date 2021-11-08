@@ -21,7 +21,7 @@ Fausto’s design for the bank interior was based on a history of the west writt
 'los-angeles/Industry_CeilingBW.jpg',
 'Allegory of Industry, -As installed at Citizen\'s Trust, 1920, -Photographer unknown, -Archive of the Tasca Estate',
 'los-angeles/IndustrycroppedColor.jpg',
-'Allegory of Industry, -As installed at Citizen\'s Trust, 1920, -Photograph, Sandra Tasca, 2021, -Collection of the Tasca Estate')
+'Allegory of Industry, -Photograph, Sandra Tasca, 2021, -Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
@@ -47,12 +47,12 @@ In the mid-1970’s this extraordinary bank was demolished to make way for a par
 
 {{ imageSingle(
 'los-angeles/Mural.jpg',
-'"The Discovery of Our Great California", -a mural painting by Fausto Tasca, -to adorn walls of Farmers and Merchants National Bank, Redondo Beach, -Photo, Archive of the Tasca Estate')
+'"The Discovery of Our Great California", -a mural painting by Fausto Tasca, -to adorn walls of Farmers and Merchants National Bank, Redondo Beach, -Photographer unknown, -Photo, Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
 'los-angeles/FandMMural.jpg',
-'"The Discovery of Our Great California", finished mural, -photo, Archive of the Tasca Estate')
+'"The Discovery of Our Great California", finished mural, -Photographer unknown, -Photo, Archive of the Tasca Estate')
 }}
 
 <span class="intro">Cabrini Chapel </span>Fausto Tasca designed the interior spaces for the chapel at Villa Cabrini. In the 1950’s the chapel near Duarte, California was razed, and the property sold. The only traces of Fausto’s paintings for the chapel are the watercolor sketches shown below
