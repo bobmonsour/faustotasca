@@ -1,4 +1,5 @@
 // Reset relevant styles
+
 * {
   margin: 0;
   padding: 0;
@@ -9,10 +10,14 @@
 }
 
 // Primary areas
+
 body {
   font-family: $body-font;
   background-color: $body-background;
 }
+
+// Simple grid container layout
+// with <main>, <header>, and <footer> as direct container children
 
 .container {
   display: flex;
@@ -29,7 +34,7 @@ main {
   background-color: $main-background;
 }
 
-main a {
+main a, footer a {
   text-decoration: none;
   color: $headline-color;
 
@@ -43,47 +48,6 @@ header {
   position: sticky;
   top: 0;
   z-index: 999;
-}
-
-// Page-specific layouts
-
-// Home page - index.html
-.container-home {
-  img {
-    display: block;
-    margin: 25px auto 45px auto;
-  }
-
-  h2 {
-    font-family: $fbt-font;
-    display: block;
-    font-size: 1.2rem;
-    font-weight: normal;
-    padding: 0 0 10px 0;
-    text-transform: uppercase;
-    text-align: center;
-    color: $body-text;
-    letter-spacing: 2px;
-  }
-}
-
-.home-text {
-  display: grid;
-  grid-template-columns: 6fr 4fr;
-  column-gap: 0;
-  max-width: 800px;
-  margin: 0 auto;
-
-  .home-caption {
-    padding-left: 40px;
-    font-size: .8rem;
-    font-style: italic;
-    letter-spacing: 0;
-  }
-
-  p {
-    padding: 20px 0 0 50px;
-  }
 }
 
 .image-single, .image-pair {
@@ -122,23 +86,33 @@ header {
   }
 }
 
-
 // Footer
+
 footer {
   padding: 80px 0 50px 0;
   font-size: .8rem;
   background-color: $main-background;
-}
 
-footer p {
-  font-size: .8rem;
-  color: $footer-text-color;
-  padding: 5px 0;
-  text-align: center;
-  font-style: italic;
+  p {
+    font-size: .8rem;
+    color: $footer-text-color;
+    padding: 5px 0;
+    text-align: center;
+    font-style: italic;
+  }
+
+  a {
+    border-bottom: 2px solid $headline-color;
+
+    &:hover {
+      font-weight: bold;
+    }
+
+  }
 }
 
 // Headings and paragraphs
+
 h1 {
   font-family: $fbt-font;
   font-weight: 400;
@@ -162,7 +136,7 @@ h2 {
 }
 
 h3 {
-  max-width: 800px;
+  max-width: $main-width;
   margin: 20px auto 0 auto;
   font-size: 1rem;
   font-weight: normal;
@@ -182,6 +156,8 @@ p {
   line-height: 1.7;
   letter-spacing: 1px;
 }
+
+// Spans for opening titles of sections and for in-paragraph styling
 
 span.intro {
   font-family: $fbt-font;
@@ -206,6 +182,7 @@ blockquote {
 }
 
 // YouTube embed
+
 .videoWrapper {
     position: relative;
     width: 100%;
