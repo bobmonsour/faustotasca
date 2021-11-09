@@ -1,6 +1,7 @@
 module.exports = {
   env: "production",
   title: "Fausto Bellino Tasca | Home",
+  url: "https://www.faustotasca.com",
   mainNavLinks: [
     { url: "/", text: "Home", class: "nav-item1" },
     { url: "/early-years.html", text: "Early Years", class: "nav-item2" },
