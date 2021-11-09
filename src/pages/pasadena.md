@@ -1,6 +1,6 @@
 ---
 title: Fausto Bellino Tasca | Pasadena
-description: Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew Church in Pasadena, California. For this project he created a patterned design for the ceiling beams of the nave, and decorated the entire narthex, from floor to ceiling. His son, Angelo, applied gold leaf to the altar screen of the main altar.
+description: Fausto Tasca worked with friend and professional colleague, Carlo Wostry, at Saint Andrew Church in Pasadena, California.
 keywords: trompe d’oeil, gold-leaf, angel motif, painted ceiling, ceiling beam, narthex
 ---
 {% from "macros.njk" import imageSingle %}

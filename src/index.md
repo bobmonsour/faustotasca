@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fausto Bellino Tasca | Home
-description: Fausto Tasca received his fine art training at one of the premier art academies in Europe. He achieved success in the US because he married his excellent preparation with hard work and determination.
+description: Fausto Tasca, academically trained at one of Europe’s finest art schools, is a noteworthy but sometimes overlooked artist of early twentieth century California.
 keywords: landscape painting, portraiture, public art, Academy of Fine Arts Venice
 permalink: "/"
 ---

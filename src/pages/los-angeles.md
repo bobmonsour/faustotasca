@@ -1,7 +1,6 @@
 ---
 title: Fausto Bellino Tasca | Los Angeles
-description: Fausto received the important commission to create narrative historical murals for Citizen’s National Bank in Los Angeles. He also painted a mural for Farmers and Merchants Bank. Another important commission was the interior design and execution of paintings for the chapel at Villa Cabrini.
-keywords: Citizen’s National Bank, Farmers & Merchants Bank, Allegory of Industry, Triumph of California, Villa Cabrini, St. Agatha, Drake’s Landing.
+description: Fausto received the important commission to create narrative historical murals for Citizen’s National Bank in Los Angeles.
 ---
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}

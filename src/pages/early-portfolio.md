@@ -1,6 +1,6 @@
 ---
 title: Fausto Bellino Tasca | Early Portfolio
-description: This group of images represents a small portfolio of the drawings, paintings, and sketches which Fausto Tasca completed during his early career. Fausto’s early works show his enormous potential.
+description: This group of images represents a small portfolio of the drawings, paintings, and sketches which Fausto Tasca completed during his early career.
 keywords: en plein air, alla prima, Venice, Palazzo Ducale, graphite drawing, oil painting, watercolor painting
 ---
 {% from "macros.njk" import imageSingle %}
