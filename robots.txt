@@ -1,3 +1,3 @@
-Sitemap: http://www.faustotasca.com/sitemap.xml
+Sitemap: https://www.faustotasca.com/sitemap.xml
 User-agent: *
 Disallow:
