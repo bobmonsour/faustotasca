@@ -1,5 +1,5 @@
 module.exports = {
-  env: "development",
+  env: "production",
   title: "Fausto Bellino Tasca | Home",
   mainNavLinks: [
     { url: "/", text: "Home", class: "nav-item1" },
