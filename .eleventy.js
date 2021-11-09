@@ -4,18 +4,18 @@ module.exports = function(eleventyConfig) {
   });
 
   // Copy the css/images/js/data to their respective _site dirs
-  eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("js");
+  eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("robots.txt");
 
   // Shortcode for the current year
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
-  eleventyConfig.addFilter("debugger", (...args) => {
-    console.log(...args)
-    debugger;
-  });
+  // eleventyConfig.addFilter("debugger", (...args) => {
+  //   console.log(...args)
+  //   debugger;
+  // });
 
   eleventyConfig.addFilter("captionLineBreaks", function(caption) {
     return caption.replace(/, -/g, "<br>");
