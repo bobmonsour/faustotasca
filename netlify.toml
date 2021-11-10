@@ -1,4 +1,0 @@
-[[headers]]
-  for = "/*"
-  [headers.values]
-  Content-Security-Policy = "default-src 'self'; form-action 'self'; style-src fonts.googleapis.com; font-src fonts.gstatic.com; child-src https://youtube.com; frame-ancestors self;"
