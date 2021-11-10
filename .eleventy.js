@@ -3,12 +3,11 @@ module.exports = function(eleventyConfig) {
     files: './_site/css/**/*.css'
   });
 
-  // Copy the css/images/js/data to their respective _site dirs
+  // Copy these dirs and files to their respective _site dirs
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("site.webmanifest");
   eleventyConfig.addPassthroughCopy("_redirects");
 
   // Shortcode for the current year
