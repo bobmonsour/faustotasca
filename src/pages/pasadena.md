@@ -8,7 +8,7 @@ keywords: trompe d’oeil, gold-leaf, angel motif, painted ceiling, ceiling beam
 
 ## Pasadena, California
 
-<span class="intro">Saint Andrew Church </span>Fausto Tasca worked with friend and professional colleague, <a href="https://en.wikipedia.org/wiki/Carlo_Wostry" target="_blank">Carlo Wostry</a>, at Saint Andrew Church in Pasadena, California. According to Fausto’s son, who also worked as an apprentice on this commission, Wostry realized that the Saint Andrew commission was too complex for him to complete within the timeline allowed by the project, so with a gentleman’s handshake, he hired Fausto to undertake specific sections of the church interior.
+<span class="intro">Saint Andrew Church </span>Fausto Tasca worked with friend and professional colleague, <a href="https://en.wikipedia.org/wiki/Carlo_Wostry" target="_blank" rel="noreferrer">Carlo Wostry</a>, at Saint Andrew Church in Pasadena, California. According to Fausto’s son, who also worked as an apprentice on this commission, Wostry realized that the Saint Andrew commission was too complex for him to complete within the timeline allowed by the project, so with a gentleman’s handshake, he hired Fausto to undertake specific sections of the church interior.
 
 {{ imageSingle(
 'AltarScreenbyAGTasca.jpg',
@@ -36,7 +36,7 @@ The lower portion of each wall was painted with <span class="ital">trompe d’oe
 
 Unfortunately, the walls of the foyer were badly damaged in the late 1970s when they were covered with wallpaper. The administration of the church at the time believed the walls were “too dirty” and did not think they could be properly cleaned. Although the walls have been “restored,” the marbled appearance of the painting was lost.
 
-Today, the beauty and historical importance of <a href="https://www.saintandrewpasadena.org/" target="_blank">St. Andrew Church</a> has finally been recognized. The parish now includes a “restoration committee” to maintain this important landmark.
+Today, the beauty and historical importance of <a href="https://www.saintandrewpasadena.org/" target="_blank" rel="noreferrer">St. Andrew Church</a> has finally been recognized. The parish now includes a “restoration committee” to maintain this important landmark.
 
 {{ imagePair(
 'NaveCeiling.jpg',
@@ -55,5 +55,5 @@ An excerpt from the book's description:
 Click on the image below to be directed to the book on Amazon. “Proceeds from the sale of this book will go towards the on-going renovation of St. Andrew Church.”
 
 <div class="image-single">
-  <a href="https://www.amazon.com/Tower-Pasadena-Architecture-Andrew-Church/dp/0983459444" target="_blank"><img src="/images/tower-of-pasadena-book.jpg" alt="Tower of Pasadena, book on Amazon"></a>
+  <a href="https://www.amazon.com/Tower-Pasadena-Architecture-Andrew-Church/dp/0983459444" target="_blank" rel="noreferrer"><img src="/images/tower-of-pasadena-book.jpg" alt="Tower of Pasadena, book on Amazon"></a>
 </div>
