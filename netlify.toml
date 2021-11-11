@@ -1,12 +1,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-  Content-Security-Policy = "default-src 'self';
-  script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com;
-  connect-src 'self' https://www.google-analytics.com;
-  style-src 'self' https://fonts.googleapis.com;
-  form-action 'self';
-  font-src https://fonts.gstatic.com;
-  child-src https://youtube.com;
-  frame-src https://youtube.com;
-  frame-ancestors 'self'"
+  Content-Security-Policy = "default-src 'self'; script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com; style-src 'self' https://fonts.googleapis.com; form-action 'self'; font-src https://fonts.gstatic.com; child-src https://youtube.com; frame-src https://youtube.com; frame-ancestors 'self'"
