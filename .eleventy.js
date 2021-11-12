@@ -10,6 +10,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("_redirects");
+  eleventyConfig.addPassthroughCopy("yandex_16ac9ffcc8cf6f38.html");
 
   // Shortcode for the current year
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
