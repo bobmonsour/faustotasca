@@ -34,9 +34,9 @@ The images that follow are a sample of Fausto Tasca’s early work. Fausto was n
 
 {{ imagePair(
 'graphite-sketch-emperor.jpg',
-'Roman Bust #1, 1904&#8211;1906, -Graphite on paper, -Collection of the Tasca Estate',
+'Roman Emperor Aulus Vitellius, -1904&#8211;1906, -Graphite on paper, -Collection of the Tasca Estate',
 'graphite-sketch.jpg',
-'Roman Bust #2, 1904&#8211;1906, -Graphite on paper, -Collection of the Tasca Estate')
+'Emperor, possibly Augustus Caesar, -1904&#8211;1906, -Graphite on paper, -Collection of the Tasca Estate')
 }}
 
 {{ imageSingle(
