@@ -35,7 +35,7 @@ He called these paintings “oil sketches.” While painting outdoors, he worked
 
 {{ imagePair(
 'CityHall.jpg',
-'City Hall, 1925 to 1930, -Oil on canvas, -Collection of the Tasca Estate',
+'Los Angeles City Hall, after 1928, -Oil on canvas, -Collection of the Tasca Estate',
 'LosAngelesSunset.jpg',
 'Los Angeles Sunset, 1925 to 1930, -Oil on canvas, -Collection of the Tasca Estate')
 }}
