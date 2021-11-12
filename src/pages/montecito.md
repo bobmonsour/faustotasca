@@ -26,7 +26,7 @@ On a very memorable evening, Fausto presented the Mission painting to the King a
 
 {{ imageSingle(
 'Lumachrome.jpg',
-'Goddess of the Moon, Lumachrome by Fausto Tasca, 1919, -Installed painting in the niche above the fireplace, -Archive of the Tasca Estate')
+'Diana, Roman Goddess of the Hunt, Birthing, and the Moon, -Lumachrome by Fausto Tasca, 1919, -Installed painting in the niche above the fireplace, -Archive of the Tasca Estate')
 }}
 
 {{ imageSingle(
