@@ -1,7 +1,8 @@
 // Background colors
 
-$body-background: #e1ddd6;
-$nav-background: #e1ddd6;
+$primary-color: #e1ddd6;
+$body-background: $primary-color;
+$nav-background: lighten($primary-color, 3%);
 $main-background: #e1ddd6;
 
 // Text
@@ -14,6 +15,6 @@ $body-text: black;
 
 // Selected widths
 
-$max-width: 1400px;
+$max-width: 100vw;
 $main-width: 800px;
 $images-width: 700px;
