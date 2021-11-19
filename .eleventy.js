@@ -3,12 +3,14 @@ module.exports = function(eleventyConfig) {
     files: './_site/css/**/*.css'
   });
 
-  // Copy the css/images/js/data to their respective _site dirs
+  // Copy these dirs and files to their respective _site dirs
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("site.webmanifest");
+  eleventyConfig.addPassthroughCopy("_redirects");
+  eleventyConfig.addPassthroughCopy("yandex_16ac9ffcc8cf6f38.html");
 
   // Shortcode for the current year
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);

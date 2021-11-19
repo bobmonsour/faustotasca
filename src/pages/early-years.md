@@ -8,7 +8,7 @@ keywords: Venice, New York, Academy of Fine Arts, Mingus, Santa Barbara
 
 ## Early Years
 
-Fausto Bellino Tasca was the first child of Angelo Tasca (1848&#8211;1939) and Luigia Battagin (1857&#8211;1922). He was born in the family home on June 24, 1885 in the northern Italian village of <a href="https://en.wikipedia.org/wiki/San_Zenone_degli_Ezzelini" target="_blank">San Zenone degli Ezzelini.</a>
+Fausto Bellino Tasca was the first child of Angelo Tasca (1848&#8211;1939) and Luigia Battagin (1857&#8211;1922). He was born in the family home on June 24, 1885 in the northern Italian village of <a href="https://en.wikipedia.org/wiki/San_Zenone_degli_Ezzelini" target="_blank" rel="noreferrer">San Zenone degli Ezzelini.</a>
 
 The Tasca family of San Zenone was far from well-to-do. The patriarch of the family, Angelo, worked with his physical strength and his hands to support the family. The sons were expected to contribute to the family’s resources with their own labors. So it is understandable that, despite his obvious artistic talent, Fausto was not encouraged to pursue his dream of becoming a painter.
 
@@ -28,7 +28,7 @@ Fausto received the honor of Silver and Bronze Medals for his efforts at the art
 'Bronze Medal, School of Design, -Bassano del Grappa, 1902-1903, -Archive of the Tasca Estate')
 }}
 
-At the Academy of Fine Art in Venice, the <a href="https://www.accademiavenezia.it/" target="_blank">Accademia de Belle Arti di Venezia</a>, Fausto again distinguished himself by earning the Second Place Award for entering students, as well as Honorable Mention for his seascapes and landscape paintings.
+At the Academy of Fine Art in Venice, the <a href="https://www.accademiavenezia.it/" target="_blank" rel="noreferrer">Accademia de Belle Arti di Venezia</a>, Fausto again distinguished himself by earning the Second Place Award for entering students, as well as Honorable Mention for his seascapes and landscape paintings.
 
 {{ imagePair(
 'iba-premio-1904-05.jpg',

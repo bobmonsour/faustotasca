@@ -7,14 +7,14 @@ description: Fausto received the important commission to create narrative histor
 
 ## Los Angeles, California
 
-<span class="intro">Citizen's National Trust & Savings </span>In 1920&#8211;1921, Fausto received the important commission to decorate most of the interior of the Citizen’s National Trust and Savings at 736 Hill Street in Los Angeles. Another local artist, <a href="https://collections.lacma.org/node/166797" target="_blank">Hernando Gonzallo Villa</a>, also worked on this project. Villa's contribution was a lovely mural for the west wall of the bank.
+<span class="intro">Citizen's National Trust & Savings </span>In 1920&#8211;1921, Fausto received the important commission to decorate most of the interior of the Citizen’s National Trust and Savings at 736 Hill Street in Los Angeles. Another local artist, <a href="https://collections.lacma.org/node/166797" target="_blank" rel="noreferrer">Hernando Gonzallo Villa</a>, also worked on this project. Villa's contribution was a lovely mural for the west wall of the bank.
 
 {{ imageSingle(
 'KopekInterior.jpg',
 'Citizen\'s National Trust & Savings interior, -Kopek Photography, 1920, -Archive of the Tasca Estate')
 }}
 
-Fausto’s design for the bank interior was based on a history of the west written by O.E. Monnette, <a href="https://www.google.com/books/edition/California_Chronology/gBs1AQAAMAAJ?hl=en&gbpv=1" target="_blank">California Chronology</a>. This commission included a series of thirteen narrative murals and two large ceiling medallions, “Allegory of Industry” and “Triumph of California.”
+Fausto’s design for the bank interior was based on a history of the west written by O.E. Monnette, <a href="https://www.google.com/books/edition/California_Chronology/gBs1AQAAMAAJ?hl=en&gbpv=1" target="_blank" rel="noreferrer">California Chronology</a>. This commission included a series of thirteen narrative murals and two large ceiling medallions, “Allegory of Industry” and “Triumph of California.”
 
 {{ imagePair(
 'Industry_CeilingBW.jpg',
