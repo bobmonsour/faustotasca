@@ -53,4 +53,4 @@ As an established artist in California, Tasca was frequently commissioned to pai
 'Antonio Urbani, 1924-1926, -Oil on canvas, -Collection of Anna Urbani Wilcoxson')
 }}
 
-During the years 1924&#8211;1926, while Fausto was working on the commission to paint Our Lady of the Rosary, he struck up a friendship with the Urbani family. An account of this unique and interesting relationship is described in Anna Urbani Wilcoxson's new book, <a href="https://www.amazon.com/Secrets-Promises-Italian-American-Family/dp/1952112990/" target="_blank" noreferrer><span class="ital">Secrets and Promises, The Story of An Italian American Family</span></a>.
+During the years 1924&#8211;1926, while Fausto was working on the commission to paint Our Lady of the Rosary, he struck up a friendship with the Urbani family. An account of this unique and interesting relationship is described in Anna Urbani Wilcoxson's new book, <a href="https://www.amazon.com/Secrets-Promises-Italian-American-Family/dp/1952112990/" target="_blank" rel="noreferrer"><span class="ital">Secrets and Promises, The Story of An Italian American Family</span></a>.
