@@ -2,6 +2,7 @@
 title: Fausto Bellino Tasca | Los Angeles
 description: Fausto received the important commission to create narrative historical murals for Citizen’s National Bank in Los Angeles.
 ---
+
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
 
@@ -20,7 +21,7 @@ Fausto’s design for the bank interior was based on a history of the west writt
 'Industry_CeilingBW.jpg',
 'Allegory of Industry, 1920, -As installed Citizen\'s National Trust, -Photographer unknown, -Archive of the Tasca Estate',
 'IndustrycroppedColor.jpg',
-'Allegory of Industry, -Photograph Sandra Tasca, 2021, -Collection of the Tasca Estate')
+'Allegory of Industry, -Photograph Sandra Tasca, 2021, -Collection of the Lucas Museum of Narrative Art, Los Angeles')
 }}
 
 {{ imageSingle(
