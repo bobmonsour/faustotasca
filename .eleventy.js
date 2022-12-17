@@ -1,8 +1,4 @@
-module.exports = function(eleventyConfig) {
-  eleventyConfig.setBrowserSyncConfig({
-    files: './_site/css/**/*.css'
-  });
-
+module.exports = function (eleventyConfig) {
   // Copy these dirs and files to their respective _site dirs
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("assets");
@@ -20,7 +16,7 @@ module.exports = function(eleventyConfig) {
   //   debugger;
   // });
 
-  eleventyConfig.addFilter("captionLineBreaks", function(caption) {
+  eleventyConfig.addFilter("captionLineBreaks", function (caption) {
     return caption.replace(/, -/g, "<br>");
   });
 
@@ -31,9 +27,8 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "src",
       output: "_site",
-      includes: "_includes",
       layouts: "_layouts",
-      data: "_data"
-    }
-  }
-}
+      data: "_data",
+    },
+  };
+};

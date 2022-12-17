@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: default.njk
 title: Fausto Bellino Tasca | Home
 description: Fausto Tasca, academically trained at one of Europe’s finest art schools, is a noteworthy but sometimes overlooked artist of early twentieth century California.
 keywords: landscape painting, portraiture, public art, Academy of Fine Arts Venice
 permalink: "/"
 ---
+
 {% from "macros.njk" import imageSingle %}
 
 ## Painter, Designer, Sculptor
@@ -17,7 +18,6 @@ permalink: "/"
 <a href="https://en.wikipedia.org/wiki/Fausto_Bellino_Tasca">Fausto Bellino Tasca</a> is a noteworthy but sometimes overlooked artist of early twentieth century California. Academically trained at one of Europe’s finest art schools, Fausto came to the United States as a young adult seeking a broader horizon and carrying not a little ambition in his heart.
 
 During his art training in Italy, Fausto preferenced the study of <a href="/plein-air.html">landscape painting</a> and <a href="/portraits.html">portraiture</a>. These studies served him well, as he was frequently commissioned to paint historical or religious narratives. The commissions drew on his knowledge of landscape painting, as the scenes depicted were intended to call to mind specific regions or locations. His commissioned work likewise called upon his skills as a portraitist, as many of his narrative murals contained specific historical characters. Much of Fausto’s work embellished public spaces — <a href="/los-angeles.html">banks</a>, <a href="/los-angeles.html#redondo-library">libraries</a>, and <a href="/san-diego.html">churches</a>. The projects gave rise to important artistic growth, and occasioned more than a few ingenious inventions.
-
 
 According to his son, Fausto preferred working in watercolor above all other mediums. Unfortunately, not one commissioned watercolor painting survives today. Although Fausto frequently painted in this medium, these works were often preparatory sketches or concept drawings. The Tasca Family Archive holds several of these lovely watercolors.
 
