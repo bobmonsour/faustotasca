@@ -21,6 +21,11 @@ The construction of the church began on August 17, 1923 and most of the work was
 Fausto Tasca won the commission to decorate the entire interior of the church. His plan was ambitious. It included two huge murals, several ceiling medallions, and grisailles of cherubs and angels.
 
 {{ imageSingle(
+'AltarCeiling.jpg',
+'Main altar showing ceiling medallions')
+}}
+
+{{ imageSingle(
 'Resurrection.jpg',
 'Ceiling Medallion, -The Resurrection, -First Joyful Mystery')
 }}
