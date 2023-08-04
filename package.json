@@ -14,10 +14,8 @@
   "author": "Bob Monsour",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.20",
-    "sass": "^1.51.0"
-  },
-  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "sass": "^1.51.0",
     "rimraf": "^3.0.2"
   }
 }

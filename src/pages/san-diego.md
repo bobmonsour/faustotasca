@@ -3,6 +3,7 @@ title: Fausto Bellino Tasca | San Diego
 description: Fausto Tasca’s important commission for the design and decorative painting for the interior of Our Lady of the Rosary Church in San Diego, California, was completed in about 2 years. Part of this commission included the design and execution of 13 stained glass windows.
 keywords: Our Lady of the Rosary, Church of the Fishermen, Father Rabagliati, stained glass, Last Judgement, Crucifixion, mural
 ---
+
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
 
@@ -10,7 +11,6 @@ keywords: Our Lady of the Rosary, Church of the Fishermen, Father Rabagliati, st
 
 <span class="intro">Our Lady of the Rosary Catholic Church</span>
 The parish church located near the corner of State and Date Streets in San Diego’s Little Italy is affectionately known as The Church of the Fishermen. The church was the vision of Father Rabagliati. As an immigrant, he understood that the Italian fishermen of his parish wanted to have a beautiful church that would remind them of their beloved homeland. Father Rabagliati worked with the Italians of his community and with the diocese to bring this dream to life. The community rallied together and collected enough money to build and decorate their church.
-
 {{ imageSingle(
 'FitchPhotoOLR.jpg',
 'Interior photograph, 1925, -Fitch Photography of San Diego')
@@ -18,14 +18,44 @@ The parish church located near the corner of State and Date Streets in San Diego
 
 The construction of the church began on August 17, 1923 and most of the work was completed in time for the church to be blessed on Christmas Eve 1923.
 
-Fausto Tasca won the commission to decorate the entire interior of the church. His plan was ambitious. It included two huge murals, several ceiling medallions, and grisailles of cherubs and angels. It also included the design and execution of all the stained glass windows in the church. To honor Father Rabagliati, Fausto Tasca included a portrait of him, together with a miniature of <a href="https://www.olrsd.org/" target="_blank" rel="noreferrer">Our Lady of the Rosary</a>, in the Last Judgement mural installed on the rear wall of the Church. In spite of the enormous amount of work needed to complete the decoration of the church, Fausto completed all the work in time for the church dedication on November 15, 1925 — in under two years.
+Fausto Tasca won the commission to decorate the entire interior of the church. His plan was ambitious. It included two huge murals, several ceiling medallions, and grisailles of cherubs and angels.
 
+{{ imageSingle(
+'Resurrection.jpg',
+'Ceiling Medallion, -The Resurrection, -First Joyful Mystery')
+}}
+
+{{ imageSingle(
+'CrowningMary.jpg',
+'Ceiling Medallion, -Crowning of Our Lady Queen of Heaven, -Fifth Glorious Mystery')
+}}
+
+{{ imageSingle(
+'Nativity.jpg',
+'Ceiling Medallion, -Nativity')
+}}
+
+{{ imageSingle(
+'Presentation.jpg',
+'Ceiling Medallion, -Presentation of Jesus in the Temple, -Fourth Joyful Mystery')
+}}
+
+{{ imageSingle(
+'Ascension.jpg',
+'Ceiling Medallion, -The Ascension, -Second Glorious Mystery')
+}}
+
+It also included the design and execution of all the stained glass windows in the church. To honor Father Rabagliati, Fausto Tasca included a portrait of him, together with a miniature of <a href="https://www.olrsd.org/" target="_blank" rel="noreferrer">Our Lady of the Rosary</a>, in the Last Judgement mural installed on the rear wall of the Church. In spite of the enormous amount of work needed to complete the decoration of the church, Fausto completed all the work in time for the church dedication on November 15, 1925 — in under two years.
+
+{{ imageSingle(
+'JudgementinStudio.jpg',
+"Complete mural of the Judgement in the artist's studio")
+}}
 
 {{ imageSingle(
 'NewsFullPage.jpg',
 'Los Angeles Sunday Times, -Archive of the Tasca Estae')
 }}
-
 
 {{ imageSingle(
 'OLRDedicationMass.jpg',

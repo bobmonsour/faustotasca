@@ -3,12 +3,18 @@ title: Fausto Bellino Tasca | Early Years
 description: Fausto Bellino Tasca was the first child of Angelo Tasca & Luigia Battagin. He was born on June 24, 1885 in the Italian village of San Zenone degli Ezzelini.
 keywords: Venice, New York, Academy of Fine Arts, Mingus, Santa Barbara
 ---
+
 {% from "macros.njk" import imageSingle %}
 {% from "macros.njk" import imagePair %}
 
 ## Early Years
 
 Fausto Bellino Tasca was the first child of Angelo Tasca (1848&#8211;1939) and Luigia Battagin (1857&#8211;1922). He was born in the family home on June 24, 1885 in the northern Italian village of <a href="https://en.wikipedia.org/wiki/San_Zenone_degli_Ezzelini" target="_blank" rel="noreferrer">San Zenone degli Ezzelini.</a>
+
+{{ imageSingle(
+'ColleCastellaro1920.jpg',
+"Colle Castellaro, ca 1920, -View towards the ruins of the Ezzelini fortress, -and the Santuario della Madonna del Monte")
+}}
 
 The Tasca family of San Zenone was far from well-to-do. The patriarch of the family, Angelo, worked with his physical strength and his hands to support the family. The sons were expected to contribute to the family’s resources with their own labors. So it is understandable that, despite his obvious artistic talent, Fausto was not encouraged to pursue his dream of becoming a painter.
 
