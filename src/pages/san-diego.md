@@ -67,6 +67,11 @@ It also included the design and execution of all the stained glass windows in th
 'Article from The Southern Cross, January 8, 1926, -Archive of the Tasca Estae')
 }}
 
+{{ imageSingle(
+'Dedication.jpg',
+'Dedication newspaper clipping, -Newspaper unknown')
+}}
+
 {{ imagePair(
 'watercolor-concept-window.jpg',
 'Stained glass window design, -Watercolor on paper',
