@@ -27,22 +27,22 @@ Fausto Tasca won the commission to decorate the entire interior of the church. H
 
 {{ imageSingle(
 'Resurrection.jpg',
-'Ceiling Medallion, -The Resurrection, -First Joyful Mystery')
+'Ceiling Medallion, -The Resurrection, -First Glorious Mystery')
 }}
 
 {{ imageSingle(
 'CrowningMary.jpg',
-'Ceiling Medallion, -Crowning of Our Lady Queen of Heaven, -Fifth Glorious Mystery')
+'Ceiling Medallion, -The Crowning of Our Lady Queen of Heaven, -Fifth Glorious Mystery')
 }}
 
 {{ imageSingle(
 'Nativity.jpg',
-'Ceiling Medallion, -Nativity')
+'Ceiling Medallion, -The Birth of Our Lord, -Third Joyful Mystery')
 }}
 
 {{ imageSingle(
 'Presentation.jpg',
-'Ceiling Medallion, -Presentation of Jesus in the Temple, -Fourth Joyful Mystery')
+'Ceiling Medallion, -The Presentation in the Temple, -Fourth Joyful Mystery')
 }}
 
 {{ imageSingle(
