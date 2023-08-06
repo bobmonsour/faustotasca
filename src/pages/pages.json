@@ -1,5 +1,4 @@
 {
   "layout": "default.njk",
-  "permalink": "{{ page.fileSlug }}.html",
-  "__comment__": "The 2 items above are added to the front matter of all of the pages in the src/pages directory; per 11ty rules."
+  "permalink": "/{{ page.fileSlug }}/"
 }

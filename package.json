@@ -8,14 +8,18 @@
     "watch:sass": "npx sass sass:_site/css --watch",
     "start": "npm run watch:eleventy & npm run watch:sass",
     "build": "sass sass:_site/css && eleventy",
-    "clean": "rimraf ./_site"
+    "clean": "rimraf ./_site",
+    "links": "npx check-html-links _site"
   },
   "keywords": [],
   "author": "Bob Monsour",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "sass": "^1.51.0",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "sass": "^1.51.0"
+  },
+  "dependencies": {
+    "check-html-links": "^0.2.4"
   }
 }
