@@ -1,6 +1,7 @@
 /* Main Navigation */
 
-#checkbox-toggle, #btn-menu {
+#checkbox-toggle,
+#btn-menu {
   display: none;
 }
 
@@ -22,27 +23,35 @@ nav {
     list-style: none;
   }
 
-  .nav-item1 { grid-column-start: 2 ;}
-  .nav-item4 { grid-column-start: 1;}
-  .nav-item9 { grid-column-start: 2;}
-  .nav-item12 { grid-column-start: 3;}
+  .nav-item1 {
+    grid-column-start: 2;
+  }
+  .nav-item4 {
+    grid-column-start: 1;
+  }
+  .nav-item9 {
+    grid-column-start: 2;
+  }
+  .nav-item12 {
+    grid-column-start: 3;
+  }
 
   a {
-  display: inline-block;
-  margin: 0;
-  padding: 5px;
-  font-size: .9rem;
-  font-weight: 300;
-  letter-spacing: 2px;
-  text-decoration: none;
-  color: $body-text;
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    font-size: 0.9rem;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: $body-text;
 
-    &:hover, &:active {
+    &:hover,
+    &:active {
       color: $headline-color;
       font-weight: bold;
     }
-
-    &.current {
+    &[aria-current="page"] {
       color: $headline-color;
       font-weight: bold;
     }

@@ -9,7 +9,8 @@
     "start": "npm run watch:eleventy & npm run watch:sass",
     "build": "sass sass:_site/css && eleventy",
     "clean": "rimraf ./_site",
-    "links": "npx check-html-links _site"
+    "links": "npx check-html-links _site",
+    "rs": "npm run clean && npm run start"
   },
   "keywords": [],
   "author": "Bob Monsour",
