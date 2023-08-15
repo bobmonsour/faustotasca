@@ -41,6 +41,16 @@ All the paintings for this commission were created on canvas and attached to the
 'Spanish Settlers, 1920, -As installed at Citizen\'s National Trust, -Photographer unknown, -Archive of the Tasca Estate')
 }}
 
+{{ imageSingle(
+'Scout.jpg',
+'Scout, 1920, -As installed at Citizen\'s National Trust, -Archive of the Tasca Estate')
+}}
+
+{{ imageSingle(
+'SpanishManHorse.jpg',
+'Man, Horse, Dancer, 1920, -As installed at Citizen\'s National Trust, -Archive of the Tasca Estate')
+}}
+
 In the mid-1970’s this extraordinary bank was demolished to make way for a parking lot. By chance, an art lover knew of Fausto’s method of applying his painting to the walls, stepped in to rescue the paintings. All the works were kept in storage until 2018, when a descendent of the developer who razed the bank contacted the painter’s granddaughter. The two families negotiated, and the paintings were recovered by the Tasca family. The Tasca family is now negotiating with museums in California to restore and display these beautiful works.
 
 <span class="intro">Farmers and Merchants Bank </span>Although the Redondo Beach branch of the Farmers and Merchants Bank still stands at the location indicated by 1915 photographs, the bank building no longer exists. Photographs of the current Farmers and Merchants Bank located at 1333 Pacific Coast Highway is slick and modern, and gives no indication of the bank’s origins or history. Sadly, the mural by Fausto Tasca has also disappeared.
