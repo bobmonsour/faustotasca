@@ -15,6 +15,11 @@ description: Fausto received the important commission to create narrative histor
 'Citizen\'s National Trust & Savings interior, -Kopek Photography, 1920, -Archive of the Tasca Estate')
 }}
 
+{{ imageSingle(
+'BankInterior.jpg',
+'Citizen\'s National Trust & Savings interior, -Photographer unknown, -Archive of the Tasca Estate')
+}}
+
 Fausto’s design for the bank interior was based on a history of the west written by O.E. Monnette, <a href="https://www.google.com/books/edition/California_Chronology/gBs1AQAAMAAJ?hl=en&gbpv=1" target="_blank" rel="noreferrer">California Chronology</a>. This commission included a series of thirteen narrative murals and two large ceiling medallions, “Allegory of Industry” and “Triumph of California.”
 
 {{ imagePair(
@@ -49,6 +54,11 @@ All the paintings for this commission were created on canvas and attached to the
 {{ imageSingle(
 'SpanishManHorse.jpg',
 'Man, Horse, Dancer, 1920, -As installed at Citizen\'s National Trust, -Archive of the Tasca Estate')
+}}
+
+{{ imageSingle(
+'CowPokesmall.jpg',
+'Cattle Driver, 1920, -As installed at Citizen\'s National Trust, -Archive of the Tasca Estate')
 }}
 
 In the mid-1970’s this extraordinary bank was demolished to make way for a parking lot. By chance, an art lover knew of Fausto’s method of applying his painting to the walls, stepped in to rescue the paintings. All the works were kept in storage until 2018, when a descendent of the developer who razed the bank contacted the painter’s granddaughter. The two families negotiated, and the paintings were recovered by the Tasca family. The Tasca family is now negotiating with museums in California to restore and display these beautiful works.
